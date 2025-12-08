@@ -1,0 +1,3 @@
+openai-whisper>=20231117
+whisper-timestamped>=1.14.0
+torch>=2.0.0

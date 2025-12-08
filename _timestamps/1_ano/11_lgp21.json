@@ -1,0 +1,379 @@
+{
+  "audio_file": "11_lgp21.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "REGRAS",
+      "start": 0.14,
+      "end": 0.52
+    },
+    {
+      "word": "DE",
+      "start": 0.52,
+      "end": 0.68
+    },
+    {
+      "word": "CONVIVÊNCIA",
+      "start": 0.68,
+      "end": 1.26
+    },
+    {
+      "word": "DA",
+      "start": 1.26,
+      "end": 1.42
+    },
+    {
+      "word": "TURMA.",
+      "start": 1.42,
+      "end": 1.88
+    },
+    {
+      "word": "RESPEITAR",
+      "start": 2.18,
+      "end": 2.68
+    },
+    {
+      "word": "TODOS",
+      "start": 2.68,
+      "end": 3.0
+    },
+    {
+      "word": "OS",
+      "start": 3.0,
+      "end": 3.2
+    },
+    {
+      "word": "COLEGAS",
+      "start": 3.2,
+      "end": 3.8
+    },
+    {
+      "word": "PROFESSORES",
+      "start": 3.8,
+      "end": 4.46
+    },
+    {
+      "word": "E",
+      "start": 4.46,
+      "end": 4.62
+    },
+    {
+      "word": "FUNCIONÁRIOS",
+      "start": 4.62,
+      "end": 5.2
+    },
+    {
+      "word": "DA",
+      "start": 5.2,
+      "end": 5.4
+    },
+    {
+      "word": "ESCOLA.",
+      "start": 5.4,
+      "end": 5.82
+    },
+    {
+      "word": "USAR",
+      "start": 6.18,
+      "end": 6.54
+    },
+    {
+      "word": "PALAVRAS",
+      "start": 6.54,
+      "end": 6.86
+    },
+    {
+      "word": "DE",
+      "start": 6.86,
+      "end": 7.18
+    },
+    {
+      "word": "RESPEITO.",
+      "start": 7.18,
+      "end": 7.76
+    },
+    {
+      "word": "POR",
+      "start": 8.0,
+      "end": 8.12
+    },
+    {
+      "word": "FAVOR,",
+      "start": 8.12,
+      "end": 8.48
+    },
+    {
+      "word": "COM",
+      "start": 8.74,
+      "end": 8.82
+    },
+    {
+      "word": "LICENÇA,",
+      "start": 8.82,
+      "end": 9.4
+    },
+    {
+      "word": "DESCULPE",
+      "start": 9.58,
+      "end": 10.02
+    },
+    {
+      "word": "E",
+      "start": 10.02,
+      "end": 10.14
+    },
+    {
+      "word": "OBRIGADO.",
+      "start": 10.14,
+      "end": 10.52
+    },
+    {
+      "word": "CUIDAR",
+      "start": 11.02,
+      "end": 11.4
+    },
+    {
+      "word": "DE",
+      "start": 11.4,
+      "end": 11.6
+    },
+    {
+      "word": "SEU",
+      "start": 11.6,
+      "end": 11.76
+    },
+    {
+      "word": "MATERIAL.",
+      "start": 11.76,
+      "end": 12.28
+    },
+    {
+      "word": "NÃO",
+      "start": 12.68,
+      "end": 12.84
+    },
+    {
+      "word": "PEGAR",
+      "start": 12.84,
+      "end": 13.16
+    },
+    {
+      "word": "O",
+      "start": 13.16,
+      "end": 13.36
+    },
+    {
+      "word": "QUE",
+      "start": 13.36,
+      "end": 13.48
+    },
+    {
+      "word": "NÃO",
+      "start": 13.48,
+      "end": 13.6
+    },
+    {
+      "word": "É",
+      "start": 13.6,
+      "end": 13.78
+    },
+    {
+      "word": "SEU",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "word": "SEM",
+      "start": 13.96,
+      "end": 14.16
+    },
+    {
+      "word": "PEDIR.",
+      "start": 14.16,
+      "end": 14.51
+    },
+    {
+      "word": "LEVANTAR",
+      "start": 14.51,
+      "end": 15.36
+    },
+    {
+      "word": "A",
+      "start": 15.36,
+      "end": 15.48
+    },
+    {
+      "word": "MÃO",
+      "start": 15.48,
+      "end": 15.66
+    },
+    {
+      "word": "PARA",
+      "start": 15.66,
+      "end": 15.9
+    },
+    {
+      "word": "FALAR",
+      "start": 15.9,
+      "end": 16.2
+    },
+    {
+      "word": "E",
+      "start": 16.2,
+      "end": 16.44
+    },
+    {
+      "word": "SABER",
+      "start": 16.44,
+      "end": 16.64
+    },
+    {
+      "word": "ESPERAR",
+      "start": 16.64,
+      "end": 17.06
+    },
+    {
+      "word": "SUA",
+      "start": 17.06,
+      "end": 17.34
+    },
+    {
+      "word": "VEZ.",
+      "start": 17.34,
+      "end": 17.68
+    },
+    {
+      "word": "OVRIR",
+      "start": 18.1,
+      "end": 18.44
+    },
+    {
+      "word": "A",
+      "start": 18.44,
+      "end": 18.54
+    },
+    {
+      "word": "PROFESSORA",
+      "start": 18.54,
+      "end": 19.08
+    },
+    {
+      "word": "E",
+      "start": 19.08,
+      "end": 19.22
+    },
+    {
+      "word": "OS",
+      "start": 19.22,
+      "end": 19.32
+    },
+    {
+      "word": "COLEGAS",
+      "start": 19.32,
+      "end": 19.84
+    },
+    {
+      "word": "COM",
+      "start": 19.84,
+      "end": 20.0
+    },
+    {
+      "word": "ATENÇÃO",
+      "start": 20.0,
+      "end": 20.32
+    },
+    {
+      "word": "E",
+      "start": 20.32,
+      "end": 20.6
+    },
+    {
+      "word": "RESPEITO.",
+      "start": 20.6,
+      "end": 21.18
+    },
+    {
+      "word": "M",
+      "start": 21.48,
+      "end": 21.58
+    },
+    {
+      "word": "MANTER",
+      "start": 21.58,
+      "end": 21.82
+    },
+    {
+      "word": "A",
+      "start": 21.82,
+      "end": 21.96
+    },
+    {
+      "word": "SALA",
+      "start": 21.96,
+      "end": 22.2
+    },
+    {
+      "word": "DE",
+      "start": 22.2,
+      "end": 22.4
+    },
+    {
+      "word": "AULAS",
+      "start": 22.4,
+      "end": 22.72
+    },
+    {
+      "word": "SEMPRE",
+      "start": 22.72,
+      "end": 23.08
+    },
+    {
+      "word": "ORGANIZADA",
+      "start": 23.08,
+      "end": 23.78
+    },
+    {
+      "word": "E",
+      "start": 23.78,
+      "end": 23.94
+    },
+    {
+      "word": "LIMPA.",
+      "start": 23.94,
+      "end": 24.34
+    },
+    {
+      "word": "AJUDAR",
+      "start": 24.62,
+      "end": 25.04
+    },
+    {
+      "word": "OS",
+      "start": 25.04,
+      "end": 25.2
+    },
+    {
+      "word": "COLEGAS",
+      "start": 25.2,
+      "end": 25.74
+    },
+    {
+      "word": "QUANDO",
+      "start": 25.74,
+      "end": 25.96
+    },
+    {
+      "word": "FOR",
+      "start": 25.96,
+      "end": 26.16
+    },
+    {
+      "word": "POSSÍVEL.",
+      "start": 26.16,
+      "end": 26.72
+    }
+  ],
+  "full_text": "REGRAS DE CONVIVÊNCIA DA TURMA. RESPEITAR TODOS OS COLEGAS PROFESSORES E FUNCIONÁRIOS DA ESCOLA. USAR PALAVRAS DE RESPEITO. POR FAVOR, COM LICENÇA, DESCULPE E OBRIGADO. CUIDAR DE SEU MATERIAL. NÃO PEGAR O QUE NÃO É SEU SEM PEDIR. LEVANTAR A MÃO PARA FALAR E SABER ESPERAR SUA VEZ. OVRIR A PROFESSORA E OS COLEGAS COM ATENÇÃO E RESPEITO. M MANTER A SALA DE AULAS SEMPRE ORGANIZADA E LIMPA. AJUDAR OS COLEGAS QUANDO FOR POSSÍVEL."
+}
