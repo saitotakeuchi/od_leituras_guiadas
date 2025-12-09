@@ -1,0 +1,199 @@
+{
+  "audio_file": "11_lgp51.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "DE",
+      "start": 0.14,
+      "end": 0.28
+    },
+    {
+      "word": "ONDE",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "VEIO",
+      "start": 0.5,
+      "end": 0.78
+    },
+    {
+      "word": "O",
+      "start": 0.78,
+      "end": 0.94
+    },
+    {
+      "word": "PAPEL?",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": "SIM,",
+      "start": 1.74,
+      "end": 1.92
+    },
+    {
+      "word": "FOI",
+      "start": 2.08,
+      "end": 2.18
+    },
+    {
+      "word": "NA",
+      "start": 2.18,
+      "end": 2.34
+    },
+    {
+      "word": "CHINA",
+      "start": 2.34,
+      "end": 2.62
+    },
+    {
+      "word": "QUE",
+      "start": 2.62,
+      "end": 2.82
+    },
+    {
+      "word": "SURGIU",
+      "start": 2.82,
+      "end": 3.2
+    },
+    {
+      "word": "O",
+      "start": 3.2,
+      "end": 3.3
+    },
+    {
+      "word": "PAPEL.",
+      "start": 3.3,
+      "end": 3.66
+    },
+    {
+      "word": "É",
+      "start": 4.0,
+      "end": 4.12
+    },
+    {
+      "word": "QUASE",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "word": "CERTO",
+      "start": 4.42,
+      "end": 4.78
+    },
+    {
+      "word": "QUE",
+      "start": 4.78,
+      "end": 5.0
+    },
+    {
+      "word": "SEU",
+      "start": 5.0,
+      "end": 5.2
+    },
+    {
+      "word": "INVENTOR",
+      "start": 5.2,
+      "end": 5.64
+    },
+    {
+      "word": "TENHA",
+      "start": 5.64,
+      "end": 5.96
+    },
+    {
+      "word": "SIDO",
+      "start": 5.96,
+      "end": 6.26
+    },
+    {
+      "word": "UM",
+      "start": 6.26,
+      "end": 6.4
+    },
+    {
+      "word": "CHINEI",
+      "start": 6.4,
+      "end": 6.74
+    },
+    {
+      "word": "CHAMADO",
+      "start": 6.74,
+      "end": 7.02
+    },
+    {
+      "word": "CAILU,",
+      "start": 7.02,
+      "end": 7.64
+    },
+    {
+      "word": "QUE",
+      "start": 7.86,
+      "end": 8.0
+    },
+    {
+      "word": "FOI",
+      "start": 8.0,
+      "end": 8.18
+    },
+    {
+      "word": "ENCARREGADO",
+      "start": 8.18,
+      "end": 8.82
+    },
+    {
+      "word": "PELO",
+      "start": 8.82,
+      "end": 9.02
+    },
+    {
+      "word": "IMPERADOR",
+      "start": 9.02,
+      "end": 9.58
+    },
+    {
+      "word": "DE",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "word": "DESENVOLVER",
+      "start": 9.8,
+      "end": 10.44
+    },
+    {
+      "word": "E",
+      "start": 10.44,
+      "end": 10.6
+    },
+    {
+      "word": "TESTAR",
+      "start": 10.6,
+      "end": 10.96
+    },
+    {
+      "word": "VÁRIAS",
+      "start": 10.96,
+      "end": 11.3
+    },
+    {
+      "word": "TECNOLOGIAS",
+      "start": 11.3,
+      "end": 12.16
+    },
+    {
+      "word": "E",
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "word": "EQUIPAMENTOS.",
+      "start": 12.32,
+      "end": 12.96
+    }
+  ],
+  "full_text": "DE ONDE VEIO O PAPEL? SIM, FOI NA CHINA QUE SURGIU O PAPEL. É QUASE CERTO QUE SEU INVENTOR TENHA SIDO UM CHINEI CHAMADO CAILU, QUE FOI ENCARREGADO PELO IMPERADOR DE DESENVOLVER E TESTAR VÁRIAS TECNOLOGIAS E EQUIPAMENTOS."
+}

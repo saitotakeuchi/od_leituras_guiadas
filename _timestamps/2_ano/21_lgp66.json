@@ -1,0 +1,994 @@
+{
+  "audio_file": "21_lgp66.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "EM",
+      "start": 0.08,
+      "end": 0.2
+    },
+    {
+      "word": "ENTREVISTA",
+      "start": 0.2,
+      "end": 0.8
+    },
+    {
+      "word": "MAURÍCIO",
+      "start": 0.8,
+      "end": 1.3
+    },
+    {
+      "word": "DE",
+      "start": 1.3,
+      "end": 1.48
+    },
+    {
+      "word": "SOUSA",
+      "start": 1.48,
+      "end": 1.84
+    },
+    {
+      "word": "A",
+      "start": 1.84,
+      "end": 1.98
+    },
+    {
+      "word": "SOCIA",
+      "start": 1.98,
+      "end": 2.32
+    },
+    {
+      "word": "OBRA",
+      "start": 2.32,
+      "end": 2.72
+    },
+    {
+      "word": "AMIZADE",
+      "start": 2.72,
+      "end": 3.34
+    },
+    {
+      "word": "E",
+      "start": 3.34,
+      "end": 3.54
+    },
+    {
+      "word": "A",
+      "start": 3.54,
+      "end": 3.62
+    },
+    {
+      "word": "INGENUIDADE.",
+      "start": 3.62,
+      "end": 4.32
+    },
+    {
+      "word": "AO",
+      "start": 4.72,
+      "end": 4.88
+    },
+    {
+      "word": "83",
+      "start": 4.88,
+      "end": 5.32
+    },
+    {
+      "word": "ANOS",
+      "start": 5.32,
+      "end": 5.98
+    },
+    {
+      "word": "E",
+      "start": 5.98,
+      "end": 6.3
+    },
+    {
+      "word": "A",
+      "start": 6.3,
+      "end": 6.4
+    },
+    {
+      "word": "FRENTE",
+      "start": 6.4,
+      "end": 6.68
+    },
+    {
+      "word": "DE",
+      "start": 6.68,
+      "end": 6.9
+    },
+    {
+      "word": "EMPRESA",
+      "start": 6.9,
+      "end": 7.2
+    },
+    {
+      "word": "QUE",
+      "start": 7.2,
+      "end": 7.46
+    },
+    {
+      "word": "COMPLETA",
+      "start": 7.46,
+      "end": 7.82
+    },
+    {
+      "word": "60",
+      "start": 7.82,
+      "end": 8.34
+    },
+    {
+      "word": "ANOS,",
+      "start": 8.34,
+      "end": 8.82
+    },
+    {
+      "word": "MAURÍCIO",
+      "start": 9.16,
+      "end": 9.54
+    },
+    {
+      "word": "DE",
+      "start": 9.54,
+      "end": 9.68
+    },
+    {
+      "word": "SOUSA",
+      "start": 9.68,
+      "end": 10.06
+    },
+    {
+      "word": "SOB",
+      "start": 10.06,
+      "end": 10.28
+    },
+    {
+      "word": "ESTUDAR,",
+      "start": 10.28,
+      "end": 10.84
+    },
+    {
+      "word": "ESQUEMATIZAR",
+      "start": 10.98,
+      "end": 11.67
+    },
+    {
+      "word": "UM",
+      "start": 11.67,
+      "end": 11.84
+    },
+    {
+      "word": "PROCESSO",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "word": "DE",
+      "start": 12.16,
+      "end": 12.42
+    },
+    {
+      "word": "PRODUÇÃO",
+      "start": 12.42,
+      "end": 12.86
+    },
+    {
+      "word": "E",
+      "start": 12.86,
+      "end": 13.22
+    },
+    {
+      "word": "AO",
+      "start": 13.22,
+      "end": 13.32
+    },
+    {
+      "word": "MESMO",
+      "start": 13.32,
+      "end": 13.58
+    },
+    {
+      "word": "TEMPO,",
+      "start": 13.58,
+      "end": 14.1
+    },
+    {
+      "word": "ENTENDER",
+      "start": 14.36,
+      "end": 14.72
+    },
+    {
+      "word": "COMO",
+      "start": 14.72,
+      "end": 15.06
+    },
+    {
+      "word": "CONTA,",
+      "start": 15.06,
+      "end": 15.58
+    },
+    {
+      "word": "O",
+      "start": 15.8,
+      "end": 15.9
+    },
+    {
+      "word": "QUE",
+      "start": 15.9,
+      "end": 16.0
+    },
+    {
+      "word": "PEGA",
+      "start": 16.0,
+      "end": 16.24
+    },
+    {
+      "word": "O",
+      "start": 16.24,
+      "end": 16.42
+    },
+    {
+      "word": "LEITOR",
+      "start": 16.42,
+      "end": 16.68
+    },
+    {
+      "word": "NO",
+      "start": 16.68,
+      "end": 16.86
+    },
+    {
+      "word": "CORAÇÃO",
+      "start": 16.86,
+      "end": 17.28
+    },
+    {
+      "word": "NA",
+      "start": 17.36,
+      "end": 17.58
+    },
+    {
+      "word": "MENTE",
+      "start": 17.58,
+      "end": 17.82
+    },
+    {
+      "word": "NAS",
+      "start": 17.82,
+      "end": 18.08
+    },
+    {
+      "word": "SENSAÇÕES",
+      "start": 18.08,
+      "end": 18.68
+    },
+    {
+      "word": "E",
+      "start": 18.68,
+      "end": 18.9
+    },
+    {
+      "word": "ATÉ",
+      "start": 18.9,
+      "end": 19.12
+    },
+    {
+      "word": "NAS",
+      "start": 19.12,
+      "end": 19.28
+    },
+    {
+      "word": "SAUDADES.",
+      "start": 19.28,
+      "end": 19.9
+    },
+    {
+      "word": "QUE",
+      "start": 20.24,
+      "end": 20.4
+    },
+    {
+      "word": "TIPO",
+      "start": 20.4,
+      "end": 20.66
+    },
+    {
+      "word": "DE",
+      "start": 20.66,
+      "end": 20.84
+    },
+    {
+      "word": "CINEMA",
+      "start": 20.84,
+      "end": 21.18
+    },
+    {
+      "word": "CHAMA",
+      "start": 21.18,
+      "end": 21.58
+    },
+    {
+      "word": "SUA",
+      "start": 21.58,
+      "end": 21.88
+    },
+    {
+      "word": "ATENÇÃO?",
+      "start": 21.88,
+      "end": 22.3
+    },
+    {
+      "word": "O",
+      "start": 22.76,
+      "end": 22.9
+    },
+    {
+      "word": "QUE",
+      "start": 22.9,
+      "end": 22.98
+    },
+    {
+      "word": "ME",
+      "start": 22.98,
+      "end": 23.1
+    },
+    {
+      "word": "PRENDE",
+      "start": 23.1,
+      "end": 23.48
+    },
+    {
+      "word": "AO",
+      "start": 23.48,
+      "end": 23.56
+    },
+    {
+      "word": "FILME",
+      "start": 23.56,
+      "end": 23.9
+    },
+    {
+      "word": "QUANDO",
+      "start": 23.9,
+      "end": 24.22
+    },
+    {
+      "word": "EU",
+      "start": 24.22,
+      "end": 24.36
+    },
+    {
+      "word": "VOU",
+      "start": 24.36,
+      "end": 24.48
+    },
+    {
+      "word": "AO",
+      "start": 24.48,
+      "end": 24.64
+    },
+    {
+      "word": "CINEMA",
+      "start": 24.64,
+      "end": 24.92
+    },
+    {
+      "word": "É",
+      "start": 24.92,
+      "end": 25.26
+    },
+    {
+      "word": "O",
+      "start": 25.26,
+      "end": 25.36
+    },
+    {
+      "word": "ROTEIRO.",
+      "start": 25.36,
+      "end": 25.82
+    },
+    {
+      "word": "ALIÁS,",
+      "start": 26.06,
+      "end": 26.58
+    },
+    {
+      "word": "É",
+      "start": 26.74,
+      "end": 26.82
+    },
+    {
+      "word": "O",
+      "start": 26.82,
+      "end": 26.92
+    },
+    {
+      "word": "MAIS",
+      "start": 26.92,
+      "end": 27.08
+    },
+    {
+      "word": "IMPORTANTE",
+      "start": 27.08,
+      "end": 27.58
+    },
+    {
+      "word": "TAMBÉM",
+      "start": 27.58,
+      "end": 28.04
+    },
+    {
+      "word": "NA",
+      "start": 28.04,
+      "end": 28.2
+    },
+    {
+      "word": "HISTÓRIA",
+      "start": 28.2,
+      "end": 28.5
+    },
+    {
+      "word": "EM",
+      "start": 28.5,
+      "end": 28.7
+    },
+    {
+      "word": "QUADRINHO.",
+      "start": 28.7,
+      "end": 29.22
+    },
+    {
+      "word": "ENTÃO",
+      "start": 29.7,
+      "end": 29.84
+    },
+    {
+      "word": "EU",
+      "start": 29.84,
+      "end": 30.06
+    },
+    {
+      "word": "VEJO",
+      "start": 30.06,
+      "end": 30.36
+    },
+    {
+      "word": "FILME",
+      "start": 30.36,
+      "end": 30.66
+    },
+    {
+      "word": "DESDE",
+      "start": 30.66,
+      "end": 30.94
+    },
+    {
+      "word": "CRIANÇA",
+      "start": 30.94,
+      "end": 31.36
+    },
+    {
+      "word": "MUITO",
+      "start": 31.36,
+      "end": 31.84
+    },
+    {
+      "word": "CRIANÇA.",
+      "start": 31.84,
+      "end": 32.33
+    },
+    {
+      "word": "MEU",
+      "start": 32.33,
+      "end": 32.82
+    },
+    {
+      "word": "PAI",
+      "start": 32.82,
+      "end": 33.06
+    },
+    {
+      "word": "ME",
+      "start": 33.06,
+      "end": 33.22
+    },
+    {
+      "word": "LEVAVA",
+      "start": 33.22,
+      "end": 33.54
+    },
+    {
+      "word": "QUASE",
+      "start": 33.54,
+      "end": 33.84
+    },
+    {
+      "word": "TODA",
+      "start": 33.84,
+      "end": 34.16
+    },
+    {
+      "word": "NOITE",
+      "start": 34.16,
+      "end": 34.46
+    },
+    {
+      "word": "AO",
+      "start": 34.46,
+      "end": 34.66
+    },
+    {
+      "word": "CINEMA,",
+      "start": 34.66,
+      "end": 35.04
+    },
+    {
+      "word": "A",
+      "start": 35.36,
+      "end": 35.46
+    },
+    {
+      "word": "TRAVESSEI",
+      "start": 35.46,
+      "end": 36.02
+    },
+    {
+      "word": "ANOS",
+      "start": 36.02,
+      "end": 36.18
+    },
+    {
+      "word": "ASSISTINDO",
+      "start": 36.18,
+      "end": 36.72
+    },
+    {
+      "word": "A",
+      "start": 36.72,
+      "end": 36.88
+    },
+    {
+      "word": "FILMES.",
+      "start": 36.88,
+      "end": 37.23
+    },
+    {
+      "word": "PRINCIPALMENTE",
+      "start": 37.23,
+      "end": 38.34
+    },
+    {
+      "word": "NOS",
+      "start": 38.34,
+      "end": 38.6
+    },
+    {
+      "word": "ANOS",
+      "start": 38.6,
+      "end": 38.88
+    },
+    {
+      "word": "1940",
+      "start": 38.88,
+      "end": 39.72
+    },
+    {
+      "word": "E",
+      "start": 39.72,
+      "end": 40.4
+    },
+    {
+      "word": "1950.",
+      "start": 40.4,
+      "end": 41.04
+    },
+    {
+      "word": "O",
+      "start": 42.1,
+      "end": 42.22
+    },
+    {
+      "word": "QUE",
+      "start": 42.22,
+      "end": 42.34
+    },
+    {
+      "word": "MANTÉM",
+      "start": 42.34,
+      "end": 42.68
+    },
+    {
+      "word": "TANTA",
+      "start": 42.68,
+      "end": 43.06
+    },
+    {
+      "word": "UNIÃO",
+      "start": 43.06,
+      "end": 43.48
+    },
+    {
+      "word": "EM",
+      "start": 43.48,
+      "end": 43.64
+    },
+    {
+      "word": "SEUS",
+      "start": 43.64,
+      "end": 43.82
+    },
+    {
+      "word": "PERSONAGENS?",
+      "start": 43.82,
+      "end": 44.68
+    },
+    {
+      "word": "EU",
+      "start": 45.08,
+      "end": 45.2
+    },
+    {
+      "word": "TIVE",
+      "start": 45.2,
+      "end": 45.44
+    },
+    {
+      "word": "UMA",
+      "start": 45.44,
+      "end": 45.64
+    },
+    {
+      "word": "INFÂNCIA",
+      "start": 45.64,
+      "end": 46.08
+    },
+    {
+      "word": "PRIVILEGIADA.",
+      "start": 46.08,
+      "end": 46.98
+    },
+    {
+      "word": "EM",
+      "start": 47.3,
+      "end": 47.44
+    },
+    {
+      "word": "TERMOS",
+      "start": 47.44,
+      "end": 47.78
+    },
+    {
+      "word": "DE",
+      "start": 47.78,
+      "end": 47.9
+    },
+    {
+      "word": "FAMÍLIA",
+      "start": 47.9,
+      "end": 48.26
+    },
+    {
+      "word": "DE",
+      "start": 48.26,
+      "end": 48.52
+    },
+    {
+      "word": "BRINCAR",
+      "start": 48.52,
+      "end": 48.88
+    },
+    {
+      "word": "NA",
+      "start": 48.88,
+      "end": 49.06
+    },
+    {
+      "word": "RUA,",
+      "start": 49.06,
+      "end": 49.42
+    },
+    {
+      "word": "AINDA",
+      "start": 49.68,
+      "end": 49.92
+    },
+    {
+      "word": "SEM",
+      "start": 49.92,
+      "end": 50.2
+    },
+    {
+      "word": "MUITO",
+      "start": 50.2,
+      "end": 50.48
+    },
+    {
+      "word": "MOVIMENTO",
+      "start": 50.48,
+      "end": 50.9
+    },
+    {
+      "word": "DE",
+      "start": 50.9,
+      "end": 51.18
+    },
+    {
+      "word": "CARROS.",
+      "start": 51.18,
+      "end": 51.66
+    },
+    {
+      "word": "TIVE",
+      "start": 52.04,
+      "end": 52.26
+    },
+    {
+      "word": "AMIGOS",
+      "start": 52.26,
+      "end": 52.54
+    },
+    {
+      "word": "DE",
+      "start": 52.54,
+      "end": 52.8
+    },
+    {
+      "word": "TODAS",
+      "start": 52.8,
+      "end": 53.1
+    },
+    {
+      "word": "ETNIAS",
+      "start": 53.1,
+      "end": 53.62
+    },
+    {
+      "word": "POSSÍVEIS",
+      "start": 53.62,
+      "end": 54.18
+    },
+    {
+      "word": "NA",
+      "start": 54.18,
+      "end": 54.4
+    },
+    {
+      "word": "MINHA",
+      "start": 54.4,
+      "end": 54.58
+    },
+    {
+      "word": "RUA.",
+      "start": 54.58,
+      "end": 54.9
+    },
+    {
+      "word": "EM",
+      "start": 55.16,
+      "end": 55.28
+    },
+    {
+      "word": "DOIS",
+      "start": 55.28,
+      "end": 55.48
+    },
+    {
+      "word": "QUARTEIRÕES,",
+      "start": 55.48,
+      "end": 56.26
+    },
+    {
+      "word": "TINHA",
+      "start": 56.42,
+      "end": 56.6
+    },
+    {
+      "word": "GENTE",
+      "start": 56.6,
+      "end": 56.86
+    },
+    {
+      "word": "DO",
+      "start": 56.86,
+      "end": 57.06
+    },
+    {
+      "word": "MUNDO",
+      "start": 57.06,
+      "end": 57.26
+    },
+    {
+      "word": "INTEIRO",
+      "start": 57.26,
+      "end": 57.74
+    },
+    {
+      "word": "E",
+      "start": 57.74,
+      "end": 58.06
+    },
+    {
+      "word": "OBRINCAVA",
+      "start": 58.06,
+      "end": 58.7
+    },
+    {
+      "word": "E",
+      "start": 58.7,
+      "end": 58.82
+    },
+    {
+      "word": "BRIGAVA",
+      "start": 58.82,
+      "end": 59.24
+    },
+    {
+      "word": "COM",
+      "start": 59.24,
+      "end": 59.42
+    },
+    {
+      "word": "ESTE",
+      "start": 59.42,
+      "end": 59.64
+    },
+    {
+      "word": "PESSOAL.",
+      "start": 59.64,
+      "end": 60.08
+    },
+    {
+      "word": "TIVE",
+      "start": 60.44,
+      "end": 60.68
+    },
+    {
+      "word": "UMA",
+      "start": 60.68,
+      "end": 60.84
+    },
+    {
+      "word": "FAMÍLIA",
+      "start": 60.84,
+      "end": 61.18
+    },
+    {
+      "word": "QUE",
+      "start": 61.18,
+      "end": 61.42
+    },
+    {
+      "word": "ME",
+      "start": 61.42,
+      "end": 61.52
+    },
+    {
+      "word": "APOIOU",
+      "start": 61.52,
+      "end": 61.9
+    },
+    {
+      "word": "EM",
+      "start": 61.9,
+      "end": 62.04
+    },
+    {
+      "word": "TUDO,",
+      "start": 62.04,
+      "end": 62.42
+    },
+    {
+      "word": "DESDE",
+      "start": 62.62,
+      "end": 62.92
+    },
+    {
+      "word": "QUANDO",
+      "start": 62.92,
+      "end": 63.2
+    },
+    {
+      "word": "EU",
+      "start": 63.2,
+      "end": 63.34
+    },
+    {
+      "word": "COMECEI",
+      "start": 63.34,
+      "end": 63.8
+    },
+    {
+      "word": "A",
+      "start": 63.8,
+      "end": 63.88
+    },
+    {
+      "word": "DESENHAR",
+      "start": 63.88,
+      "end": 64.36
+    },
+    {
+      "word": "BEM",
+      "start": 64.36,
+      "end": 64.64
+    },
+    {
+      "word": "PEQUENO.",
+      "start": 64.64,
+      "end": 65.18
+    },
+    {
+      "word": "MEU",
+      "start": 65.46,
+      "end": 65.64
+    },
+    {
+      "word": "PAI",
+      "start": 65.64,
+      "end": 65.86
+    },
+    {
+      "word": "ME",
+      "start": 65.86,
+      "end": 66.04
+    },
+    {
+      "word": "ENSINAVA",
+      "start": 66.04,
+      "end": 66.48
+    },
+    {
+      "word": "TRUQUES",
+      "start": 66.48,
+      "end": 66.9
+    },
+    {
+      "word": "DE",
+      "start": 66.9,
+      "end": 67.04
+    },
+    {
+      "word": "DESENHO,",
+      "start": 67.04,
+      "end": 67.56
+    },
+    {
+      "word": "DE",
+      "start": 67.68,
+      "end": 67.78
+    },
+    {
+      "word": "PINTURA",
+      "start": 67.78,
+      "end": 68.2
+    },
+    {
+      "word": "TAMBÉM.",
+      "start": 68.2,
+      "end": 68.58
+    },
+    {
+      "word": "MINHA",
+      "start": 69.0,
+      "end": 69.22
+    },
+    {
+      "word": "MÃE",
+      "start": 69.22,
+      "end": 69.4
+    },
+    {
+      "word": "ERA",
+      "start": 69.4,
+      "end": 69.58
+    },
+    {
+      "word": "POETIZA.",
+      "start": 69.58,
+      "end": 70.22
+    }
+  ],
+  "full_text": "EM ENTREVISTA MAURÍCIO DE SOUSA A SOCIA OBRA AMIZADE E A INGENUIDADE. AO 83 ANOS E A FRENTE DE EMPRESA QUE COMPLETA 60 ANOS, MAURÍCIO DE SOUSA SOB ESTUDAR, ESQUEMATIZAR UM PROCESSO DE PRODUÇÃO E AO MESMO TEMPO, ENTENDER COMO CONTA, O QUE PEGA O LEITOR NO CORAÇÃO NA MENTE NAS SENSAÇÕES E ATÉ NAS SAUDADES. QUE TIPO DE CINEMA CHAMA SUA ATENÇÃO? O QUE ME PRENDE AO FILME QUANDO EU VOU AO CINEMA É O ROTEIRO. ALIÁS, É O MAIS IMPORTANTE TAMBÉM NA HISTÓRIA EM QUADRINHO. ENTÃO EU VEJO FILME DESDE CRIANÇA MUITO CRIANÇA. MEU PAI ME LEVAVA QUASE TODA NOITE AO CINEMA, A TRAVESSEI ANOS ASSISTINDO A FILMES. PRINCIPALMENTE NOS ANOS 1940 E 1950. O QUE MANTÉM TANTA UNIÃO EM SEUS PERSONAGENS? EU TIVE UMA INFÂNCIA PRIVILEGIADA. EM TERMOS DE FAMÍLIA DE BRINCAR NA RUA, AINDA SEM MUITO MOVIMENTO DE CARROS. TIVE AMIGOS DE TODAS ETNIAS POSSÍVEIS NA MINHA RUA. EM DOIS QUARTEIRÕES, TINHA GENTE DO MUNDO INTEIRO E OBRINCAVA E BRIGAVA COM ESTE PESSOAL. TIVE UMA FAMÍLIA QUE ME APOIOU EM TUDO, DESDE QUANDO EU COMECEI A DESENHAR BEM PEQUENO. MEU PAI ME ENSINAVA TRUQUES DE DESENHO, DE PINTURA TAMBÉM. MINHA MÃE ERA POETIZA."
+}

@@ -1,0 +1,419 @@
+{
+  "audio_file": "21_lgp28.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "PIRAQUARA,",
+      "start": 0.1,
+      "end": 0.72
+    },
+    {
+      "word": "25",
+      "start": 0.94,
+      "end": 1.42
+    },
+    {
+      "word": "DE",
+      "start": 1.42,
+      "end": 1.76
+    },
+    {
+      "word": "JANEIRO.",
+      "start": 1.76,
+      "end": 2.26
+    },
+    {
+      "word": "E",
+      "start": 2.56,
+      "end": 2.7
+    },
+    {
+      "word": "AÍ,",
+      "start": 2.7,
+      "end": 2.88
+    },
+    {
+      "word": "AMIGÃO?",
+      "start": 2.92,
+      "end": 3.46
+    },
+    {
+      "word": "NOSSA,",
+      "start": 3.82,
+      "end": 4.16
+    },
+    {
+      "word": "HOJE",
+      "start": 4.34,
+      "end": 4.56
+    },
+    {
+      "word": "ACONTECEU",
+      "start": 4.56,
+      "end": 5.06
+    },
+    {
+      "word": "ALGO",
+      "start": 5.06,
+      "end": 5.4
+    },
+    {
+      "word": "SURPREENDENTE",
+      "start": 5.4,
+      "end": 6.16
+    },
+    {
+      "word": "COMIGO.",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "word": "ESTOU",
+      "start": 6.96,
+      "end": 7.26
+    },
+    {
+      "word": "ATÉ",
+      "start": 7.26,
+      "end": 7.48
+    },
+    {
+      "word": "AGORA",
+      "start": 7.48,
+      "end": 7.7
+    },
+    {
+      "word": "EM",
+      "start": 7.7,
+      "end": 7.88
+    },
+    {
+      "word": "CHOQUE.",
+      "start": 7.88,
+      "end": 8.34
+    },
+    {
+      "word": "EU",
+      "start": 8.64,
+      "end": 8.76
+    },
+    {
+      "word": "VI",
+      "start": 8.76,
+      "end": 8.94
+    },
+    {
+      "word": "UM",
+      "start": 8.94,
+      "end": 9.04
+    },
+    {
+      "word": "DESERRO",
+      "start": 9.04,
+      "end": 9.46
+    },
+    {
+      "word": "NA",
+      "start": 9.46,
+      "end": 9.56
+    },
+    {
+      "word": "SER.",
+      "start": 9.56,
+      "end": 9.84
+    },
+    {
+      "word": "SIM.",
+      "start": 10.28,
+      "end": 10.48
+    },
+    {
+      "word": "OU",
+      "start": 10.9,
+      "end": 11.06
+    },
+    {
+      "word": "MELHOR",
+      "start": 11.06,
+      "end": 11.36
+    },
+    {
+      "word": "VI?",
+      "start": 11.36,
+      "end": 11.72
+    },
+    {
+      "word": "NÃO.",
+      "start": 12.1,
+      "end": 12.36
+    },
+    {
+      "word": "EU",
+      "start": 12.74,
+      "end": 12.88
+    },
+    {
+      "word": "AJUDEI",
+      "start": 12.88,
+      "end": 13.3
+    },
+    {
+      "word": "UM",
+      "start": 13.3,
+      "end": 13.42
+    },
+    {
+      "word": "ANIMAL",
+      "start": 13.42,
+      "end": 13.74
+    },
+    {
+      "word": "A",
+      "start": 13.74,
+      "end": 13.92
+    },
+    {
+      "word": "NASCER.",
+      "start": 13.92,
+      "end": 14.32
+    },
+    {
+      "word": "FOI",
+      "start": 14.62,
+      "end": 14.8
+    },
+    {
+      "word": "ESPETACULAR.",
+      "start": 14.8,
+      "end": 15.52
+    },
+    {
+      "word": "AJUDEI",
+      "start": 15.88,
+      "end": 16.32
+    },
+    {
+      "word": "MEU",
+      "start": 16.32,
+      "end": 16.46
+    },
+    {
+      "word": "PAI",
+      "start": 16.46,
+      "end": 16.7
+    },
+    {
+      "word": "A",
+      "start": 16.7,
+      "end": 16.88
+    },
+    {
+      "word": "FAZER",
+      "start": 16.88,
+      "end": 17.08
+    },
+    {
+      "word": "O",
+      "start": 17.08,
+      "end": 17.24
+    },
+    {
+      "word": "PARTO",
+      "start": 17.24,
+      "end": 17.6
+    },
+    {
+      "word": "DA",
+      "start": 17.6,
+      "end": 17.72
+    },
+    {
+      "word": "NOSSA",
+      "start": 17.72,
+      "end": 17.92
+    },
+    {
+      "word": "VACINHA,",
+      "start": 17.92,
+      "end": 18.52
+    },
+    {
+      "word": "A",
+      "start": 18.64,
+      "end": 18.7
+    },
+    {
+      "word": "QUERIDA",
+      "start": 18.7,
+      "end": 19.04
+    },
+    {
+      "word": "MIMOSA.",
+      "start": 19.04,
+      "end": 19.6
+    },
+    {
+      "word": "EU",
+      "start": 19.88,
+      "end": 20.04
+    },
+    {
+      "word": "AINDA",
+      "start": 20.04,
+      "end": 20.3
+    },
+    {
+      "word": "NÃO",
+      "start": 20.3,
+      "end": 20.56
+    },
+    {
+      "word": "ACREDITO",
+      "start": 20.56,
+      "end": 21.06
+    },
+    {
+      "word": "NO",
+      "start": 21.06,
+      "end": 21.2
+    },
+    {
+      "word": "QUE",
+      "start": 21.2,
+      "end": 21.32
+    },
+    {
+      "word": "VIVI.",
+      "start": 21.32,
+      "end": 21.72
+    },
+    {
+      "word": "QUE",
+      "start": 21.94,
+      "end": 22.1
+    },
+    {
+      "word": "LEGAL.",
+      "start": 22.1,
+      "end": 22.52
+    },
+    {
+      "word": "NUNCA",
+      "start": 22.92,
+      "end": 23.24
+    },
+    {
+      "word": "MAIS",
+      "start": 23.24,
+      "end": 23.48
+    },
+    {
+      "word": "VOU",
+      "start": 23.48,
+      "end": 23.72
+    },
+    {
+      "word": "ME",
+      "start": 23.72,
+      "end": 23.84
+    },
+    {
+      "word": "ESQUECER",
+      "start": 23.84,
+      "end": 24.26
+    },
+    {
+      "word": "DESSE",
+      "start": 24.26,
+      "end": 24.54
+    },
+    {
+      "word": "DIA.",
+      "start": 24.54,
+      "end": 24.94
+    },
+    {
+      "word": "POR",
+      "start": 25.26,
+      "end": 25.44
+    },
+    {
+      "word": "ISSO,",
+      "start": 25.44,
+      "end": 25.72
+    },
+    {
+      "word": "VEM",
+      "start": 25.88,
+      "end": 25.96
+    },
+    {
+      "word": "CORRENDO",
+      "start": 25.96,
+      "end": 26.36
+    },
+    {
+      "word": "AQUI,",
+      "start": 26.36,
+      "end": 26.58
+    },
+    {
+      "word": "ESCREVER,",
+      "start": 26.72,
+      "end": 27.04
+    },
+    {
+      "word": "POIS",
+      "start": 27.28,
+      "end": 27.48
+    },
+    {
+      "word": "ESSA",
+      "start": 27.48,
+      "end": 27.78
+    },
+    {
+      "word": "LEMBRANÇA",
+      "start": 27.78,
+      "end": 28.32
+    },
+    {
+      "word": "MERECE",
+      "start": 28.32,
+      "end": 28.72
+    },
+    {
+      "word": "SER",
+      "start": 28.72,
+      "end": 28.92
+    },
+    {
+      "word": "GUARDADA.",
+      "start": 28.92,
+      "end": 29.5
+    },
+    {
+      "word": "VALEU",
+      "start": 29.94,
+      "end": 30.36
+    },
+    {
+      "word": "ATÉ",
+      "start": 30.36,
+      "end": 30.62
+    },
+    {
+      "word": "AMANHÃ,",
+      "start": 30.62,
+      "end": 31.08
+    },
+    {
+      "word": "CAETANO.",
+      "start": 31.34,
+      "end": 31.96
+    }
+  ],
+  "full_text": "PIRAQUARA, 25 DE JANEIRO. E AÍ, AMIGÃO? NOSSA, HOJE ACONTECEU ALGO SURPREENDENTE COMIGO. ESTOU ATÉ AGORA EM CHOQUE. EU VI UM DESERRO NA SER. SIM. OU MELHOR VI? NÃO. EU AJUDEI UM ANIMAL A NASCER. FOI ESPETACULAR. AJUDEI MEU PAI A FAZER O PARTO DA NOSSA VACINHA, A QUERIDA MIMOSA. EU AINDA NÃO ACREDITO NO QUE VIVI. QUE LEGAL. NUNCA MAIS VOU ME ESQUECER DESSE DIA. POR ISSO, VEM CORRENDO AQUI, ESCREVER, POIS ESSA LEMBRANÇA MERECE SER GUARDADA. VALEU ATÉ AMANHÃ, CAETANO."
+}

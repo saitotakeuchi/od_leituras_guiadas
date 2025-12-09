@@ -1,0 +1,394 @@
+{
+  "audio_file": "21_lgp49.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "CONVITE",
+      "start": 0.1,
+      "end": 0.54
+    },
+    {
+      "word": "PARA",
+      "start": 0.54,
+      "end": 0.74
+    },
+    {
+      "word": "BASAR",
+      "start": 0.74,
+      "end": 1.14
+    },
+    {
+      "word": "SOLIDÁRIO.",
+      "start": 1.14,
+      "end": 1.78
+    },
+    {
+      "word": "VOCÊ",
+      "start": 2.1,
+      "end": 2.32
+    },
+    {
+      "word": "É",
+      "start": 2.32,
+      "end": 2.46
+    },
+    {
+      "word": "NOSSO",
+      "start": 2.46,
+      "end": 2.68
+    },
+    {
+      "word": "CONVIDADO",
+      "start": 2.68,
+      "end": 3.24
+    },
+    {
+      "word": "ESPECIAL.",
+      "start": 3.24,
+      "end": 3.82
+    },
+    {
+      "word": "A",
+      "start": 4.22,
+      "end": 4.36
+    },
+    {
+      "word": "ASSOCIAÇÃO",
+      "start": 4.36,
+      "end": 4.94
+    },
+    {
+      "word": "DE",
+      "start": 4.94,
+      "end": 5.08
+    },
+    {
+      "word": "MORADORES",
+      "start": 5.08,
+      "end": 5.52
+    },
+    {
+      "word": "VILA",
+      "start": 5.52,
+      "end": 5.9
+    },
+    {
+      "word": "FELIZ",
+      "start": 5.9,
+      "end": 6.32
+    },
+    {
+      "word": "CONVIDA",
+      "start": 6.32,
+      "end": 6.78
+    },
+    {
+      "word": "PARA",
+      "start": 6.78,
+      "end": 6.96
+    },
+    {
+      "word": "O",
+      "start": 6.96,
+      "end": 7.1
+    },
+    {
+      "word": "BASAR",
+      "start": 7.1,
+      "end": 7.42
+    },
+    {
+      "word": "SOLIDÁRIO.",
+      "start": 7.42,
+      "end": 8.06
+    },
+    {
+      "word": "VENHA",
+      "start": 8.36,
+      "end": 8.64
+    },
+    {
+      "word": "NOS",
+      "start": 8.64,
+      "end": 8.78
+    },
+    {
+      "word": "AJUDAR",
+      "start": 8.78,
+      "end": 9.18
+    },
+    {
+      "word": "E",
+      "start": 9.18,
+      "end": 9.44
+    },
+    {
+      "word": "APROVEITE",
+      "start": 9.44,
+      "end": 9.98
+    },
+    {
+      "word": "PARA",
+      "start": 9.98,
+      "end": 10.14
+    },
+    {
+      "word": "ENCONTRAR",
+      "start": 10.14,
+      "end": 10.54
+    },
+    {
+      "word": "ROUPAS",
+      "start": 10.54,
+      "end": 11.08
+    },
+    {
+      "word": "ACESSÓRIOS",
+      "start": 11.08,
+      "end": 11.74
+    },
+    {
+      "word": "BRINQUEDOS,",
+      "start": 11.74,
+      "end": 12.46
+    },
+    {
+      "word": "ARTIGOS",
+      "start": 12.6,
+      "end": 13.02
+    },
+    {
+      "word": "DE",
+      "start": 13.02,
+      "end": 13.2
+    },
+    {
+      "word": "DECORAÇÃO",
+      "start": 13.2,
+      "end": 13.8
+    },
+    {
+      "word": "E",
+      "start": 13.8,
+      "end": 14.04
+    },
+    {
+      "word": "MUITO",
+      "start": 14.04,
+      "end": 14.26
+    },
+    {
+      "word": "MAIS.",
+      "start": 14.26,
+      "end": 14.64
+    },
+    {
+      "word": "A",
+      "start": 15.08,
+      "end": 15.22
+    },
+    {
+      "word": "ARRECADAÇÃO",
+      "start": 15.22,
+      "end": 15.84
+    },
+    {
+      "word": "SERÁ",
+      "start": 15.84,
+      "end": 16.12
+    },
+    {
+      "word": "DESTINADA",
+      "start": 16.12,
+      "end": 16.74
+    },
+    {
+      "word": "A",
+      "start": 16.74,
+      "end": 16.9
+    },
+    {
+      "word": "COMPRA",
+      "start": 16.9,
+      "end": 17.14
+    },
+    {
+      "word": "DE",
+      "start": 17.14,
+      "end": 17.32
+    },
+    {
+      "word": "ALIMENTOS",
+      "start": 17.32,
+      "end": 17.66
+    },
+    {
+      "word": "PARA",
+      "start": 17.66,
+      "end": 18.0
+    },
+    {
+      "word": "O",
+      "start": 18.0,
+      "end": 18.12
+    },
+    {
+      "word": "NATAL",
+      "start": 18.12,
+      "end": 18.46
+    },
+    {
+      "word": "DAS",
+      "start": 18.46,
+      "end": 18.62
+    },
+    {
+      "word": "FAMÍLIAS.",
+      "start": 18.62,
+      "end": 19.24
+    },
+    {
+      "word": "PARA",
+      "start": 19.52,
+      "end": 19.7
+    },
+    {
+      "word": "MAIS",
+      "start": 19.7,
+      "end": 19.92
+    },
+    {
+      "word": "INFORMAÇÕES,",
+      "start": 19.92,
+      "end": 20.58
+    },
+    {
+      "word": "ENTRE",
+      "start": 20.98,
+      "end": 21.14
+    },
+    {
+      "word": "EM",
+      "start": 21.14,
+      "end": 21.26
+    },
+    {
+      "word": "CONTATO",
+      "start": 21.26,
+      "end": 21.7
+    },
+    {
+      "word": "COM",
+      "start": 21.7,
+      "end": 21.9
+    },
+    {
+      "word": "NOSSOS",
+      "start": 21.9,
+      "end": 22.2
+    },
+    {
+      "word": "VOLUNTÁRIOS.",
+      "start": 22.2,
+      "end": 22.98
+    },
+    {
+      "word": "INFORMAÇÕES.",
+      "start": 23.34,
+      "end": 24.2
+    },
+    {
+      "word": "DATA.",
+      "start": 24.62,
+      "end": 25.06
+    },
+    {
+      "word": "9",
+      "start": 25.24,
+      "end": 25.54
+    },
+    {
+      "word": "DO",
+      "start": 25.54,
+      "end": 25.74
+    },
+    {
+      "word": "12.",
+      "start": 25.74,
+      "end": 26.16
+    },
+    {
+      "word": "HORÁRIO.",
+      "start": 26.5,
+      "end": 27.0
+    },
+    {
+      "word": "DAS",
+      "start": 27.14,
+      "end": 27.3
+    },
+    {
+      "word": "10",
+      "start": 27.3,
+      "end": 27.56
+    },
+    {
+      "word": "HORAS",
+      "start": 27.56,
+      "end": 27.88
+    },
+    {
+      "word": "ÀS",
+      "start": 27.88,
+      "end": 28.12
+    },
+    {
+      "word": "17",
+      "start": 28.12,
+      "end": 28.54
+    },
+    {
+      "word": "HORAS.",
+      "start": 28.54,
+      "end": 29.0
+    },
+    {
+      "word": "LOCAL.",
+      "start": 29.5,
+      "end": 29.84
+    },
+    {
+      "word": "QUADRA",
+      "start": 30.14,
+      "end": 30.6
+    },
+    {
+      "word": "DA",
+      "start": 30.6,
+      "end": 30.72
+    },
+    {
+      "word": "ESCOLA",
+      "start": 30.72,
+      "end": 31.02
+    },
+    {
+      "word": "SÃO",
+      "start": 31.02,
+      "end": 31.4
+    },
+    {
+      "word": "MEU",
+      "start": 31.4,
+      "end": 31.58
+    },
+    {
+      "word": "PÔDO.",
+      "start": 31.58,
+      "end": 32.0
+    }
+  ],
+  "full_text": "CONVITE PARA BASAR SOLIDÁRIO. VOCÊ É NOSSO CONVIDADO ESPECIAL. A ASSOCIAÇÃO DE MORADORES VILA FELIZ CONVIDA PARA O BASAR SOLIDÁRIO. VENHA NOS AJUDAR E APROVEITE PARA ENCONTRAR ROUPAS ACESSÓRIOS BRINQUEDOS, ARTIGOS DE DECORAÇÃO E MUITO MAIS. A ARRECADAÇÃO SERÁ DESTINADA A COMPRA DE ALIMENTOS PARA O NATAL DAS FAMÍLIAS. PARA MAIS INFORMAÇÕES, ENTRE EM CONTATO COM NOSSOS VOLUNTÁRIOS. INFORMAÇÕES. DATA. 9 DO 12. HORÁRIO. DAS 10 HORAS ÀS 17 HORAS. LOCAL. QUADRA DA ESCOLA SÃO MEU PÔDO."
+}

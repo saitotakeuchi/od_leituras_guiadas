@@ -1,0 +1,214 @@
+{
+  "audio_file": "21_lgp22.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "A",
+      "start": 0.12,
+      "end": 0.26
+    },
+    {
+      "word": "PIA",
+      "start": 0.26,
+      "end": 0.48
+    },
+    {
+      "word": "PERTO",
+      "start": 0.48,
+      "end": 0.74
+    },
+    {
+      "word": "DO",
+      "start": 0.74,
+      "end": 0.94
+    },
+    {
+      "word": "PINTO.",
+      "start": 0.94,
+      "end": 1.36
+    },
+    {
+      "word": "O",
+      "start": 1.66,
+      "end": 1.78
+    },
+    {
+      "word": "PINTO",
+      "start": 1.78,
+      "end": 2.08
+    },
+    {
+      "word": "PERTO",
+      "start": 2.08,
+      "end": 2.36
+    },
+    {
+      "word": "DA",
+      "start": 2.36,
+      "end": 2.6
+    },
+    {
+      "word": "PIA.",
+      "start": 2.6,
+      "end": 2.96
+    },
+    {
+      "word": "QUANTO",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "word": "MAIS",
+      "start": 3.52,
+      "end": 3.74
+    },
+    {
+      "word": "A",
+      "start": 3.74,
+      "end": 3.94
+    },
+    {
+      "word": "PIA",
+      "start": 3.94,
+      "end": 4.14
+    },
+    {
+      "word": "PINGA?",
+      "start": 4.14,
+      "end": 4.5
+    },
+    {
+      "word": "MAIS",
+      "start": 4.92,
+      "end": 5.08
+    },
+    {
+      "word": "O",
+      "start": 5.08,
+      "end": 5.28
+    },
+    {
+      "word": "PINTO",
+      "start": 5.28,
+      "end": 5.52
+    },
+    {
+      "word": "PIA.",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "word": "A",
+      "start": 6.2,
+      "end": 6.4
+    },
+    {
+      "word": "PIA",
+      "start": 6.4,
+      "end": 6.62
+    },
+    {
+      "word": "PINGA.",
+      "start": 6.62,
+      "end": 7.02
+    },
+    {
+      "word": "O",
+      "start": 7.34,
+      "end": 7.48
+    },
+    {
+      "word": "PINTO",
+      "start": 7.48,
+      "end": 7.76
+    },
+    {
+      "word": "PIA.",
+      "start": 7.76,
+      "end": 8.14
+    },
+    {
+      "word": "PINGA",
+      "start": 8.48,
+      "end": 8.74
+    },
+    {
+      "word": "A",
+      "start": 8.74,
+      "end": 8.92
+    },
+    {
+      "word": "PIA.",
+      "start": 8.92,
+      "end": 9.2
+    },
+    {
+      "word": "PIA",
+      "start": 9.5,
+      "end": 9.72
+    },
+    {
+      "word": "O",
+      "start": 9.72,
+      "end": 9.84
+    },
+    {
+      "word": "PINTO.",
+      "start": 9.84,
+      "end": 10.22
+    },
+    {
+      "word": "O",
+      "start": 10.5,
+      "end": 10.66
+    },
+    {
+      "word": "PINTO",
+      "start": 10.66,
+      "end": 10.94
+    },
+    {
+      "word": "PERTO",
+      "start": 10.94,
+      "end": 11.24
+    },
+    {
+      "word": "DA",
+      "start": 11.24,
+      "end": 11.48
+    },
+    {
+      "word": "PIA.",
+      "start": 11.48,
+      "end": 11.86
+    },
+    {
+      "word": "A",
+      "start": 12.12,
+      "end": 12.34
+    },
+    {
+      "word": "PIA",
+      "start": 12.34,
+      "end": 12.58
+    },
+    {
+      "word": "PERTO",
+      "start": 12.58,
+      "end": 12.82
+    },
+    {
+      "word": "DO",
+      "start": 12.82,
+      "end": 13.04
+    },
+    {
+      "word": "PINTO.",
+      "start": 13.04,
+      "end": 13.46
+    }
+  ],
+  "full_text": "A PIA PERTO DO PINTO. O PINTO PERTO DA PIA. QUANTO MAIS A PIA PINGA? MAIS O PINTO PIA. A PIA PINGA. O PINTO PIA. PINGA A PIA. PIA O PINTO. O PINTO PERTO DA PIA. A PIA PERTO DO PINTO."
+}

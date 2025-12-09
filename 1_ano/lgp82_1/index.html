@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leitura Guiada - Sobre o Autor</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- handtalk -->
+    <script src="https://plugin.handtalk.me/web/latest/handtalk.min.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YXJ8FSB2VX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)}
+        gtag('js', new Date());
+        gtag('config', 'G-YXJ8FSB2VX');
+    </script>
+</head>
+<body>
+    <main class="container" id="main-view">
+        <article class="reading-content" aria-label="Texto para leitura guiada">
+                                    <h1 class="title">
+                <span data-start="0.16" data-end="0.5">SOBRE</span>
+                <span data-start="0.5" data-end="0.6">O</span>
+                <span data-start="0.6" data-end="0.98">AUTOR</span>
+            </h1>
+            <div class="text-content" id="lyrics" aria-live="polite">
+                <p>
+                    <span data-start="1.26" data-end="1.4">HENRIQUE</span>
+                    <span data-start="1.4" data-end="1.64">RODRIGUES</span>
+                    <span data-start="1.64" data-end="2.24">NASCEU</span>
+                    <span data-start="2.24" data-end="2.62">NO</span>
+                    <span data-start="2.62" data-end="2.78">RIO</span>
+                    <span data-start="2.78" data-end="2.92">DE</span>
+                    <span data-start="2.92" data-end="3.1">JANEIRO,</span>
+                    <span data-start="3.1" data-end="3.48">EM</span>
+                    <span data-start="3.72" data-end="3.82">1975.</span>
+                    <span data-start="3.82" data-end="5.28">ESTUDOU</span>
+                    <span data-start="5.8" data-end="6.26">LITERATURA</span>
+                    <span data-start="6.26" data-end="6.42">POR</span>
+                    <span data-start="6.42" data-end="6.82">MUITOS</span>
+                    <span data-start="6.82" data-end="7.02">ANOS</span>
+                    <span data-start="7.02" data-end="7.34">E</span>
+                    <span data-start="7.34" data-end="7.68">PUBLICOU</span>
+                    <span data-start="7.68" data-end="7.88">15</span>
+                    <span data-start="7.88" data-end="8.28">LIVROS</span>
+                    <span data-start="8.28" data-end="8.58">PARA</span>
+                    <span data-start="8.58" data-end="9.08">CRIANÇAS,</span>
+                    <span data-start="9.08" data-end="9.3">JOVENS</span>
+                    <span data-start="9.3" data-end="9.82">E</span>
+                    <span data-start="10.12" data-end="10.46">ADULTOS.</span>
+                    <span data-start="10.46" data-end="10.6">QUANDO</span>
+                    <span data-start="10.6" data-end="11.18">ERA</span>
+                    <span data-start="11.48" data-end="11.66">PEQUENO,</span>
+                    <span data-start="11.66" data-end="11.86">ARRANCOU</span>
+                    <span data-start="11.86" data-end="12.4">SOZINHO</span>
+                    <span data-start="12.56" data-end="12.92">TODOS</span>
+                    <span data-start="12.92" data-end="13.4">OS</span>
+                    <span data-start="13.4" data-end="13.74">SEUS</span>
+                    <span data-start="13.74" data-end="13.98">DENTES</span>
+                    <span data-start="13.98" data-end="14.08">DE</span>
+                    <span data-start="14.08" data-end="14.52">LEITE.</span>
+                </p>
+            </div>
+        </article>
+
+        <div class="audio-controls">
+            <input type="range" id="progress-bar" class="progress-bar" value="0" min="0" max="100" aria-label="Progresso do áudio">
+            <div class="controls-buttons">
+                <button id="play-btn" class="btn-control" aria-label="Reproduzir áudio">
+                    <svg class="icon-play" viewBox="0 0 24 24" aria-hidden="true">
+                        <polygon points="5,3 19,12 5,21" fill="currentColor"/>
+                    </svg>
+                </button>
+                <button id="pause-btn" class="btn-control" aria-label="Pausar áudio">
+                    <svg class="icon-pause" viewBox="0 0 24 24" aria-hidden="true">
+                        <rect x="6" y="4" width="4" height="16" fill="currentColor"/>
+                        <rect x="14" y="4" width="4" height="16" fill="currentColor"/>
+                    </svg>
+                </button>
+                <button id="texto-completo-btn" class="btn-texto-completo" aria-label="Ver texto completo">
+                    Texto completo
+                </button>
+            </div>
+        </div>
+
+        <audio id="audio" preload="metadata">
+            <source src="assets/audio/11_lgp82_1.mp3" type="audio/mpeg">
+            Seu navegador não suporta o elemento de áudio.
+        </audio>
+    </main>
+
+    <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+        <div class="modal-content">
+            <button id="close-modal-btn" class="btn-close" aria-label="Fechar texto completo">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+                    <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </button>
+            <h2 id="modal-title" class="sr-only">Texto completo - Página 82 1</h2>
+            <img src="assets/images/11_lgp82_1.png" alt="Regras de Convivência da Turma - Texto completo da página 82 1 do livro" class="modal-image" id="modal-image">
+            <button id="zoom-btn" class="btn-zoom" aria-label="Ampliar imagem">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="10" cy="10" r="7" stroke="currentColor" stroke-width="2" fill="none"/>
+                    <line x1="15" y1="15" x2="21" y2="21" stroke="currentColor" stroke-width="2"/>
+                    <line x1="7" y1="10" x2="13" y2="10" stroke="currentColor" stroke-width="2"/>
+                    <line x1="10" y1="7" x2="10" y2="13" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </button>
+            <button id="voltar-btn" class="btn-voltar">Voltar</button>
+        </div>
+    </div>
+
+    <div class="zoom-overlay" id="zoom-overlay">
+        <button class="btn-close-zoom" id="close-zoom-btn" aria-label="Fechar zoom">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+                <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2"/>
+            </svg>
+        </button>
+        <img src="assets/images/11_lgp82_1.png" alt="Imagem ampliada" id="zoom-image">
+    </div>
+
+    <footer class="footer">
+        <div class="footer-logos">
+            <img src="assets/images/logo_ab.png" alt="Aprende Brasil" class="footer-logo">
+            <img src="assets/images/logo_vml.png" alt="Vou Mais Longe" class="footer-logo">
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+    <!-- handtalk initialization -->
+    <script>
+    var ht = new HT({
+        token: "bae8765f08001f7b01586ddbc10ba2af",
+        addonsMap: {
+            fontControl: {
+                letterSpacing: false,
+                lineHeight: false,
+            },
+            navigation: {
+                readerMode: false,
+                pageStructure: false,
+                hideImages: false,
+                highlightHeadings: false,
+                pauseAnimations: false,
+            },
+        },
+    });
+    </script>
+</body>
+</html>

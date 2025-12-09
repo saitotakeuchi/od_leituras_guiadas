@@ -1,0 +1,640 @@
+/* Fonts */
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fonts/Inter_18pt-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fonts/Inter_18pt-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Reset and Base Styles */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --color-green-light: #00c489;
+    --color-green-dark: #009a71;
+    --color-purple: #8869b2;
+    --color-yellow: #ffc181;
+    --color-white: #fff;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Inter', "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(
+        180deg,
+        var(--color-green-light) 0%,
+        var(--color-green-dark) 100%
+    );
+}
+
+/* Screen reader only class */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* Main Container */
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2rem;
+    padding-bottom: 200px;
+    max-width: 900px;
+    margin: 0 auto;
+    width: 100%;
+    overflow-y: auto;
+    height: 100vh;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE/Edge */
+}
+
+.container::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+}
+
+/* Fade overlay above audio controls */
+.container::after {
+    content: "";
+    position: fixed;
+    bottom: 195px;
+    left: 0;
+    right: 0;
+    height: 120px;
+    background: linear-gradient(
+        to bottom,
+        transparent 0%,
+        rgba(0, 154, 113, 0.3) 30%,
+        rgba(0, 154, 113, 0.7) 60%,
+        var(--color-green-dark) 100%
+    );
+    pointer-events: none;
+    z-index: 99;
+}
+
+/* Reading Content */
+.reading-content {
+    text-align: left;
+    margin-bottom: 2rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+.title {
+    font-size: 1.75rem;
+    font-weight: 900;
+    color: var(--color-white);
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.title span {
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease;
+}
+
+.title span.active {
+    background-color: var(--color-purple);
+    padding: 0.1em 0.2em;
+    border-radius: 3px;
+}
+
+.title span.past {
+    opacity: 0.7;
+}
+
+.text-content {
+    line-height: 1.6;
+}
+
+.text-content p {
+    margin-bottom: 0.75rem;
+}
+
+.text-content span {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-white);
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease;
+}
+
+/* Highlight for current word/phrase */
+.text-content span.active {
+    background-color: var(--color-purple);
+    color: var(--color-white);
+    padding: 0.1em 0.2em;
+    border-radius: 3px;
+}
+
+.text-content span.past {
+    opacity: 0.7;
+}
+
+/* Audio Controls */
+.audio-controls {
+    position: fixed;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    background: var(--color-green-dark);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    z-index: 100;
+}
+
+.audio-controls .progress-bar,
+.audio-controls .controls-buttons {
+    max-width: 400px;
+    width: 100%;
+}
+
+/* Progress Bar */
+.progress-bar {
+    width: 100%;
+    height: 8px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.progress-bar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    background: var(--color-white);
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-top: -4px;
+}
+
+.progress-bar::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: var(--color-white);
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.progress-bar::-webkit-slider-runnable-track {
+    height: 8px;
+    border-radius: 4px;
+}
+
+.progress-bar::-moz-range-track {
+    height: 8px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Control Buttons */
+.controls-buttons {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn-control {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid var(--color-white);
+    background: transparent;
+    color: var(--color-white);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:
+        background-color 0.2s ease,
+        transform 0.1s ease;
+}
+
+.btn-control:hover,
+.btn-control:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+    outline: none;
+}
+
+.btn-control:focus-visible {
+    outline: 3px solid var(--color-white);
+    outline-offset: 2px;
+}
+
+.btn-control:active {
+    transform: scale(0.95);
+}
+
+.btn-control svg {
+    width: 24px;
+    height: 24px;
+}
+
+#pause-btn {
+    opacity: 0.5;
+}
+
+#pause-btn.active,
+#play-btn.active {
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Texto Completo Button */
+.btn-texto-completo {
+    padding: 0.75rem 1.5rem;
+    border-radius: 25px;
+    border: 3px solid rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--color-white);
+    font-size: 1rem;
+    cursor: pointer;
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.btn-texto-completo:hover,
+.btn-texto-completo:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: var(--color-white);
+    outline: none;
+}
+
+.btn-texto-completo:focus-visible {
+    outline: 3px solid var(--color-white);
+    outline-offset: 2px;
+}
+
+/* Modal Overlay */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        180deg,
+        var(--color-green-light) 0%,
+        var(--color-green-dark) 100%
+    );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 2rem;
+}
+
+.modal-overlay[hidden] {
+    display: none;
+}
+
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 90%;
+    max-height: 80vh;
+}
+
+/* Close Button */
+.btn-close {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    border: 2px solid var(--color-white);
+    border-radius: 8px;
+    background: transparent;
+    color: var(--color-white);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s ease;
+}
+
+.btn-close:hover,
+.btn-close:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+    outline: none;
+}
+
+.btn-close:focus-visible {
+    outline: 3px solid var(--color-white);
+    outline-offset: 2px;
+}
+
+.btn-close svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Modal Image */
+.modal-image {
+    max-width: 100%;
+    max-height: 60vh;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.modal-image.zoomed {
+    max-width: none;
+    max-height: none;
+    width: 100%;
+}
+
+/* Fullscreen zoom overlay */
+.zoom-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 2000;
+    overflow: auto;
+    padding: 1rem;
+}
+
+.zoom-overlay.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.zoom-overlay img {
+    max-width: none;
+    width: 100%;
+    height: auto;
+}
+
+.zoom-overlay .btn-close-zoom {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    width: 44px;
+    height: 44px;
+    border: 2px solid var(--color-white);
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.5);
+    color: var(--color-white);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2001;
+}
+
+.zoom-overlay .btn-close-zoom:hover,
+.zoom-overlay .btn-close-zoom:focus {
+    background: rgba(255, 255, 255, 0.2);
+    outline: none;
+}
+
+.zoom-overlay .btn-close-zoom svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Zoom Button - Mobile Only */
+.btn-zoom {
+    display: none;
+    position: absolute;
+    bottom: 80px;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    background: var(--color-purple);
+    color: var(--color-white);
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    transition:
+        background-color 0.2s ease,
+        transform 0.1s ease;
+}
+
+.btn-zoom:hover,
+.btn-zoom:focus {
+    background-color: #7758a1;
+    outline: none;
+}
+
+.btn-zoom:focus-visible {
+    outline: 3px solid var(--color-white);
+    outline-offset: 2px;
+}
+
+.btn-zoom svg {
+    width: 24px;
+    height: 24px;
+}
+
+/* Voltar Button */
+.btn-voltar {
+    margin-top: 1.5rem;
+    padding: 0.75rem 3rem;
+    border-radius: 25px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--color-white);
+    font-size: 1rem;
+    cursor: pointer;
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.btn-voltar:hover,
+.btn-voltar:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: var(--color-white);
+    outline: none;
+}
+
+.btn-voltar:focus-visible {
+    outline: 3px solid var(--color-white);
+    outline-offset: 2px;
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background-color: var(--color-purple);
+    border-top: 5px solid var(--color-yellow);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+.footer-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.footer-logo {
+    height: 24px;
+    width: auto;
+}
+
+/* Responsive Design - Mobile */
+@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+        padding-bottom: 200px;
+    }
+
+    .reading-content {
+        margin-bottom: 1rem;
+    }
+
+    .title {
+        font-size: 1.4rem;
+    }
+
+    .text-content span {
+        font-size: 1.1rem;
+    }
+
+    .btn-zoom {
+        display: flex;
+    }
+
+    .modal-content {
+        max-width: 95%;
+    }
+
+    .btn-close {
+        top: -45px;
+        right: 5px;
+    }
+
+    .modal-image {
+        max-height: 50vh;
+    }
+
+    .footer-logo {
+        height: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding-bottom: 200px; /* More space for wrapped controls */
+    }
+
+    .title {
+        font-size: 1.2rem;
+    }
+
+    .text-content span {
+        font-size: 1rem;
+    }
+
+    .controls-buttons {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .btn-control {
+        width: 45px;
+        height: 45px;
+    }
+
+    .btn-texto-completo {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+    }
+
+    .footer {
+        padding: 0.75rem 1rem;
+    }
+
+    .footer-logo {
+        height: 20px;
+    }
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+    .text-content span.active {
+        background-color: #000;
+        color: var(--color-white);
+        outline: 2px solid var(--color-white);
+    }
+
+    .btn-control,
+    .btn-texto-completo,
+    .btn-voltar {
+        border-width: 3px;
+    }
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+    .text-content span,
+    .btn-control,
+    .btn-texto-completo,
+    .btn-voltar,
+    .btn-close,
+    .btn-zoom {
+        transition: none;
+    }
+}

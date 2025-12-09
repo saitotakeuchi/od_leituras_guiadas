@@ -1,0 +1,219 @@
+{
+  "audio_file": "11_lgp52.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "POR",
+      "start": 0.1,
+      "end": 0.2
+    },
+    {
+      "word": "QUE",
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "word": "OS",
+      "start": 0.36,
+      "end": 0.52
+    },
+    {
+      "word": "CAMALHÕES",
+      "start": 0.52,
+      "end": 1.12
+    },
+    {
+      "word": "MUDAM",
+      "start": 1.12,
+      "end": 1.48
+    },
+    {
+      "word": "DE",
+      "start": 1.48,
+      "end": 1.64
+    },
+    {
+      "word": "COR?",
+      "start": 1.64,
+      "end": 1.96
+    },
+    {
+      "word": "O",
+      "start": 2.26,
+      "end": 2.38
+    },
+    {
+      "word": "CAMALHÃO",
+      "start": 2.38,
+      "end": 2.9
+    },
+    {
+      "word": "POSSUI",
+      "start": 2.9,
+      "end": 3.28
+    },
+    {
+      "word": "CÉLULAS",
+      "start": 3.28,
+      "end": 3.7
+    },
+    {
+      "word": "EM",
+      "start": 3.7,
+      "end": 4.0
+    },
+    {
+      "word": "SUA",
+      "start": 4.0,
+      "end": 4.18
+    },
+    {
+      "word": "PELE",
+      "start": 4.18,
+      "end": 4.46
+    },
+    {
+      "word": "QUE",
+      "start": 4.46,
+      "end": 4.66
+    },
+    {
+      "word": "SÃO",
+      "start": 4.66,
+      "end": 4.82
+    },
+    {
+      "word": "CAPAZES",
+      "start": 4.82,
+      "end": 5.44
+    },
+    {
+      "word": "DE",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "word": "MUDAR",
+      "start": 5.52,
+      "end": 5.78
+    },
+    {
+      "word": "DE",
+      "start": 5.78,
+      "end": 6.0
+    },
+    {
+      "word": "COR",
+      "start": 6.0,
+      "end": 6.18
+    },
+    {
+      "word": "DE",
+      "start": 6.18,
+      "end": 6.36
+    },
+    {
+      "word": "ACORDO",
+      "start": 6.36,
+      "end": 6.66
+    },
+    {
+      "word": "COM",
+      "start": 6.66,
+      "end": 6.94
+    },
+    {
+      "word": "AS",
+      "start": 6.94,
+      "end": 7.1
+    },
+    {
+      "word": "REAÇÕES",
+      "start": 7.1,
+      "end": 7.52
+    },
+    {
+      "word": "DO",
+      "start": 7.52,
+      "end": 7.74
+    },
+    {
+      "word": "SISTEMA",
+      "start": 7.74,
+      "end": 8.1
+    },
+    {
+      "word": "NERVOSO",
+      "start": 8.1,
+      "end": 8.66
+    },
+    {
+      "word": "DO",
+      "start": 8.66,
+      "end": 8.84
+    },
+    {
+      "word": "ANIMAL.",
+      "start": 8.84,
+      "end": 9.24
+    },
+    {
+      "word": "ISSO",
+      "start": 9.58,
+      "end": 9.78
+    },
+    {
+      "word": "ACONTECE",
+      "start": 9.78,
+      "end": 10.22
+    },
+    {
+      "word": "PELA",
+      "start": 10.22,
+      "end": 10.56
+    },
+    {
+      "word": "NECESSIDADE",
+      "start": 10.56,
+      "end": 11.2
+    },
+    {
+      "word": "DE",
+      "start": 11.2,
+      "end": 11.48
+    },
+    {
+      "word": "CICAMUFLAR",
+      "start": 11.48,
+      "end": 12.16
+    },
+    {
+      "word": "E",
+      "start": 12.16,
+      "end": 12.34
+    },
+    {
+      "word": "SE",
+      "start": 12.34,
+      "end": 12.4
+    },
+    {
+      "word": "PROTEGER",
+      "start": 12.4,
+      "end": 12.9
+    },
+    {
+      "word": "DE",
+      "start": 12.9,
+      "end": 13.06
+    },
+    {
+      "word": "PREDADORES.",
+      "start": 13.06,
+      "end": 13.64
+    }
+  ],
+  "full_text": "POR QUE OS CAMALHÕES MUDAM DE COR? O CAMALHÃO POSSUI CÉLULAS EM SUA PELE QUE SÃO CAPAZES DE MUDAR DE COR DE ACORDO COM AS REAÇÕES DO SISTEMA NERVOSO DO ANIMAL. ISSO ACONTECE PELA NECESSIDADE DE CICAMUFLAR E SE PROTEGER DE PREDADORES."
+}

@@ -1,0 +1,189 @@
+{
+  "audio_file": "21_lgp42.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "SEGUNDO,",
+      "start": 0.16,
+      "end": 0.72
+    },
+    {
+      "word": "UNIFORME.",
+      "start": 0.92,
+      "end": 1.64
+    },
+    {
+      "word": "É",
+      "start": 1.9,
+      "end": 2.02
+    },
+    {
+      "word": "OBRIGATÓRIO",
+      "start": 2.02,
+      "end": 2.76
+    },
+    {
+      "word": "O",
+      "start": 2.76,
+      "end": 2.9
+    },
+    {
+      "word": "USO",
+      "start": 2.9,
+      "end": 3.1
+    },
+    {
+      "word": "DO",
+      "start": 3.1,
+      "end": 3.28
+    },
+    {
+      "word": "UNIFORME",
+      "start": 3.28,
+      "end": 3.88
+    },
+    {
+      "word": "PARA",
+      "start": 3.88,
+      "end": 4.08
+    },
+    {
+      "word": "OS",
+      "start": 4.08,
+      "end": 4.24
+    },
+    {
+      "word": "ALUNOS",
+      "start": 4.24,
+      "end": 4.68
+    },
+    {
+      "word": "DOS",
+      "start": 4.68,
+      "end": 4.84
+    },
+    {
+      "word": "TURNOS",
+      "start": 4.84,
+      "end": 5.28
+    },
+    {
+      "word": "DA",
+      "start": 5.28,
+      "end": 5.42
+    },
+    {
+      "word": "MANHÃ",
+      "start": 5.42,
+      "end": 5.74
+    },
+    {
+      "word": "E",
+      "start": 5.74,
+      "end": 5.92
+    },
+    {
+      "word": "DA",
+      "start": 5.92,
+      "end": 6.02
+    },
+    {
+      "word": "TARDE,",
+      "start": 6.02,
+      "end": 6.44
+    },
+    {
+      "word": "CONFORME",
+      "start": 6.76,
+      "end": 7.28
+    },
+    {
+      "word": "INDICADO",
+      "start": 7.28,
+      "end": 7.74
+    },
+    {
+      "word": "NA",
+      "start": 7.74,
+      "end": 7.92
+    },
+    {
+      "word": "CARTEIRINHA.",
+      "start": 7.92,
+      "end": 8.6
+    },
+    {
+      "word": "QUALQUER",
+      "start": 8.88,
+      "end": 9.26
+    },
+    {
+      "word": "SITUAÇÃO",
+      "start": 9.26,
+      "end": 9.8
+    },
+    {
+      "word": "QUE",
+      "start": 9.8,
+      "end": 10.06
+    },
+    {
+      "word": "IMPOSSIBILITE",
+      "start": 10.06,
+      "end": 10.82
+    },
+    {
+      "word": "O",
+      "start": 10.82,
+      "end": 10.96
+    },
+    {
+      "word": "USO",
+      "start": 10.96,
+      "end": 11.16
+    },
+    {
+      "word": "DO",
+      "start": 11.16,
+      "end": 11.3
+    },
+    {
+      "word": "UNIFORME",
+      "start": 11.3,
+      "end": 11.9
+    },
+    {
+      "word": "DEVE",
+      "start": 11.9,
+      "end": 12.1
+    },
+    {
+      "word": "SER",
+      "start": 12.1,
+      "end": 12.3
+    },
+    {
+      "word": "COMUNICADA",
+      "start": 12.3,
+      "end": 13.0
+    },
+    {
+      "word": "PELOS",
+      "start": 13.0,
+      "end": 13.24
+    },
+    {
+      "word": "RESPONSÁVEIS",
+      "start": 13.24,
+      "end": 14.04
+    },
+    {
+      "word": "VIAJENDA.",
+      "start": 14.04,
+      "end": 14.72
+    }
+  ],
+  "full_text": "SEGUNDO, UNIFORME. É OBRIGATÓRIO O USO DO UNIFORME PARA OS ALUNOS DOS TURNOS DA MANHÃ E DA TARDE, CONFORME INDICADO NA CARTEIRINHA. QUALQUER SITUAÇÃO QUE IMPOSSIBILITE O USO DO UNIFORME DEVE SER COMUNICADA PELOS RESPONSÁVEIS VIAJENDA."
+}

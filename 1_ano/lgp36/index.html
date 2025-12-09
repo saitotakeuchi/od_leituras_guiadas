@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leitura Guiada - Bilhete para Sara</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- handtalk -->
+    <script src="https://plugin.handtalk.me/web/latest/handtalk.min.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YXJ8FSB2VX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)}
+        gtag('js', new Date());
+        gtag('config', 'G-YXJ8FSB2VX');
+    </script>
+</head>
+<body>
+    <main class="container" id="main-view">
+        <article class="reading-content" aria-label="Texto para leitura guiada">
+            <h1 class="title">
+                <span data-start="0.12" data-end="0.28">OI,</span>
+                <span data-start="0.5" data-end="0.7">SARA!</span>
+            </h1>
+            <div class="text-content" id="lyrics" aria-live="polite">
+                <p>
+                    <span data-start="0.94" data-end="1.28">HOJE</span>
+                    <span data-start="1.28" data-end="1.48">A</span>
+                    <span data-start="1.48" data-end="1.78">TURMA</span>
+                    <span data-start="1.78" data-end="1.94">VAI</span>
+                    <span data-start="1.94" data-end="2.24">FAZER</span>
+                    <span data-start="2.24" data-end="2.44">UMA</span>
+                    <span data-start="2.44" data-end="2.86">GINCANA</span>
+                    <span data-start="2.86" data-end="3.2">LEGAL,</span>
+                    <span data-start="3.54" data-end="3.68">ÀS</span>
+                    <span data-start="3.68" data-end="3.98">15</span>
+                    <span data-start="3.98" data-end="4.3">HORAS</span>
+                    <span data-start="4.3" data-end="4.54">NO</span>
+                    <span data-start="4.54" data-end="4.88">PARQUE</span>
+                    <span data-start="4.88" data-end="5.32">BATEL.</span>
+                    <span data-start="5.6" data-end="5.78">A</span>
+                    <span data-start="5.78" data-end="5.92">GENTE</span>
+                    <span data-start="5.92" data-end="6.28">ESPERA</span>
+                    <span data-start="6.28" data-end="6.58">VOCÊ</span>
+                    <span data-start="6.58" data-end="6.82">LÁ!</span>
+                </p>
+                <p>
+                    <span data-start="7.1" data-end="7.3">UM</span>
+                    <span data-start="7.3" data-end="7.68">BEIJO</span>
+                </p>
+                <p>
+                    <span data-start="7.96" data-end="8.52">MARINA</span>
+                </p>
+            </div>
+        </article>
+
+        <div class="audio-controls">
+            <input type="range" id="progress-bar" class="progress-bar" value="0" min="0" max="100" aria-label="Progresso do áudio">
+            <div class="controls-buttons">
+                <button id="play-btn" class="btn-control" aria-label="Reproduzir áudio">
+                    <svg class="icon-play" viewBox="0 0 24 24" aria-hidden="true">
+                        <polygon points="5,3 19,12 5,21" fill="currentColor"/>
+                    </svg>
+                </button>
+                <button id="pause-btn" class="btn-control" aria-label="Pausar áudio">
+                    <svg class="icon-pause" viewBox="0 0 24 24" aria-hidden="true">
+                        <rect x="6" y="4" width="4" height="16" fill="currentColor"/>
+                        <rect x="14" y="4" width="4" height="16" fill="currentColor"/>
+                    </svg>
+                </button>
+                <button id="texto-completo-btn" class="btn-texto-completo" aria-label="Ver texto completo">
+                    Texto completo
+                </button>
+            </div>
+        </div>
+
+        <audio id="audio" preload="metadata">
+            <source src="assets/audio/11_lgp36.mp3" type="audio/mpeg">
+            Seu navegador não suporta o elemento de áudio.
+        </audio>
+    </main>
+
+    <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+        <div class="modal-content">
+            <button id="close-modal-btn" class="btn-close" aria-label="Fechar texto completo">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+                    <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </button>
+            <h2 id="modal-title" class="sr-only">Texto completo - Página 36</h2>
+            <img src="assets/images/11_lgp36.png" alt="Bilhete para Sara - Texto completo da página 36 do livro" class="modal-image" id="modal-image">
+            <button id="zoom-btn" class="btn-zoom" aria-label="Ampliar imagem">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="10" cy="10" r="7" stroke="currentColor" stroke-width="2" fill="none"/>
+                    <line x1="15" y1="15" x2="21" y2="21" stroke="currentColor" stroke-width="2"/>
+                    <line x1="7" y1="10" x2="13" y2="10" stroke="currentColor" stroke-width="2"/>
+                    <line x1="10" y1="7" x2="10" y2="13" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </button>
+            <button id="voltar-btn" class="btn-voltar">Voltar</button>
+        </div>
+    </div>
+
+    <div class="zoom-overlay" id="zoom-overlay">
+        <button class="btn-close-zoom" id="close-zoom-btn" aria-label="Fechar zoom">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+                <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2"/>
+            </svg>
+        </button>
+        <img src="assets/images/11_lgp36.png" alt="Imagem ampliada" id="zoom-image">
+    </div>
+
+    <footer class="footer">
+        <div class="footer-logos">
+            <img src="assets/images/logo_ab.png" alt="Aprende Brasil" class="footer-logo">
+            <img src="assets/images/logo_vml.png" alt="Vou Mais Longe" class="footer-logo">
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+    <!-- handtalk initialization -->
+    <script>
+    var ht = new HT({
+        token: "bae8765f08001f7b01586ddbc10ba2af",
+        addonsMap: {
+            fontControl: {
+                letterSpacing: false,
+                lineHeight: false,
+            },
+            navigation: {
+                readerMode: false,
+                pageStructure: false,
+                hideImages: false,
+                highlightHeadings: false,
+                pauseAnimations: false,
+            },
+        },
+    });
+    </script>
+</body>
+</html>

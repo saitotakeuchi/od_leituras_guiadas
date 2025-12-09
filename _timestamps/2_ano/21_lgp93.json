@@ -1,0 +1,539 @@
+{
+  "audio_file": "21_lgp93.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "PARTI",
+      "start": 0.1,
+      "end": 0.44
+    },
+    {
+      "word": "2.",
+      "start": 0.44,
+      "end": 0.74
+    },
+    {
+      "word": "A",
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "word": "PRINCESA",
+      "start": 1.28,
+      "end": 1.88
+    },
+    {
+      "word": "E",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "A",
+      "start": 2.02,
+      "end": 2.08
+    },
+    {
+      "word": "IRVÍLIA.",
+      "start": 2.08,
+      "end": 2.6
+    },
+    {
+      "word": "DE",
+      "start": 2.88,
+      "end": 3.06
+    },
+    {
+      "word": "MANHÃ,",
+      "start": 3.06,
+      "end": 3.44
+    },
+    {
+      "word": "TODOS",
+      "start": 3.64,
+      "end": 3.92
+    },
+    {
+      "word": "PERGUNTARAM",
+      "start": 3.92,
+      "end": 4.66
+    },
+    {
+      "word": "COMO",
+      "start": 4.66,
+      "end": 4.9
+    },
+    {
+      "word": "ELA",
+      "start": 4.9,
+      "end": 5.18
+    },
+    {
+      "word": "HAVIA",
+      "start": 5.18,
+      "end": 5.4
+    },
+    {
+      "word": "DORMIDO.",
+      "start": 5.4,
+      "end": 5.94
+    },
+    {
+      "word": "APÉSSEMA",
+      "start": 6.24,
+      "end": 6.84
+    },
+    {
+      "word": "MENTE",
+      "start": 6.84,
+      "end": 7.18
+    },
+    {
+      "word": "RESPONDEU",
+      "start": 7.18,
+      "end": 7.82
+    },
+    {
+      "word": "A",
+      "start": 7.82,
+      "end": 7.92
+    },
+    {
+      "word": "PRINCESA.",
+      "start": 7.92,
+      "end": 8.54
+    },
+    {
+      "word": "MAL",
+      "start": 8.84,
+      "end": 9.04
+    },
+    {
+      "word": "CONSEGUI",
+      "start": 9.04,
+      "end": 9.6
+    },
+    {
+      "word": "PREGAR",
+      "start": 9.6,
+      "end": 9.94
+    },
+    {
+      "word": "O",
+      "start": 9.94,
+      "end": 10.12
+    },
+    {
+      "word": "OLHO",
+      "start": 10.12,
+      "end": 10.32
+    },
+    {
+      "word": "À",
+      "start": 10.32,
+      "end": 10.46
+    },
+    {
+      "word": "NOITE",
+      "start": 10.46,
+      "end": 10.7
+    },
+    {
+      "word": "INTEIRA.",
+      "start": 10.7,
+      "end": 11.26
+    },
+    {
+      "word": "SABE",
+      "start": 11.6,
+      "end": 11.9
+    },
+    {
+      "word": "DEUS",
+      "start": 11.9,
+      "end": 12.16
+    },
+    {
+      "word": "O",
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "word": "QUE",
+      "start": 12.32,
+      "end": 12.44
+    },
+    {
+      "word": "HAVIA",
+      "start": 12.44,
+      "end": 12.66
+    },
+    {
+      "word": "NAQUELA",
+      "start": 12.66,
+      "end": 13.06
+    },
+    {
+      "word": "CAMA?",
+      "start": 13.06,
+      "end": 13.48
+    },
+    {
+      "word": "ERA",
+      "start": 13.84,
+      "end": 13.98
+    },
+    {
+      "word": "UMA",
+      "start": 13.98,
+      "end": 14.14
+    },
+    {
+      "word": "COISA",
+      "start": 14.14,
+      "end": 14.42
+    },
+    {
+      "word": "TÃO",
+      "start": 14.42,
+      "end": 14.68
+    },
+    {
+      "word": "DURA",
+      "start": 14.68,
+      "end": 15.0
+    },
+    {
+      "word": "QUE",
+      "start": 15.0,
+      "end": 15.18
+    },
+    {
+      "word": "FIQUEI",
+      "start": 15.18,
+      "end": 15.46
+    },
+    {
+      "word": "TODA",
+      "start": 15.46,
+      "end": 15.86
+    },
+    {
+      "word": "CHEIA",
+      "start": 15.86,
+      "end": 16.3
+    },
+    {
+      "word": "DE",
+      "start": 16.3,
+      "end": 16.44
+    },
+    {
+      "word": "MANCHAS",
+      "start": 16.44,
+      "end": 16.76
+    },
+    {
+      "word": "PRETAS",
+      "start": 16.76,
+      "end": 17.24
+    },
+    {
+      "word": "E",
+      "start": 17.24,
+      "end": 17.36
+    },
+    {
+      "word": "AZUIS.",
+      "start": 17.36,
+      "end": 17.76
+    },
+    {
+      "word": "É",
+      "start": 18.16,
+      "end": 18.32
+    },
+    {
+      "word": "REALMENTE",
+      "start": 18.32,
+      "end": 18.7
+    },
+    {
+      "word": "MEDONHO.",
+      "start": 18.7,
+      "end": 19.38
+    },
+    {
+      "word": "ENTÃO",
+      "start": 19.64,
+      "end": 19.94
+    },
+    {
+      "word": "É",
+      "start": 19.94,
+      "end": 20.14
+    },
+    {
+      "word": "CLARO,",
+      "start": 20.14,
+      "end": 20.5
+    },
+    {
+      "word": "TODOS",
+      "start": 20.8,
+      "end": 21.06
+    },
+    {
+      "word": "PUDERAM",
+      "start": 21.06,
+      "end": 21.62
+    },
+    {
+      "word": "VER",
+      "start": 21.62,
+      "end": 21.8
+    },
+    {
+      "word": "QUE",
+      "start": 21.8,
+      "end": 22.0
+    },
+    {
+      "word": "ELA",
+      "start": 22.0,
+      "end": 22.16
+    },
+    {
+      "word": "ERA",
+      "start": 22.16,
+      "end": 22.4
+    },
+    {
+      "word": "REALMENTE",
+      "start": 22.4,
+      "end": 22.82
+    },
+    {
+      "word": "UMA",
+      "start": 22.82,
+      "end": 23.1
+    },
+    {
+      "word": "PRINCESA,",
+      "start": 23.1,
+      "end": 23.82
+    },
+    {
+      "word": "PORQUE",
+      "start": 23.94,
+      "end": 24.16
+    },
+    {
+      "word": "TINHA",
+      "start": 24.16,
+      "end": 24.48
+    },
+    {
+      "word": "SENTIDO",
+      "start": 24.48,
+      "end": 24.88
+    },
+    {
+      "word": "A",
+      "start": 24.88,
+      "end": 25.06
+    },
+    {
+      "word": "IRVÍLIA",
+      "start": 25.06,
+      "end": 25.5
+    },
+    {
+      "word": "ATRAVÉS",
+      "start": 25.5,
+      "end": 25.84
+    },
+    {
+      "word": "DE",
+      "start": 25.84,
+      "end": 26.06
+    },
+    {
+      "word": "20",
+      "start": 26.06,
+      "end": 26.32
+    },
+    {
+      "word": "COLCHÕES",
+      "start": 26.32,
+      "end": 26.9
+    },
+    {
+      "word": "E",
+      "start": 26.9,
+      "end": 27.06
+    },
+    {
+      "word": "DE",
+      "start": 27.06,
+      "end": 27.16
+    },
+    {
+      "word": "20",
+      "start": 27.16,
+      "end": 27.4
+    },
+    {
+      "word": "ADREDONS.",
+      "start": 27.4,
+      "end": 28.0
+    },
+    {
+      "word": "SÓ",
+      "start": 28.4,
+      "end": 28.6
+    },
+    {
+      "word": "UMA",
+      "start": 28.6,
+      "end": 28.82
+    },
+    {
+      "word": "VERDADEIRA",
+      "start": 28.82,
+      "end": 29.34
+    },
+    {
+      "word": "PRINCESA",
+      "start": 29.34,
+      "end": 29.9
+    },
+    {
+      "word": "PODIA",
+      "start": 29.9,
+      "end": 30.22
+    },
+    {
+      "word": "TER",
+      "start": 30.22,
+      "end": 30.46
+    },
+    {
+      "word": "A",
+      "start": 30.46,
+      "end": 30.58
+    },
+    {
+      "word": "PELE",
+      "start": 30.58,
+      "end": 30.78
+    },
+    {
+      "word": "ASSIM",
+      "start": 30.78,
+      "end": 31.08
+    },
+    {
+      "word": "TÃO",
+      "start": 31.08,
+      "end": 31.38
+    },
+    {
+      "word": "SENSÍVEL.",
+      "start": 31.38,
+      "end": 32.06
+    },
+    {
+      "word": "DE",
+      "start": 32.4,
+      "end": 32.52
+    },
+    {
+      "word": "ANTES",
+      "start": 32.52,
+      "end": 32.76
+    },
+    {
+      "word": "DISSO,",
+      "start": 32.76,
+      "end": 33.1
+    },
+    {
+      "word": "O",
+      "start": 33.26,
+      "end": 33.28
+    },
+    {
+      "word": "PRÍNCIPE",
+      "start": 33.28,
+      "end": 33.62
+    },
+    {
+      "word": "SE",
+      "start": 33.62,
+      "end": 33.76
+    },
+    {
+      "word": "CASOU",
+      "start": 33.76,
+      "end": 34.1
+    },
+    {
+      "word": "COM",
+      "start": 34.1,
+      "end": 34.26
+    },
+    {
+      "word": "ELA.",
+      "start": 34.26,
+      "end": 34.6
+    },
+    {
+      "word": "POIS",
+      "start": 34.9,
+      "end": 35.02
+    },
+    {
+      "word": "AGORA",
+      "start": 35.02,
+      "end": 35.3
+    },
+    {
+      "word": "SABIA",
+      "start": 35.3,
+      "end": 35.72
+    },
+    {
+      "word": "QUE",
+      "start": 35.72,
+      "end": 35.96
+    },
+    {
+      "word": "TINHA",
+      "start": 35.96,
+      "end": 36.18
+    },
+    {
+      "word": "UMA",
+      "start": 36.18,
+      "end": 36.36
+    },
+    {
+      "word": "PRINCESA",
+      "start": 36.36,
+      "end": 36.88
+    },
+    {
+      "word": "DE",
+      "start": 36.88,
+      "end": 36.98
+    },
+    {
+      "word": "VERDADE.",
+      "start": 36.98,
+      "end": 37.34
+    }
+  ],
+  "full_text": "PARTI 2. A PRINCESA E A IRVÍLIA. DE MANHÃ, TODOS PERGUNTARAM COMO ELA HAVIA DORMIDO. APÉSSEMA MENTE RESPONDEU A PRINCESA. MAL CONSEGUI PREGAR O OLHO À NOITE INTEIRA. SABE DEUS O QUE HAVIA NAQUELA CAMA? ERA UMA COISA TÃO DURA QUE FIQUEI TODA CHEIA DE MANCHAS PRETAS E AZUIS. É REALMENTE MEDONHO. ENTÃO É CLARO, TODOS PUDERAM VER QUE ELA ERA REALMENTE UMA PRINCESA, PORQUE TINHA SENTIDO A IRVÍLIA ATRAVÉS DE 20 COLCHÕES E DE 20 ADREDONS. SÓ UMA VERDADEIRA PRINCESA PODIA TER A PELE ASSIM TÃO SENSÍVEL. DE ANTES DISSO, O PRÍNCIPE SE CASOU COM ELA. POIS AGORA SABIA QUE TINHA UMA PRINCESA DE VERDADE."
+}

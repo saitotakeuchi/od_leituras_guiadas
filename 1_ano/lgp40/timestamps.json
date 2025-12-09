@@ -1,0 +1,1124 @@
+{
+  "audio_file": "11_lgp40.mp3",
+  "language": "pt",
+  "model": "base",
+  "duration": 0,
+  "words": [
+    {
+      "word": "E",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "A",
+      "start": 0.24,
+      "end": 3.18
+    },
+    {
+      "word": "GENTE",
+      "start": 3.18,
+      "end": 3.2
+    },
+    {
+      "word": "VAI",
+      "start": 3.2,
+      "end": 3.22
+    },
+    {
+      "word": "VER",
+      "start": 3.22,
+      "end": 3.5
+    },
+    {
+      "word": "A",
+      "start": 3.5,
+      "end": 4.88
+    },
+    {
+      "word": "GENTE",
+      "start": 4.88,
+      "end": 4.98
+    },
+    {
+      "word": "QUE",
+      "start": 4.98,
+      "end": 5.0
+    },
+    {
+      "word": "VAI",
+      "start": 5.0,
+      "end": 5.02
+    },
+    {
+      "word": "VER",
+      "start": 5.02,
+      "end": 5.04
+    },
+    {
+      "word": "A",
+      "start": 5.04,
+      "end": 5.06
+    },
+    {
+      "word": "GENTE",
+      "start": 5.06,
+      "end": 5.08
+    },
+    {
+      "word": "QUE",
+      "start": 5.08,
+      "end": 5.1
+    },
+    {
+      "word": "VAI",
+      "start": 5.1,
+      "end": 5.12
+    },
+    {
+      "word": "VER",
+      "start": 5.12,
+      "end": 5.14
+    },
+    {
+      "word": "A",
+      "start": 5.14,
+      "end": 5.16
+    },
+    {
+      "word": "GENTE",
+      "start": 5.16,
+      "end": 5.18
+    },
+    {
+      "word": "QUE",
+      "start": 5.18,
+      "end": 5.2
+    },
+    {
+      "word": "VAI",
+      "start": 5.2,
+      "end": 5.22
+    },
+    {
+      "word": "VER",
+      "start": 5.22,
+      "end": 5.24
+    },
+    {
+      "word": "A",
+      "start": 5.24,
+      "end": 5.26
+    },
+    {
+      "word": "GENTE",
+      "start": 5.26,
+      "end": 5.28
+    },
+    {
+      "word": "QUE",
+      "start": 5.28,
+      "end": 5.3
+    },
+    {
+      "word": "VAI",
+      "start": 5.3,
+      "end": 5.32
+    },
+    {
+      "word": "VER",
+      "start": 5.32,
+      "end": 5.34
+    },
+    {
+      "word": "A",
+      "start": 5.34,
+      "end": 5.36
+    },
+    {
+      "word": "GENTE",
+      "start": 5.36,
+      "end": 5.38
+    },
+    {
+      "word": "QUE",
+      "start": 5.38,
+      "end": 5.4
+    },
+    {
+      "word": "VAI",
+      "start": 5.4,
+      "end": 5.42
+    },
+    {
+      "word": "VER",
+      "start": 5.42,
+      "end": 5.44
+    },
+    {
+      "word": "A",
+      "start": 5.44,
+      "end": 5.46
+    },
+    {
+      "word": "GENTE",
+      "start": 5.46,
+      "end": 5.48
+    },
+    {
+      "word": "QUE",
+      "start": 5.48,
+      "end": 5.5
+    },
+    {
+      "word": "VAI",
+      "start": 5.5,
+      "end": 5.52
+    },
+    {
+      "word": "VER",
+      "start": 5.52,
+      "end": 5.54
+    },
+    {
+      "word": "A",
+      "start": 5.54,
+      "end": 5.56
+    },
+    {
+      "word": "GENTE",
+      "start": 5.56,
+      "end": 5.58
+    },
+    {
+      "word": "QUE",
+      "start": 5.58,
+      "end": 5.6
+    },
+    {
+      "word": "VAI",
+      "start": 5.6,
+      "end": 5.62
+    },
+    {
+      "word": "VER",
+      "start": 5.62,
+      "end": 5.64
+    },
+    {
+      "word": "A",
+      "start": 5.64,
+      "end": 5.66
+    },
+    {
+      "word": "GENTE",
+      "start": 5.66,
+      "end": 5.68
+    },
+    {
+      "word": "QUE",
+      "start": 5.68,
+      "end": 5.7
+    },
+    {
+      "word": "VAI",
+      "start": 5.7,
+      "end": 5.72
+    },
+    {
+      "word": "VER",
+      "start": 5.72,
+      "end": 5.74
+    },
+    {
+      "word": "A",
+      "start": 5.74,
+      "end": 5.76
+    },
+    {
+      "word": "GENTE",
+      "start": 5.76,
+      "end": 5.78
+    },
+    {
+      "word": "QUE",
+      "start": 5.78,
+      "end": 5.8
+    },
+    {
+      "word": "VAI",
+      "start": 5.8,
+      "end": 5.82
+    },
+    {
+      "word": "VER",
+      "start": 5.82,
+      "end": 5.84
+    },
+    {
+      "word": "A",
+      "start": 5.84,
+      "end": 5.86
+    },
+    {
+      "word": "GENTE",
+      "start": 5.86,
+      "end": 5.88
+    },
+    {
+      "word": "QUE",
+      "start": 5.88,
+      "end": 5.9
+    },
+    {
+      "word": "VAI",
+      "start": 5.9,
+      "end": 5.92
+    },
+    {
+      "word": "VER",
+      "start": 5.92,
+      "end": 5.94
+    },
+    {
+      "word": "A",
+      "start": 5.94,
+      "end": 5.96
+    },
+    {
+      "word": "GENTE",
+      "start": 5.96,
+      "end": 5.98
+    },
+    {
+      "word": "QUE",
+      "start": 5.98,
+      "end": 6.0
+    },
+    {
+      "word": "VAI",
+      "start": 6.0,
+      "end": 6.02
+    },
+    {
+      "word": "VER",
+      "start": 6.02,
+      "end": 6.04
+    },
+    {
+      "word": "A",
+      "start": 6.04,
+      "end": 6.06
+    },
+    {
+      "word": "GENTE",
+      "start": 6.06,
+      "end": 6.08
+    },
+    {
+      "word": "QUE",
+      "start": 6.08,
+      "end": 6.1
+    },
+    {
+      "word": "VAI",
+      "start": 6.1,
+      "end": 6.12
+    },
+    {
+      "word": "VER",
+      "start": 6.12,
+      "end": 6.14
+    },
+    {
+      "word": "A",
+      "start": 6.14,
+      "end": 6.16
+    },
+    {
+      "word": "GENTE",
+      "start": 6.16,
+      "end": 6.18
+    },
+    {
+      "word": "QUE",
+      "start": 6.18,
+      "end": 6.2
+    },
+    {
+      "word": "VAI",
+      "start": 6.2,
+      "end": 6.22
+    },
+    {
+      "word": "VER",
+      "start": 6.22,
+      "end": 6.24
+    },
+    {
+      "word": "A",
+      "start": 6.24,
+      "end": 6.26
+    },
+    {
+      "word": "GENTE",
+      "start": 6.26,
+      "end": 6.28
+    },
+    {
+      "word": "QUE",
+      "start": 6.28,
+      "end": 6.3
+    },
+    {
+      "word": "VAI",
+      "start": 6.3,
+      "end": 6.32
+    },
+    {
+      "word": "VER",
+      "start": 6.32,
+      "end": 6.34
+    },
+    {
+      "word": "A",
+      "start": 6.34,
+      "end": 6.36
+    },
+    {
+      "word": "GENTE",
+      "start": 6.36,
+      "end": 6.38
+    },
+    {
+      "word": "QUE",
+      "start": 6.38,
+      "end": 6.4
+    },
+    {
+      "word": "VAI",
+      "start": 6.4,
+      "end": 6.42
+    },
+    {
+      "word": "VER",
+      "start": 6.42,
+      "end": 6.44
+    },
+    {
+      "word": "A",
+      "start": 6.44,
+      "end": 6.46
+    },
+    {
+      "word": "GENTE",
+      "start": 6.46,
+      "end": 6.48
+    },
+    {
+      "word": "QUE",
+      "start": 6.48,
+      "end": 6.5
+    },
+    {
+      "word": "VAI",
+      "start": 6.5,
+      "end": 6.52
+    },
+    {
+      "word": "VER",
+      "start": 6.52,
+      "end": 6.54
+    },
+    {
+      "word": "A",
+      "start": 6.54,
+      "end": 6.56
+    },
+    {
+      "word": "GENTE",
+      "start": 6.56,
+      "end": 6.58
+    },
+    {
+      "word": "QUE",
+      "start": 6.58,
+      "end": 6.6
+    },
+    {
+      "word": "VAI",
+      "start": 6.6,
+      "end": 6.62
+    },
+    {
+      "word": "VER",
+      "start": 6.62,
+      "end": 6.64
+    },
+    {
+      "word": "A",
+      "start": 6.64,
+      "end": 6.66
+    },
+    {
+      "word": "GENTE",
+      "start": 6.66,
+      "end": 6.68
+    },
+    {
+      "word": "QUE",
+      "start": 6.68,
+      "end": 6.7
+    },
+    {
+      "word": "VAI",
+      "start": 6.7,
+      "end": 6.72
+    },
+    {
+      "word": "VER",
+      "start": 6.72,
+      "end": 6.74
+    },
+    {
+      "word": "A",
+      "start": 6.74,
+      "end": 6.76
+    },
+    {
+      "word": "GENTE",
+      "start": 6.76,
+      "end": 6.78
+    },
+    {
+      "word": "QUE",
+      "start": 6.78,
+      "end": 6.8
+    },
+    {
+      "word": "VAI",
+      "start": 6.8,
+      "end": 6.82
+    },
+    {
+      "word": "VER",
+      "start": 6.82,
+      "end": 6.84
+    },
+    {
+      "word": "A",
+      "start": 6.84,
+      "end": 6.86
+    },
+    {
+      "word": "GENTE",
+      "start": 6.86,
+      "end": 6.88
+    },
+    {
+      "word": "QUE",
+      "start": 6.88,
+      "end": 6.9
+    },
+    {
+      "word": "VAI",
+      "start": 6.9,
+      "end": 6.92
+    },
+    {
+      "word": "VER",
+      "start": 6.92,
+      "end": 6.94
+    },
+    {
+      "word": "A",
+      "start": 6.94,
+      "end": 6.96
+    },
+    {
+      "word": "GENTE",
+      "start": 6.96,
+      "end": 6.98
+    },
+    {
+      "word": "QUE",
+      "start": 6.98,
+      "end": 7.0
+    },
+    {
+      "word": "VAI",
+      "start": 7.0,
+      "end": 7.02
+    },
+    {
+      "word": "VER",
+      "start": 7.02,
+      "end": 7.04
+    },
+    {
+      "word": "A",
+      "start": 7.04,
+      "end": 7.06
+    },
+    {
+      "word": "GENTE",
+      "start": 7.06,
+      "end": 7.08
+    },
+    {
+      "word": "QUE",
+      "start": 7.08,
+      "end": 7.1
+    },
+    {
+      "word": "VAI",
+      "start": 7.1,
+      "end": 7.12
+    },
+    {
+      "word": "VER",
+      "start": 7.12,
+      "end": 7.14
+    },
+    {
+      "word": "A",
+      "start": 7.14,
+      "end": 7.16
+    },
+    {
+      "word": "GENTE",
+      "start": 7.16,
+      "end": 7.18
+    },
+    {
+      "word": "QUE",
+      "start": 7.18,
+      "end": 7.2
+    },
+    {
+      "word": "VAI",
+      "start": 7.2,
+      "end": 7.22
+    },
+    {
+      "word": "VER",
+      "start": 7.22,
+      "end": 7.24
+    },
+    {
+      "word": "A",
+      "start": 7.24,
+      "end": 7.26
+    },
+    {
+      "word": "GENTE",
+      "start": 7.26,
+      "end": 7.28
+    },
+    {
+      "word": "QUE",
+      "start": 7.28,
+      "end": 7.3
+    },
+    {
+      "word": "VAI",
+      "start": 7.3,
+      "end": 7.32
+    },
+    {
+      "word": "VER",
+      "start": 7.32,
+      "end": 7.34
+    },
+    {
+      "word": "A",
+      "start": 7.34,
+      "end": 7.36
+    },
+    {
+      "word": "GENTE",
+      "start": 7.36,
+      "end": 7.38
+    },
+    {
+      "word": "QUE",
+      "start": 7.38,
+      "end": 7.4
+    },
+    {
+      "word": "VAI",
+      "start": 7.4,
+      "end": 7.42
+    },
+    {
+      "word": "VER",
+      "start": 7.42,
+      "end": 7.44
+    },
+    {
+      "word": "A",
+      "start": 7.44,
+      "end": 7.46
+    },
+    {
+      "word": "GENTE",
+      "start": 7.46,
+      "end": 7.48
+    },
+    {
+      "word": "QUE",
+      "start": 7.48,
+      "end": 7.5
+    },
+    {
+      "word": "VAI",
+      "start": 7.5,
+      "end": 7.52
+    },
+    {
+      "word": "VER",
+      "start": 7.52,
+      "end": 7.54
+    },
+    {
+      "word": "A",
+      "start": 7.54,
+      "end": 7.56
+    },
+    {
+      "word": "GENTE",
+      "start": 7.56,
+      "end": 7.58
+    },
+    {
+      "word": "QUE",
+      "start": 7.58,
+      "end": 7.6
+    },
+    {
+      "word": "VAI",
+      "start": 7.6,
+      "end": 7.62
+    },
+    {
+      "word": "VER",
+      "start": 7.62,
+      "end": 7.64
+    },
+    {
+      "word": "A",
+      "start": 7.64,
+      "end": 7.66
+    },
+    {
+      "word": "GENTE",
+      "start": 7.66,
+      "end": 7.68
+    },
+    {
+      "word": "QUE",
+      "start": 7.68,
+      "end": 7.7
+    },
+    {
+      "word": "VAI",
+      "start": 7.7,
+      "end": 7.72
+    },
+    {
+      "word": "VER",
+      "start": 7.72,
+      "end": 7.74
+    },
+    {
+      "word": "A",
+      "start": 7.74,
+      "end": 7.76
+    },
+    {
+      "word": "GENTE",
+      "start": 7.76,
+      "end": 7.78
+    },
+    {
+      "word": "QUE",
+      "start": 7.78,
+      "end": 7.8
+    },
+    {
+      "word": "VAI",
+      "start": 7.8,
+      "end": 7.82
+    },
+    {
+      "word": "VER",
+      "start": 7.82,
+      "end": 7.84
+    },
+    {
+      "word": "A",
+      "start": 7.84,
+      "end": 7.86
+    },
+    {
+      "word": "GENTE",
+      "start": 7.86,
+      "end": 7.88
+    },
+    {
+      "word": "QUE",
+      "start": 7.88,
+      "end": 7.9
+    },
+    {
+      "word": "VAI",
+      "start": 7.9,
+      "end": 7.92
+    },
+    {
+      "word": "VER",
+      "start": 7.92,
+      "end": 7.94
+    },
+    {
+      "word": "A",
+      "start": 7.94,
+      "end": 7.96
+    },
+    {
+      "word": "GENTE",
+      "start": 7.96,
+      "end": 7.98
+    },
+    {
+      "word": "QUE",
+      "start": 7.98,
+      "end": 8.0
+    },
+    {
+      "word": "VAI",
+      "start": 8.0,
+      "end": 8.02
+    },
+    {
+      "word": "VER",
+      "start": 8.02,
+      "end": 8.04
+    },
+    {
+      "word": "A",
+      "start": 8.04,
+      "end": 8.06
+    },
+    {
+      "word": "GENTE",
+      "start": 8.06,
+      "end": 8.08
+    },
+    {
+      "word": "QUE",
+      "start": 8.08,
+      "end": 8.1
+    },
+    {
+      "word": "VAI",
+      "start": 8.1,
+      "end": 8.12
+    },
+    {
+      "word": "VER",
+      "start": 8.12,
+      "end": 8.14
+    },
+    {
+      "word": "A",
+      "start": 8.14,
+      "end": 8.16
+    },
+    {
+      "word": "GENTE",
+      "start": 8.16,
+      "end": 8.18
+    },
+    {
+      "word": "QUE",
+      "start": 8.18,
+      "end": 8.2
+    },
+    {
+      "word": "VAI",
+      "start": 8.2,
+      "end": 8.22
+    },
+    {
+      "word": "VER",
+      "start": 8.22,
+      "end": 8.24
+    },
+    {
+      "word": "A",
+      "start": 8.24,
+      "end": 8.26
+    },
+    {
+      "word": "GENTE",
+      "start": 8.26,
+      "end": 8.28
+    },
+    {
+      "word": "QUE",
+      "start": 8.28,
+      "end": 8.3
+    },
+    {
+      "word": "VAI",
+      "start": 8.3,
+      "end": 8.32
+    },
+    {
+      "word": "VER",
+      "start": 8.32,
+      "end": 8.34
+    },
+    {
+      "word": "A",
+      "start": 8.34,
+      "end": 8.36
+    },
+    {
+      "word": "GENTE",
+      "start": 8.36,
+      "end": 8.38
+    },
+    {
+      "word": "QUE",
+      "start": 8.38,
+      "end": 8.4
+    },
+    {
+      "word": "VAI",
+      "start": 8.4,
+      "end": 8.42
+    },
+    {
+      "word": "VER",
+      "start": 8.42,
+      "end": 8.44
+    },
+    {
+      "word": "A",
+      "start": 8.44,
+      "end": 8.46
+    },
+    {
+      "word": "GENTE",
+      "start": 8.46,
+      "end": 8.48
+    },
+    {
+      "word": "QUE",
+      "start": 8.48,
+      "end": 8.5
+    },
+    {
+      "word": "VAI",
+      "start": 8.5,
+      "end": 8.52
+    },
+    {
+      "word": "VER",
+      "start": 8.52,
+      "end": 8.54
+    },
+    {
+      "word": "A",
+      "start": 8.54,
+      "end": 8.56
+    },
+    {
+      "word": "GENTE",
+      "start": 8.56,
+      "end": 8.58
+    },
+    {
+      "word": "QUE",
+      "start": 8.58,
+      "end": 8.6
+    },
+    {
+      "word": "VAI",
+      "start": 8.6,
+      "end": 8.62
+    },
+    {
+      "word": "VER",
+      "start": 8.62,
+      "end": 8.64
+    },
+    {
+      "word": "A",
+      "start": 8.64,
+      "end": 8.66
+    },
+    {
+      "word": "GENTE",
+      "start": 8.66,
+      "end": 8.68
+    },
+    {
+      "word": "QUE",
+      "start": 8.68,
+      "end": 8.7
+    },
+    {
+      "word": "VAI",
+      "start": 8.7,
+      "end": 8.72
+    },
+    {
+      "word": "VER",
+      "start": 8.72,
+      "end": 8.74
+    },
+    {
+      "word": "A",
+      "start": 8.74,
+      "end": 8.76
+    },
+    {
+      "word": "GENTE",
+      "start": 8.76,
+      "end": 8.78
+    },
+    {
+      "word": "QUE",
+      "start": 8.78,
+      "end": 8.8
+    },
+    {
+      "word": "VAI",
+      "start": 8.8,
+      "end": 8.82
+    },
+    {
+      "word": "VER",
+      "start": 8.82,
+      "end": 8.84
+    },
+    {
+      "word": "A",
+      "start": 8.84,
+      "end": 8.86
+    },
+    {
+      "word": "GENTE",
+      "start": 8.86,
+      "end": 8.88
+    },
+    {
+      "word": "QUE",
+      "start": 8.88,
+      "end": 8.9
+    },
+    {
+      "word": "VAI",
+      "start": 8.9,
+      "end": 8.92
+    },
+    {
+      "word": "VER",
+      "start": 8.92,
+      "end": 8.94
+    },
+    {
+      "word": "A",
+      "start": 8.94,
+      "end": 8.96
+    },
+    {
+      "word": "GENTE",
+      "start": 8.96,
+      "end": 8.98
+    },
+    {
+      "word": "QUE",
+      "start": 8.98,
+      "end": 9.0
+    },
+    {
+      "word": "VAI",
+      "start": 9.0,
+      "end": 9.02
+    },
+    {
+      "word": "VER",
+      "start": 9.02,
+      "end": 9.04
+    },
+    {
+      "word": "A",
+      "start": 9.04,
+      "end": 9.06
+    },
+    {
+      "word": "GENTE",
+      "start": 9.06,
+      "end": 9.08
+    },
+    {
+      "word": "QUE",
+      "start": 9.08,
+      "end": 9.1
+    },
+    {
+      "word": "VAI",
+      "start": 9.1,
+      "end": 9.12
+    },
+    {
+      "word": "VER",
+      "start": 9.12,
+      "end": 9.14
+    },
+    {
+      "word": "A",
+      "start": 9.14,
+      "end": 9.16
+    },
+    {
+      "word": "GENTE",
+      "start": 9.16,
+      "end": 9.18
+    },
+    {
+      "word": "QUE",
+      "start": 9.18,
+      "end": 9.2
+    },
+    {
+      "word": "VAI",
+      "start": 9.2,
+      "end": 9.22
+    },
+    {
+      "word": "VER",
+      "start": 9.22,
+      "end": 9.24
+    },
+    {
+      "word": "A",
+      "start": 9.24,
+      "end": 9.26
+    },
+    {
+      "word": "GENTE",
+      "start": 9.26,
+      "end": 9.28
+    },
+    {
+      "word": "QUE",
+      "start": 9.28,
+      "end": 29.98
+    }
+  ],
+  "full_text": "E A GENTE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE VAI VER A GENTE QUE"
+}

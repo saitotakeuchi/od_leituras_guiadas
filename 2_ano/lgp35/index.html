@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leitura Guiada - O Macaco Foi à Feira</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- handtalk -->
+    <script src="https://plugin.handtalk.me/web/latest/handtalk.min.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YXJ8FSB2VX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)}
+        gtag('js', new Date());
+        gtag('config', 'G-YXJ8FSB2VX');
+    </script>
+</head>
+<body>
+    <main class="container" id="main-view">
+        <article class="reading-content" aria-label="Texto para leitura guiada">
+                        <h1 class="title">
+                <span data-start="0.12" data-end="0.2">O</span>
+                    <span data-start="0.2" data-end="0.62">MACACO</span>
+                    <span data-start="0.62" data-end="0.82">FOI</span>
+                    <span data-start="0.82" data-end="0.96">À</span>
+                    <span data-start="0.96" data-end="1.34">FEIRA</span>
+            </h1>
+            <div class="text-content" id="lyrics" aria-live="polite">
+                <p>
+                    <span data-start="1.68" data-end="1.78">O</span>
+                    <span data-start="1.78" data-end="2.18">MACACO</span>
+                    <span data-start="2.18" data-end="2.36">FOI</span>
+                    <span data-start="2.36" data-end="2.42">À</span>
+                    <span data-start="2.42" data-end="2.78">FEIRA</span>
+                    <span data-start="3.18" data-end="3.54">NÃO</span>
+                    <span data-start="3.54" data-end="3.66">SABIA</span>
+                    <span data-start="3.66" data-end="4.16">O</span>
+                    <span data-start="4.5" data-end="4.68">QUE</span>
+                    <span data-start="4.68" data-end="4.8">COMPRAR</span>
+                    <span data-start="4.8" data-end="5.22">COMPROU</span>
+                    <span data-start="5.22" data-end="5.36">UMA</span>
+                    <span data-start="5.36" data-end="5.9">CADEIRA</span>
+                    <span data-start="6.1" data-end="6.24">PARA</span>
+                    <span data-start="6.24" data-end="6.74">A</span>
+                    <span data-start="6.74" data-end="6.88">COMADRE</span>
+                    <span data-start="6.88" data-end="7.38">SE</span>
+                    <span data-start="7.66" data-end="7.8">SENTAR</span>
+                    <span data-start="7.8" data-end="8.24">A</span>
+                    <span data-start="8.24" data-end="8.96">COMADRE</span>
+                    <span data-start="9.22" data-end="9.7">SE</span>
+                    <span data-start="9.7" data-end="9.88">SENTOU</span>
+                    <span data-start="9.88" data-end="10.48">A</span>
+                    <span data-start="10.76" data-end="10.92">CADEIRA</span>
+                    <span data-start="10.92" data-end="11.22">ESBORRACHOU</span>
+                    <span data-start="11.22" data-end="11.42">COITADA</span>
+                    <span data-start="11.42" data-end="11.96">DA</span>
+                    <span data-start="11.96" data-end="12.46">COMADRE</span>
+                    <span data-start="11.96" data-end="12.46">FOI</span>
+                    <span data-start="11.96" data-end="12.46">PARAR</span>
+                    <span data-start="11.96" data-end="12.46">NO</span>
+                    <span data-start="11.96" data-end="12.46">CORREDOR</span>
+                </p>
+            </div>
+        </article>
+
+        <div class="audio-controls">
+            <input type="range" id="progress-bar" class="progress-bar" value="0" min="0" max="100" aria-label="Progresso do áudio">
+            <div class="controls-buttons">
+                <button id="play-btn" class="btn-control" aria-label="Reproduzir áudio">
+                    <svg class="icon-play" viewBox="0 0 24 24" aria-hidden="true">
+                        <polygon points="5,3 19,12 5,21" fill="currentColor"/>
+                    </svg>
+                </button>
+                <button id="pause-btn" class="btn-control" aria-label="Pausar áudio">
+                    <svg class="icon-pause" viewBox="0 0 24 24" aria-hidden="true">
+                        <rect x="6" y="4" width="4" height="16" fill="currentColor"/>
+                        <rect x="14" y="4" width="4" height="16" fill="currentColor"/>
+                    </svg>
+                </button>
+                <button id="texto-completo-btn" class="btn-texto-completo" aria-label="Ver texto completo">
+                    Texto completo
+                </button>
+            </div>
+        </div>
+
+        <audio id="audio" preload="metadata">
+            <source src="assets/audio/21_lgp35.mp3" type="audio/mpeg">
+            Seu navegador não suporta o elemento de áudio.
+        </audio>
+    </main>
+
+    <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+        <div class="modal-content">
+            <button id="close-modal-btn" class="btn-close" aria-label="Fechar texto completo">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+                    <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </button>
+            <h2 id="modal-title" class="sr-only">Texto completo - Página 35</h2>
+            <img src="assets/images/21_lgp35.png" alt="Regras de Convivência da Turma - Texto completo da página 35 do livro" class="modal-image" id="modal-image">
+            <button id="zoom-btn" class="btn-zoom" aria-label="Ampliar imagem">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="10" cy="10" r="7" stroke="currentColor" stroke-width="2" fill="none"/>
+                    <line x1="15" y1="15" x2="21" y2="21" stroke="currentColor" stroke-width="2"/>
+                    <line x1="7" y1="10" x2="13" y2="10" stroke="currentColor" stroke-width="2"/>
+                    <line x1="10" y1="7" x2="10" y2="13" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </button>
+            <button id="voltar-btn" class="btn-voltar">Voltar</button>
+        </div>
+    </div>
+
+    <div class="zoom-overlay" id="zoom-overlay">
+        <button class="btn-close-zoom" id="close-zoom-btn" aria-label="Fechar zoom">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+                <line x1="6" y1="18" x2="18" y2="6" stroke="currentColor" stroke-width="2"/>
+            </svg>
+        </button>
+        <img src="assets/images/21_lgp35.png" alt="Imagem ampliada" id="zoom-image">
+    </div>
+
+    <footer class="footer">
+        <div class="footer-logos">
+            <img src="assets/images/logo_ab.png" alt="Aprende Brasil" class="footer-logo">
+            <img src="assets/images/logo_vml.png" alt="Vou Mais Longe" class="footer-logo">
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+    <!-- handtalk initialization -->
+    <script>
+    var ht = new HT({
+        token: "bae8765f08001f7b01586ddbc10ba2af",
+        addonsMap: {
+            fontControl: {
+                letterSpacing: false,
+                lineHeight: false,
+            },
+            navigation: {
+                readerMode: false,
+                pageStructure: false,
+                hideImages: false,
+                highlightHeadings: false,
+                pauseAnimations: false,
+            },
+        },
+    });
+    </script>
+</body>
+</html>
