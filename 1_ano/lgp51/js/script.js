@@ -43,8 +43,8 @@
 
     // Audio Events
     function setupAudioEvents() {
-        // Set progress bar max to the effective duration (last word end time)
-        progressBar.max = effectiveDuration;
+        // Use 100 as max for simplicity - we'll map times to percentage
+        progressBar.max = 100;
 
         audio.addEventListener('timeupdate', function() {
             updateProgressBar();
@@ -55,6 +55,8 @@
             isPlaying = false;
             updatePlayPauseState();
             resetTextHighlight();
+            // Ensure progress bar is at 100% when audio ends
+            progressBar.value = 100;
         });
 
         audio.addEventListener('play', function() {
@@ -79,12 +81,13 @@
         });
 
         progressBar.addEventListener('input', function() {
-            audio.currentTime = progressBar.value;
+            // Map percentage back to time
+            audio.currentTime = (progressBar.value / 100) * effectiveDuration;
             updateTextHighlight();
         });
 
         progressBar.addEventListener('change', function() {
-            audio.currentTime = progressBar.value;
+            audio.currentTime = (progressBar.value / 100) * effectiveDuration;
         });
     }
 
@@ -121,20 +124,21 @@
                 }
             }
 
-            // Arrow keys for seeking
+            // Arrow keys for seeking (5 seconds)
             if (e.key === 'ArrowLeft' && modalOverlay.hidden) {
                 audio.currentTime = Math.max(0, audio.currentTime - 5);
             }
             if (e.key === 'ArrowRight' && modalOverlay.hidden) {
-                audio.currentTime = Math.min(effectiveDuration, audio.currentTime + 5);
+                audio.currentTime = Math.min(audio.duration, audio.currentTime + 5);
             }
         });
     }
 
     // Update Progress Bar
     function updateProgressBar() {
-        // Clamp to effective duration so bar reaches 100% when reading ends
-        progressBar.value = Math.min(audio.currentTime, effectiveDuration);
+        // Map current time to percentage (0-100), reaching 100% when reading ends
+        const percentage = Math.min((audio.currentTime / effectiveDuration) * 100, 100);
+        progressBar.value = percentage;
     }
 
     // Update Play/Pause Button State
