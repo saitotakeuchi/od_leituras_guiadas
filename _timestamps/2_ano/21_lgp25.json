@@ -22,7 +22,7 @@
     {
       "word": "DEZEMBRO.",
       "start": 1.68,
-      "end": 2.22
+      "end": 2.38
     },
     {
       "word": "QUERIDO",
@@ -32,7 +32,7 @@
     {
       "word": "DIÁRIO.",
       "start": 2.88,
-      "end": 3.4
+      "end": 3.68
     },
     {
       "word": "HOJE",
@@ -52,7 +52,7 @@
     {
       "word": "FELIZ.",
       "start": 4.48,
-      "end": 4.86
+      "end": 5.22
     },
     {
       "word": "DEPOIS",
@@ -97,7 +97,7 @@
     {
       "word": "JULIANA.",
       "start": 7.88,
-      "end": 8.6
+      "end": 8.94
     },
     {
       "word": "ELA",
@@ -182,7 +182,7 @@
     {
       "word": "VOO.",
       "start": 12.7,
-      "end": 13.06
+      "end": 13.28
     },
     {
       "word": "FOMOS",
@@ -247,7 +247,7 @@
     {
       "word": "CASA.",
       "start": 17.32,
-      "end": 17.78
+      "end": 18.06
     },
     {
       "word": "COMBINAMOS",
@@ -322,7 +322,7 @@
     {
       "word": "DIAS.",
       "start": 22.6,
-      "end": 23.06
+      "end": 23.48
     },
     {
       "word": "ESPERO",
@@ -367,7 +367,7 @@
     {
       "word": "HOJE.",
       "start": 25.64,
-      "end": 26.08
+      "end": 26.4
     },
     {
       "word": "CAROL!",
@@ -375,5 +375,7 @@
       "end": 26.8
     }
   ],
-  "full_text": "SALVADOR 17 DE DEZEMBRO. QUERIDO DIÁRIO. HOJE ESTOU MUITO FELIZ. DEPOIS DE MUITO TEMPO ENCONTREI MINHA MELHOR AMIGA JULIANA. ELA SE MUDOU PARA A OUTRA CIDADE E VEIO PASSAR AS FÉRIAS NA CASA DE SUA VOO. FOMOS TOMAR SORVETE JUNTAS E DEPOIS BRINCAMOS NO PARQUE PERTO DA MINHA CASA. COMBINAMOS DE SAIR NOVAMENTE NO SÁBADO DO PRÓXIMO FINAL DE SEMANA DAQUI A QUATRO DIAS. ESPERO QUE SEJAM UM DIA ESPECIAL COMO FOI HOJE. CAROL!"
+  "full_text": "SALVADOR 17 DE DEZEMBRO. QUERIDO DIÁRIO. HOJE ESTOU MUITO FELIZ. DEPOIS DE MUITO TEMPO ENCONTREI MINHA MELHOR AMIGA JULIANA. ELA SE MUDOU PARA A OUTRA CIDADE E VEIO PASSAR AS FÉRIAS NA CASA DE SUA VOO. FOMOS TOMAR SORVETE JUNTAS E DEPOIS BRINCAMOS NO PARQUE PERTO DA MINHA CASA. COMBINAMOS DE SAIR NOVAMENTE NO SÁBADO DO PRÓXIMO FINAL DE SEMANA DAQUI A QUATRO DIAS. ESPERO QUE SEJAM UM DIA ESPECIAL COMO FOI HOJE. CAROL!",
+  "postprocessed": true,
+  "gaps_fixed": 8
 }

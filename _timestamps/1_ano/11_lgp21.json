@@ -27,7 +27,7 @@
     {
       "word": "TURMA.",
       "start": 1.42,
-      "end": 1.88
+      "end": 2.18
     },
     {
       "word": "RESPEITAR",
@@ -72,7 +72,7 @@
     {
       "word": "ESCOLA.",
       "start": 5.4,
-      "end": 5.82
+      "end": 6.18
     },
     {
       "word": "USAR",
@@ -92,7 +92,7 @@
     {
       "word": "RESPEITO.",
       "start": 7.18,
-      "end": 7.76
+      "end": 8.0
     },
     {
       "word": "POR",
@@ -102,7 +102,7 @@
     {
       "word": "FAVOR,",
       "start": 8.12,
-      "end": 8.48
+      "end": 8.74
     },
     {
       "word": "COM",
@@ -112,7 +112,7 @@
     {
       "word": "LICENÇA,",
       "start": 8.82,
-      "end": 9.4
+      "end": 9.58
     },
     {
       "word": "DESCULPE",
@@ -127,7 +127,7 @@
     {
       "word": "OBRIGADO.",
       "start": 10.14,
-      "end": 10.52
+      "end": 11.02
     },
     {
       "word": "CUIDAR",
@@ -147,7 +147,7 @@
     {
       "word": "MATERIAL.",
       "start": 11.76,
-      "end": 12.28
+      "end": 12.68
     },
     {
       "word": "NÃO",
@@ -242,7 +242,7 @@
     {
       "word": "VEZ.",
       "start": 17.34,
-      "end": 17.68
+      "end": 18.1
     },
     {
       "word": "OVRIR",
@@ -292,7 +292,7 @@
     {
       "word": "RESPEITO.",
       "start": 20.6,
-      "end": 21.18
+      "end": 21.48
     },
     {
       "word": "M",
@@ -342,7 +342,7 @@
     {
       "word": "LIMPA.",
       "start": 23.94,
-      "end": 24.34
+      "end": 24.62
     },
     {
       "word": "AJUDAR",
@@ -375,5 +375,7 @@
       "end": 26.72
     }
   ],
-  "full_text": "REGRAS DE CONVIVÊNCIA DA TURMA. RESPEITAR TODOS OS COLEGAS PROFESSORES E FUNCIONÁRIOS DA ESCOLA. USAR PALAVRAS DE RESPEITO. POR FAVOR, COM LICENÇA, DESCULPE E OBRIGADO. CUIDAR DE SEU MATERIAL. NÃO PEGAR O QUE NÃO É SEU SEM PEDIR. LEVANTAR A MÃO PARA FALAR E SABER ESPERAR SUA VEZ. OVRIR A PROFESSORA E OS COLEGAS COM ATENÇÃO E RESPEITO. M MANTER A SALA DE AULAS SEMPRE ORGANIZADA E LIMPA. AJUDAR OS COLEGAS QUANDO FOR POSSÍVEL."
+  "full_text": "REGRAS DE CONVIVÊNCIA DA TURMA. RESPEITAR TODOS OS COLEGAS PROFESSORES E FUNCIONÁRIOS DA ESCOLA. USAR PALAVRAS DE RESPEITO. POR FAVOR, COM LICENÇA, DESCULPE E OBRIGADO. CUIDAR DE SEU MATERIAL. NÃO PEGAR O QUE NÃO É SEU SEM PEDIR. LEVANTAR A MÃO PARA FALAR E SABER ESPERAR SUA VEZ. OVRIR A PROFESSORA E OS COLEGAS COM ATENÇÃO E RESPEITO. M MANTER A SALA DE AULAS SEMPRE ORGANIZADA E LIMPA. AJUDAR OS COLEGAS QUANDO FOR POSSÍVEL.",
+  "postprocessed": true,
+  "gaps_fixed": 10
 }

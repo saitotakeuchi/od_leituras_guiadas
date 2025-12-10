@@ -27,7 +27,7 @@
     {
       "word": "PINTO.",
       "start": 0.94,
-      "end": 1.36
+      "end": 1.66
     },
     {
       "word": "O",
@@ -52,7 +52,7 @@
     {
       "word": "PIA.",
       "start": 2.6,
-      "end": 2.96
+      "end": 3.28
     },
     {
       "word": "QUANTO",
@@ -77,7 +77,7 @@
     {
       "word": "PINGA?",
       "start": 4.14,
-      "end": 4.5
+      "end": 4.92
     },
     {
       "word": "MAIS",
@@ -97,7 +97,7 @@
     {
       "word": "PIA.",
       "start": 5.52,
-      "end": 5.92
+      "end": 6.2
     },
     {
       "word": "A",
@@ -112,7 +112,7 @@
     {
       "word": "PINGA.",
       "start": 6.62,
-      "end": 7.02
+      "end": 7.34
     },
     {
       "word": "O",
@@ -127,7 +127,7 @@
     {
       "word": "PIA.",
       "start": 7.76,
-      "end": 8.14
+      "end": 8.48
     },
     {
       "word": "PINGA",
@@ -142,7 +142,7 @@
     {
       "word": "PIA.",
       "start": 8.92,
-      "end": 9.2
+      "end": 9.5
     },
     {
       "word": "PIA",
@@ -157,7 +157,7 @@
     {
       "word": "PINTO.",
       "start": 9.84,
-      "end": 10.22
+      "end": 10.5
     },
     {
       "word": "O",
@@ -182,7 +182,7 @@
     {
       "word": "PIA.",
       "start": 11.48,
-      "end": 11.86
+      "end": 12.12
     },
     {
       "word": "A",
@@ -210,5 +210,7 @@
       "end": 13.46
     }
   ],
-  "full_text": "A PIA PERTO DO PINTO. O PINTO PERTO DA PIA. QUANTO MAIS A PIA PINGA? MAIS O PINTO PIA. A PIA PINGA. O PINTO PIA. PINGA A PIA. PIA O PINTO. O PINTO PERTO DA PIA. A PIA PERTO DO PINTO."
+  "full_text": "A PIA PERTO DO PINTO. O PINTO PERTO DA PIA. QUANTO MAIS A PIA PINGA? MAIS O PINTO PIA. A PIA PINGA. O PINTO PIA. PINGA A PIA. PIA O PINTO. O PINTO PERTO DA PIA. A PIA PERTO DO PINTO.",
+  "postprocessed": true,
+  "gaps_fixed": 9
 }

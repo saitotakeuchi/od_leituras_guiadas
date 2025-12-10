@@ -7,12 +7,12 @@
     {
       "word": "SEGUNDO,",
       "start": 0.16,
-      "end": 0.72
+      "end": 0.92
     },
     {
       "word": "UNIFORME.",
       "start": 0.92,
-      "end": 1.64
+      "end": 1.9
     },
     {
       "word": "É",
@@ -92,7 +92,7 @@
     {
       "word": "TARDE,",
       "start": 6.02,
-      "end": 6.44
+      "end": 6.76
     },
     {
       "word": "CONFORME",
@@ -112,7 +112,7 @@
     {
       "word": "CARTEIRINHA.",
       "start": 7.92,
-      "end": 8.6
+      "end": 8.88
     },
     {
       "word": "QUALQUER",
@@ -185,5 +185,7 @@
       "end": 14.72
     }
   ],
-  "full_text": "SEGUNDO, UNIFORME. É OBRIGATÓRIO O USO DO UNIFORME PARA OS ALUNOS DOS TURNOS DA MANHÃ E DA TARDE, CONFORME INDICADO NA CARTEIRINHA. QUALQUER SITUAÇÃO QUE IMPOSSIBILITE O USO DO UNIFORME DEVE SER COMUNICADA PELOS RESPONSÁVEIS VIAJENDA."
+  "full_text": "SEGUNDO, UNIFORME. É OBRIGATÓRIO O USO DO UNIFORME PARA OS ALUNOS DOS TURNOS DA MANHÃ E DA TARDE, CONFORME INDICADO NA CARTEIRINHA. QUALQUER SITUAÇÃO QUE IMPOSSIBILITE O USO DO UNIFORME DEVE SER COMUNICADA PELOS RESPONSÁVEIS VIAJENDA.",
+  "postprocessed": true,
+  "gaps_fixed": 4
 }

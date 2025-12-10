@@ -27,7 +27,7 @@
     {
       "word": "TARTARUGA.",
       "start": 0.78,
-      "end": 1.38
+      "end": 1.56
     },
     {
       "word": "A",
@@ -67,12 +67,12 @@
     {
       "word": "CORRIDA.",
       "start": 3.8,
-      "end": 4.28
+      "end": 4.64
     },
     {
       "word": "ESTA,",
       "start": 4.64,
-      "end": 4.96
+      "end": 5.14
     },
     {
       "word": "MESMO",
@@ -97,7 +97,7 @@
     {
       "word": "ABSURDA,",
       "start": 6.44,
-      "end": 7.04
+      "end": 7.2
     },
     {
       "word": "ACEITA",
@@ -107,7 +107,7 @@
     {
       "word": "DISPUTA.",
       "start": 7.58,
-      "end": 8.28
+      "end": 8.54
     },
     {
       "word": "É",
@@ -127,7 +127,7 @@
     {
       "word": "LARGADA.",
       "start": 9.12,
-      "end": 9.66
+      "end": 9.78
     },
     {
       "word": "A",
@@ -152,7 +152,7 @@
     {
       "word": "FRENTE,",
       "start": 10.84,
-      "end": 11.3
+      "end": 11.54
     },
     {
       "word": "ENQUANTO",
@@ -187,7 +187,7 @@
     {
       "word": "DEMORAR.",
       "start": 13.04,
-      "end": 13.5
+      "end": 13.96
     },
     {
       "word": "ELA",
@@ -197,7 +197,7 @@
     {
       "word": "BRINCA,",
       "start": 14.14,
-      "end": 14.62
+      "end": 14.78
     },
     {
       "word": "COME",
@@ -207,7 +207,7 @@
     {
       "word": "DESCANSA,",
       "start": 15.02,
-      "end": 15.74
+      "end": 15.9
     },
     {
       "word": "ATÉ",
@@ -237,7 +237,7 @@
     {
       "word": "CORRIDA.",
       "start": 17.14,
-      "end": 17.6
+      "end": 17.9
     },
     {
       "word": "MAS",
@@ -262,7 +262,7 @@
     {
       "word": "TARDE,",
       "start": 18.62,
-      "end": 19.0
+      "end": 19.22
     },
     {
       "word": "E",
@@ -292,7 +292,7 @@
     {
       "word": "DELA.",
       "start": 20.58,
-      "end": 20.98
+      "end": 21.3
     },
     {
       "word": "CORRER",
@@ -317,7 +317,7 @@
     {
       "word": "SOLUÇÃO.",
       "start": 22.14,
-      "end": 22.62
+      "end": 22.82
     },
     {
       "word": "A",
@@ -365,5 +365,7 @@
       "end": 25.2
     }
   ],
-  "full_text": "A LEBRE E A TARTARUGA. A TARTARUGA DESAFIA A LEBRE PARA UMA CORRIDA. ESTA, MESMO ACHANDO A PROPOSTA ABSURDA, ACEITA DISPUTA. É DADA A LARGADA. A TARTARUGA SAI NA FRENTE, ENQUANTO A LEBRE FAZ QUESTÃO DE DEMORAR. ELA BRINCA, COME DESCANSA, ATÉ QUE RESOLVEM CARAR A CORRIDA. MAS AÍ JÁ É TARDE, E A TARTARUGA CHEGA ANTES DELA. CORRER NÃO É A SOLUÇÃO. A PESSOA PRECA VIDA NÃO SE ATRASA NA SAÍDA."
+  "full_text": "A LEBRE E A TARTARUGA. A TARTARUGA DESAFIA A LEBRE PARA UMA CORRIDA. ESTA, MESMO ACHANDO A PROPOSTA ABSURDA, ACEITA DISPUTA. É DADA A LARGADA. A TARTARUGA SAI NA FRENTE, ENQUANTO A LEBRE FAZ QUESTÃO DE DEMORAR. ELA BRINCA, COME DESCANSA, ATÉ QUE RESOLVEM CARAR A CORRIDA. MAS AÍ JÁ É TARDE, E A TARTARUGA CHEGA ANTES DELA. CORRER NÃO É A SOLUÇÃO. A PESSOA PRECA VIDA NÃO SE ATRASA NA SAÍDA.",
+  "postprocessed": true,
+  "gaps_fixed": 14
 }

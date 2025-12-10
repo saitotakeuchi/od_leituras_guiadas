@@ -42,7 +42,7 @@
     {
       "word": "SAUDÁVEL.",
       "start": 2.84,
-      "end": 3.5
+      "end": 3.8
     },
     {
       "word": "APRENDER",
@@ -97,7 +97,7 @@
     {
       "word": "INTEIRA.",
       "start": 5.98,
-      "end": 6.48
+      "end": 6.8
     },
     {
       "word": "TANTO",
@@ -192,7 +192,7 @@
     {
       "word": "ENSAUDÁVEIS.",
       "start": 12.06,
-      "end": 12.82
+      "end": 13.22
     },
     {
       "word": "MAS",
@@ -242,7 +242,7 @@
     {
       "word": "NUTRITIVOS?",
       "start": 16.14,
-      "end": 16.92
+      "end": 17.32
     },
     {
       "word": "UMA",
@@ -327,7 +327,7 @@
     {
       "word": "EDUCATIVOS.",
       "start": 21.98,
-      "end": 22.8
+      "end": 23.2
     },
     {
       "word": "EXISTEM",
@@ -382,7 +382,7 @@
     {
       "word": "DELAS.",
       "start": 28.26,
-      "end": 28.78
+      "end": 29.16
     },
     {
       "word": "FOME",
@@ -397,7 +397,7 @@
     {
       "word": "QUÊ?",
       "start": 29.6,
-      "end": 29.86
+      "end": 30.08
     },
     {
       "word": "NESTE",
@@ -407,7 +407,7 @@
     {
       "word": "JOGO,",
       "start": 30.5,
-      "end": 30.84
+      "end": 31.06
     },
     {
       "word": "USUÁRIO",
@@ -487,7 +487,7 @@
     {
       "word": "DESCRIÇÃO,",
       "start": 36.98,
-      "end": 37.5
+      "end": 37.86
     },
     {
       "word": "SOMANDO",
@@ -512,7 +512,7 @@
     {
       "word": "ACERTOS.",
       "start": 39.36,
-      "end": 39.88
+      "end": 40.26
     },
     {
       "word": "JOGO",
@@ -537,7 +537,7 @@
     {
       "word": "ALIMENTOS,",
       "start": 41.38,
-      "end": 41.9
+      "end": 42.22
     },
     {
       "word": "ENQUANTO",
@@ -602,7 +602,7 @@
     {
       "word": "CORRE,",
       "start": 46.02,
-      "end": 46.46
+      "end": 46.64
     },
     {
       "word": "A",
@@ -660,5 +660,7 @@
       "end": 50.18
     }
   ],
-  "full_text": "JOGOS MOSTRAM AS CRIANÇAS COMO MANTER ALIMENTAÇÃO SAUDÁVEL. APRENDER A COMER BEM É UMA LIÇÃO PARA A VIDA INTEIRA. TANTO EM CASA QUANTO NA ESCOLA É IMPORTANTE QUE AS CRIANÇAS SIGAM UMA DIETA EQUILIBRADA PARA SE MANTER ENSAUDÁVEIS. MAS COMO ESTIMULAR ESSE PÚBLICO A CONSUMIR ALIMENTOS MAIS NUTRITIVOS? UMA IDEIA PARA DESPERTAR O CUIDADO COM A ALIMENTAÇÃO É POR MEIO DA UTILIZAÇÃO DE JOGOS EDUCATIVOS. EXISTEM OPÇÕES DISPONÍVEIS GRATUITAMENTE PELA INTERNET E OFERECEMOS ALGUMAS SUGESTÕES DELAS. FOME DE QUÊ? NESTE JOGO, USUÁRIO RECEBE INFORMAÇÕES SOBRE UM DETERMINADO ALIMENTO E PRECISA ESCOLHER QUAL OPÇÃO CORRESPONDE A CADA DESCRIÇÃO, SOMANDO ASSIM ERROS E ACERTOS. JOGO DA PIRÂMIDE DOS ALIMENTOS, ENQUANTO DIVERSOS ALIMENTOS PASSAM POR UMA ESTEIRA E O CONTADOR DE TEMPO CORRE, A CRIANÇA DEVE ESCOLHER EM QUAL CATEGORIA CADA UM SE ENCAIXA."
+  "full_text": "JOGOS MOSTRAM AS CRIANÇAS COMO MANTER ALIMENTAÇÃO SAUDÁVEL. APRENDER A COMER BEM É UMA LIÇÃO PARA A VIDA INTEIRA. TANTO EM CASA QUANTO NA ESCOLA É IMPORTANTE QUE AS CRIANÇAS SIGAM UMA DIETA EQUILIBRADA PARA SE MANTER ENSAUDÁVEIS. MAS COMO ESTIMULAR ESSE PÚBLICO A CONSUMIR ALIMENTOS MAIS NUTRITIVOS? UMA IDEIA PARA DESPERTAR O CUIDADO COM A ALIMENTAÇÃO É POR MEIO DA UTILIZAÇÃO DE JOGOS EDUCATIVOS. EXISTEM OPÇÕES DISPONÍVEIS GRATUITAMENTE PELA INTERNET E OFERECEMOS ALGUMAS SUGESTÕES DELAS. FOME DE QUÊ? NESTE JOGO, USUÁRIO RECEBE INFORMAÇÕES SOBRE UM DETERMINADO ALIMENTO E PRECISA ESCOLHER QUAL OPÇÃO CORRESPONDE A CADA DESCRIÇÃO, SOMANDO ASSIM ERROS E ACERTOS. JOGO DA PIRÂMIDE DOS ALIMENTOS, ENQUANTO DIVERSOS ALIMENTOS PASSAM POR UMA ESTEIRA E O CONTADOR DE TEMPO CORRE, A CRIANÇA DEVE ESCOLHER EM QUAL CATEGORIA CADA UM SE ENCAIXA.",
+  "postprocessed": true,
+  "gaps_fixed": 12
 }

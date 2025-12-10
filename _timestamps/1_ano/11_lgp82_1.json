@@ -17,7 +17,7 @@
     {
       "word": "AUTOR,",
       "start": 0.6,
-      "end": 0.98
+      "end": 1.26
     },
     {
       "word": "EM",
@@ -57,7 +57,7 @@
     {
       "word": "JANEIRO,",
       "start": 3.1,
-      "end": 3.48
+      "end": 3.72
     },
     {
       "word": "EM",
@@ -67,7 +67,7 @@
     {
       "word": "1975.",
       "start": 3.82,
-      "end": 5.28
+      "end": 5.8
     },
     {
       "word": "ESTUDOL",
@@ -127,7 +127,7 @@
     {
       "word": "CRIANÇAS,",
       "start": 9.3,
-      "end": 9.82
+      "end": 10.12
     },
     {
       "word": "JOVENS",
@@ -142,7 +142,7 @@
     {
       "word": "ADULTOS.",
       "start": 10.6,
-      "end": 11.18
+      "end": 11.48
     },
     {
       "word": "QUANDO",
@@ -157,7 +157,7 @@
     {
       "word": "PEQUENO,",
       "start": 11.86,
-      "end": 12.4
+      "end": 12.56
     },
     {
       "word": "ARRANCOU",
@@ -200,5 +200,7 @@
       "end": 15.02
     }
   ],
-  "full_text": "SOBRE O AUTOR, EM RIQUE RODRIGUES NASCEU NO RIO DE JANEIRO, EM 1975. ESTUDOL E TERATURA POR MUITOS ANOS E PUBLICOU 15 LIVROS PARA CRIANÇAS, JOVENS E ADULTOS. QUANDO ERA PEQUENO, ARRANCOU SOZINHO TODOS OS SEUS DENTES DE LEITE."
+  "full_text": "SOBRE O AUTOR, EM RIQUE RODRIGUES NASCEU NO RIO DE JANEIRO, EM 1975. ESTUDOL E TERATURA POR MUITOS ANOS E PUBLICOU 15 LIVROS PARA CRIANÇAS, JOVENS E ADULTOS. QUANDO ERA PEQUENO, ARRANCOU SOZINHO TODOS OS SEUS DENTES DE LEITE.",
+  "postprocessed": true,
+  "gaps_fixed": 6
 }

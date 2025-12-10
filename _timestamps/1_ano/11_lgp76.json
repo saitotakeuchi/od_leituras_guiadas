@@ -17,7 +17,7 @@
     {
       "word": "INTEIRA,",
       "start": 0.46,
-      "end": 1.06
+      "end": 1.3
     },
     {
       "word": "A",
@@ -42,7 +42,7 @@
     {
       "word": "FEIRA,",
       "start": 2.22,
-      "end": 2.6
+      "end": 2.84
     },
     {
       "word": "PRECISAVA",
@@ -57,7 +57,7 @@
     {
       "word": "FEIJÃO,",
       "start": 3.58,
-      "end": 4.1
+      "end": 4.36
     },
     {
       "word": "A",
@@ -82,7 +82,7 @@
     {
       "word": "FEIRA,",
       "start": 5.18,
-      "end": 5.56
+      "end": 5.8
     },
     {
       "word": "PARA",
@@ -102,7 +102,7 @@
     {
       "word": "PIMENTÃO,",
       "start": 6.58,
-      "end": 7.14
+      "end": 7.4
     },
     {
       "word": "A",
@@ -127,7 +127,7 @@
     {
       "word": "FEIRA,",
       "start": 8.26,
-      "end": 8.64
+      "end": 8.86
     },
     {
       "word": "PARA",
@@ -162,7 +162,7 @@
     {
       "word": "PÃO.",
       "start": 10.1,
-      "end": 10.4
+      "end": 10.68
     },
     {
       "word": "A",
@@ -187,7 +187,7 @@
     {
       "word": "FEIRA,",
       "start": 11.42,
-      "end": 11.82
+      "end": 12.1
     },
     {
       "word": "POIS",
@@ -207,7 +207,7 @@
     {
       "word": "AGRIÃO,",
       "start": 12.92,
-      "end": 13.4
+      "end": 13.7
     },
     {
       "word": "A",
@@ -232,7 +232,7 @@
     {
       "word": "FEIRA,",
       "start": 14.52,
-      "end": 14.9
+      "end": 15.16
     },
     {
       "word": "TEM",
@@ -242,7 +242,7 @@
     {
       "word": "BANANA,",
       "start": 15.34,
-      "end": 15.66
+      "end": 16.1
     },
     {
       "word": "TEM",
@@ -252,7 +252,7 @@
     {
       "word": "MAMÃO,",
       "start": 16.32,
-      "end": 16.76
+      "end": 17.0
     },
     {
       "word": "SÁBADO",
@@ -272,7 +272,7 @@
     {
       "word": "FEIRA,",
       "start": 17.98,
-      "end": 18.34
+      "end": 18.6
     },
     {
       "word": "E",
@@ -295,5 +295,7 @@
       "end": 19.78
     }
   ],
-  "full_text": "A SEMANA INTEIRA, A SEGUNDA FOI A FEIRA, PRECISAVA DE FEIJÃO, A TERÇA FOI A FEIRA, PARA COMPRAR UM PIMENTÃO, A QUARTA FOI A FEIRA, PARA BUSCAR QUE HÁ ABO E PÃO. A QUINTA FOI A FEIRA, POIS GOSTAVA DE AGRIÃO, A SEXTA FOI A FEIRA, TEM BANANA, TEM MAMÃO, SÁBADO NÃO TEM FEIRA, E DOMINGO TAMBÉM NÃO."
+  "full_text": "A SEMANA INTEIRA, A SEGUNDA FOI A FEIRA, PRECISAVA DE FEIJÃO, A TERÇA FOI A FEIRA, PARA COMPRAR UM PIMENTÃO, A QUARTA FOI A FEIRA, PARA BUSCAR QUE HÁ ABO E PÃO. A QUINTA FOI A FEIRA, POIS GOSTAVA DE AGRIÃO, A SEXTA FOI A FEIRA, TEM BANANA, TEM MAMÃO, SÁBADO NÃO TEM FEIRA, E DOMINGO TAMBÉM NÃO.",
+  "postprocessed": true,
+  "gaps_fixed": 13
 }
