@@ -26,6 +26,10 @@
     // Get all text spans with timing data (word-by-word) - including title and text
     const textSpans = readingContent.querySelectorAll('span[data-start]');
 
+    // Calculate the effective duration based on the last word's end time
+    const lastSpan = textSpans[textSpans.length - 1];
+    const effectiveDuration = lastSpan ? parseFloat(lastSpan.dataset.end) : 0;
+
     // State
     let isPlaying = false;
 
@@ -39,14 +43,8 @@
 
     // Audio Events
     function setupAudioEvents() {
-        // Set progress bar max immediately if metadata is already loaded
-        if (audio.duration) {
-            progressBar.max = audio.duration;
-        }
-
-        audio.addEventListener('loadedmetadata', function() {
-            progressBar.max = audio.duration;
-        });
+        // Set progress bar max to the effective duration (last word end time)
+        progressBar.max = effectiveDuration;
 
         audio.addEventListener('timeupdate', function() {
             updateProgressBar();
@@ -128,16 +126,15 @@
                 audio.currentTime = Math.max(0, audio.currentTime - 5);
             }
             if (e.key === 'ArrowRight' && modalOverlay.hidden) {
-                audio.currentTime = Math.min(audio.duration, audio.currentTime + 5);
+                audio.currentTime = Math.min(effectiveDuration, audio.currentTime + 5);
             }
         });
     }
 
     // Update Progress Bar
     function updateProgressBar() {
-        if (audio.duration) {
-            progressBar.value = audio.currentTime;
-        }
+        // Clamp to effective duration so bar reaches 100% when reading ends
+        progressBar.value = Math.min(audio.currentTime, effectiveDuration);
     }
 
     // Update Play/Pause Button State
