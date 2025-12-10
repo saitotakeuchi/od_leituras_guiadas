@@ -7,7 +7,7 @@
     {
       "word": "PIRAQUARA,",
       "start": 0.1,
-      "end": 0.72
+      "end": 0.94
     },
     {
       "word": "25",
@@ -22,7 +22,7 @@
     {
       "word": "JANEIRO.",
       "start": 1.76,
-      "end": 2.26
+      "end": 2.56
     },
     {
       "word": "E",
@@ -32,17 +32,17 @@
     {
       "word": "AÍ,",
       "start": 2.7,
-      "end": 2.88
+      "end": 2.92
     },
     {
       "word": "AMIGÃO?",
       "start": 2.92,
-      "end": 3.46
+      "end": 3.82
     },
     {
       "word": "NOSSA,",
       "start": 3.82,
-      "end": 4.16
+      "end": 4.34
     },
     {
       "word": "HOJE",
@@ -67,7 +67,7 @@
     {
       "word": "COMIGO.",
       "start": 6.16,
-      "end": 6.56
+      "end": 6.96
     },
     {
       "word": "ESTOU",
@@ -92,7 +92,7 @@
     {
       "word": "CHOQUE.",
       "start": 7.88,
-      "end": 8.34
+      "end": 8.64
     },
     {
       "word": "EU",
@@ -122,12 +122,12 @@
     {
       "word": "SER.",
       "start": 9.56,
-      "end": 9.84
+      "end": 10.28
     },
     {
       "word": "SIM.",
       "start": 10.28,
-      "end": 10.48
+      "end": 10.9
     },
     {
       "word": "OU",
@@ -142,12 +142,12 @@
     {
       "word": "VI?",
       "start": 11.36,
-      "end": 11.72
+      "end": 12.1
     },
     {
       "word": "NÃO.",
       "start": 12.1,
-      "end": 12.36
+      "end": 12.74
     },
     {
       "word": "EU",
@@ -177,7 +177,7 @@
     {
       "word": "NASCER.",
       "start": 13.92,
-      "end": 14.32
+      "end": 14.62
     },
     {
       "word": "FOI",
@@ -187,7 +187,7 @@
     {
       "word": "ESPETACULAR.",
       "start": 14.8,
-      "end": 15.52
+      "end": 15.88
     },
     {
       "word": "AJUDEI",
@@ -237,7 +237,7 @@
     {
       "word": "VACINHA,",
       "start": 17.92,
-      "end": 18.52
+      "end": 18.64
     },
     {
       "word": "A",
@@ -252,7 +252,7 @@
     {
       "word": "MIMOSA.",
       "start": 19.04,
-      "end": 19.6
+      "end": 19.88
     },
     {
       "word": "EU",
@@ -287,7 +287,7 @@
     {
       "word": "VIVI.",
       "start": 21.32,
-      "end": 21.72
+      "end": 21.94
     },
     {
       "word": "QUE",
@@ -297,7 +297,7 @@
     {
       "word": "LEGAL.",
       "start": 22.1,
-      "end": 22.52
+      "end": 22.92
     },
     {
       "word": "NUNCA",
@@ -332,7 +332,7 @@
     {
       "word": "DIA.",
       "start": 24.54,
-      "end": 24.94
+      "end": 25.26
     },
     {
       "word": "POR",
@@ -342,7 +342,7 @@
     {
       "word": "ISSO,",
       "start": 25.44,
-      "end": 25.72
+      "end": 25.88
     },
     {
       "word": "VEM",
@@ -357,12 +357,12 @@
     {
       "word": "AQUI,",
       "start": 26.36,
-      "end": 26.58
+      "end": 26.72
     },
     {
       "word": "ESCREVER,",
       "start": 26.72,
-      "end": 27.04
+      "end": 27.28
     },
     {
       "word": "POIS",
@@ -392,7 +392,7 @@
     {
       "word": "GUARDADA.",
       "start": 28.92,
-      "end": 29.5
+      "end": 29.94
     },
     {
       "word": "VALEU",
@@ -407,7 +407,7 @@
     {
       "word": "AMANHÃ,",
       "start": 30.62,
-      "end": 31.08
+      "end": 31.34
     },
     {
       "word": "CAETANO.",
@@ -415,5 +415,7 @@
       "end": 31.96
     }
   ],
-  "full_text": "PIRAQUARA, 25 DE JANEIRO. E AÍ, AMIGÃO? NOSSA, HOJE ACONTECEU ALGO SURPREENDENTE COMIGO. ESTOU ATÉ AGORA EM CHOQUE. EU VI UM DESERRO NA SER. SIM. OU MELHOR VI? NÃO. EU AJUDEI UM ANIMAL A NASCER. FOI ESPETACULAR. AJUDEI MEU PAI A FAZER O PARTO DA NOSSA VACINHA, A QUERIDA MIMOSA. EU AINDA NÃO ACREDITO NO QUE VIVI. QUE LEGAL. NUNCA MAIS VOU ME ESQUECER DESSE DIA. POR ISSO, VEM CORRENDO AQUI, ESCREVER, POIS ESSA LEMBRANÇA MERECE SER GUARDADA. VALEU ATÉ AMANHÃ, CAETANO."
+  "full_text": "PIRAQUARA, 25 DE JANEIRO. E AÍ, AMIGÃO? NOSSA, HOJE ACONTECEU ALGO SURPREENDENTE COMIGO. ESTOU ATÉ AGORA EM CHOQUE. EU VI UM DESERRO NA SER. SIM. OU MELHOR VI? NÃO. EU AJUDEI UM ANIMAL A NASCER. FOI ESPETACULAR. AJUDEI MEU PAI A FAZER O PARTO DA NOSSA VACINHA, A QUERIDA MIMOSA. EU AINDA NÃO ACREDITO NO QUE VIVI. QUE LEGAL. NUNCA MAIS VOU ME ESQUECER DESSE DIA. POR ISSO, VEM CORRENDO AQUI, ESCREVER, POIS ESSA LEMBRANÇA MERECE SER GUARDADA. VALEU ATÉ AMANHÃ, CAETANO.",
+  "postprocessed": true,
+  "gaps_fixed": 23
 }

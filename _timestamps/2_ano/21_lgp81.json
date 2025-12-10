@@ -27,7 +27,7 @@
     {
       "word": "SOMBRA.",
       "start": 0.72,
-      "end": 1.18
+      "end": 1.46
     },
     {
       "word": "UM",
@@ -102,7 +102,7 @@
     {
       "word": "RIACHO,",
       "start": 5.08,
-      "end": 5.58
+      "end": 5.82
     },
     {
       "word": "VIU",
@@ -167,7 +167,7 @@
     {
       "word": "MAIOR.",
       "start": 8.66,
-      "end": 9.04
+      "end": 9.44
     },
     {
       "word": "SOUTOU",
@@ -232,7 +232,7 @@
     {
       "word": "ÁGUA.",
       "start": 12.6,
-      "end": 12.9
+      "end": 13.22
     },
     {
       "word": "O",
@@ -287,7 +287,7 @@
     {
       "word": "SOMBRA,",
       "start": 16.4,
-      "end": 16.84
+      "end": 17.1
     },
     {
       "word": "FICANDO",
@@ -320,5 +320,7 @@
       "end": 18.8
     }
   ],
-  "full_text": "O CÃO E A SOMBRA. UM CÃO LEVAVA NA BOCA UM PEDAÇO DE CARNE QUANDO AO PASSAR POR UM RIACHO, VIU NO FUNDO DA ÁGUA A SOMBRA DE UMA CARNE QUE PARECIA MAIOR. SOUTOU AQUELE VAVA NOS DENTES PARA TENTAR PEGAR A QUE VIA NA ÁGUA. O RIACHO LEVOU PARA SUA CORRENTESA VERDADEIRA CARNE E A SOMBRA, FICANDO CÃO SEM UMA NEM OUTRA."
+  "full_text": "O CÃO E A SOMBRA. UM CÃO LEVAVA NA BOCA UM PEDAÇO DE CARNE QUANDO AO PASSAR POR UM RIACHO, VIU NO FUNDO DA ÁGUA A SOMBRA DE UMA CARNE QUE PARECIA MAIOR. SOUTOU AQUELE VAVA NOS DENTES PARA TENTAR PEGAR A QUE VIA NA ÁGUA. O RIACHO LEVOU PARA SUA CORRENTESA VERDADEIRA CARNE E A SOMBRA, FICANDO CÃO SEM UMA NEM OUTRA.",
+  "postprocessed": true,
+  "gaps_fixed": 5
 }

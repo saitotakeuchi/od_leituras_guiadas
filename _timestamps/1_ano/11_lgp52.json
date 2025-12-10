@@ -37,7 +37,7 @@
     {
       "word": "COR?",
       "start": 1.64,
-      "end": 1.96
+      "end": 2.26
     },
     {
       "word": "O",
@@ -157,7 +157,7 @@
     {
       "word": "ANIMAL.",
       "start": 8.84,
-      "end": 9.24
+      "end": 9.58
     },
     {
       "word": "ISSO",
@@ -215,5 +215,7 @@
       "end": 13.64
     }
   ],
-  "full_text": "POR QUE OS CAMALHÕES MUDAM DE COR? O CAMALHÃO POSSUI CÉLULAS EM SUA PELE QUE SÃO CAPAZES DE MUDAR DE COR DE ACORDO COM AS REAÇÕES DO SISTEMA NERVOSO DO ANIMAL. ISSO ACONTECE PELA NECESSIDADE DE CICAMUFLAR E SE PROTEGER DE PREDADORES."
+  "full_text": "POR QUE OS CAMALHÕES MUDAM DE COR? O CAMALHÃO POSSUI CÉLULAS EM SUA PELE QUE SÃO CAPAZES DE MUDAR DE COR DE ACORDO COM AS REAÇÕES DO SISTEMA NERVOSO DO ANIMAL. ISSO ACONTECE PELA NECESSIDADE DE CICAMUFLAR E SE PROTEGER DE PREDADORES.",
+  "postprocessed": true,
+  "gaps_fixed": 2
 }

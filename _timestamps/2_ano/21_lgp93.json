@@ -12,7 +12,7 @@
     {
       "word": "2.",
       "start": 0.44,
-      "end": 0.74
+      "end": 1.04
     },
     {
       "word": "A",
@@ -37,7 +37,7 @@
     {
       "word": "IRVÍLIA.",
       "start": 2.08,
-      "end": 2.6
+      "end": 2.88
     },
     {
       "word": "DE",
@@ -47,7 +47,7 @@
     {
       "word": "MANHÃ,",
       "start": 3.06,
-      "end": 3.44
+      "end": 3.64
     },
     {
       "word": "TODOS",
@@ -77,7 +77,7 @@
     {
       "word": "DORMIDO.",
       "start": 5.4,
-      "end": 5.94
+      "end": 6.24
     },
     {
       "word": "APÉSSEMA",
@@ -102,7 +102,7 @@
     {
       "word": "PRINCESA.",
       "start": 7.92,
-      "end": 8.54
+      "end": 8.84
     },
     {
       "word": "MAL",
@@ -142,7 +142,7 @@
     {
       "word": "INTEIRA.",
       "start": 10.7,
-      "end": 11.26
+      "end": 11.6
     },
     {
       "word": "SABE",
@@ -177,7 +177,7 @@
     {
       "word": "CAMA?",
       "start": 13.06,
-      "end": 13.48
+      "end": 13.84
     },
     {
       "word": "ERA",
@@ -247,7 +247,7 @@
     {
       "word": "AZUIS.",
       "start": 17.36,
-      "end": 17.76
+      "end": 18.16
     },
     {
       "word": "É",
@@ -262,7 +262,7 @@
     {
       "word": "MEDONHO.",
       "start": 18.7,
-      "end": 19.38
+      "end": 19.64
     },
     {
       "word": "ENTÃO",
@@ -277,7 +277,7 @@
     {
       "word": "CLARO,",
       "start": 20.14,
-      "end": 20.5
+      "end": 20.8
     },
     {
       "word": "TODOS",
@@ -322,7 +322,7 @@
     {
       "word": "PRINCESA,",
       "start": 23.1,
-      "end": 23.82
+      "end": 23.94
     },
     {
       "word": "PORQUE",
@@ -387,7 +387,7 @@
     {
       "word": "ADREDONS.",
       "start": 27.4,
-      "end": 28.0
+      "end": 28.4
     },
     {
       "word": "SÓ",
@@ -442,7 +442,7 @@
     {
       "word": "SENSÍVEL.",
       "start": 31.38,
-      "end": 32.06
+      "end": 32.4
     },
     {
       "word": "DE",
@@ -457,7 +457,7 @@
     {
       "word": "DISSO,",
       "start": 32.76,
-      "end": 33.1
+      "end": 33.26
     },
     {
       "word": "O",
@@ -487,7 +487,7 @@
     {
       "word": "ELA.",
       "start": 34.26,
-      "end": 34.6
+      "end": 34.9
     },
     {
       "word": "POIS",
@@ -535,5 +535,7 @@
       "end": 37.34
     }
   ],
-  "full_text": "PARTI 2. A PRINCESA E A IRVÍLIA. DE MANHÃ, TODOS PERGUNTARAM COMO ELA HAVIA DORMIDO. APÉSSEMA MENTE RESPONDEU A PRINCESA. MAL CONSEGUI PREGAR O OLHO À NOITE INTEIRA. SABE DEUS O QUE HAVIA NAQUELA CAMA? ERA UMA COISA TÃO DURA QUE FIQUEI TODA CHEIA DE MANCHAS PRETAS E AZUIS. É REALMENTE MEDONHO. ENTÃO É CLARO, TODOS PUDERAM VER QUE ELA ERA REALMENTE UMA PRINCESA, PORQUE TINHA SENTIDO A IRVÍLIA ATRAVÉS DE 20 COLCHÕES E DE 20 ADREDONS. SÓ UMA VERDADEIRA PRINCESA PODIA TER A PELE ASSIM TÃO SENSÍVEL. DE ANTES DISSO, O PRÍNCIPE SE CASOU COM ELA. POIS AGORA SABIA QUE TINHA UMA PRINCESA DE VERDADE."
+  "full_text": "PARTI 2. A PRINCESA E A IRVÍLIA. DE MANHÃ, TODOS PERGUNTARAM COMO ELA HAVIA DORMIDO. APÉSSEMA MENTE RESPONDEU A PRINCESA. MAL CONSEGUI PREGAR O OLHO À NOITE INTEIRA. SABE DEUS O QUE HAVIA NAQUELA CAMA? ERA UMA COISA TÃO DURA QUE FIQUEI TODA CHEIA DE MANCHAS PRETAS E AZUIS. É REALMENTE MEDONHO. ENTÃO É CLARO, TODOS PUDERAM VER QUE ELA ERA REALMENTE UMA PRINCESA, PORQUE TINHA SENTIDO A IRVÍLIA ATRAVÉS DE 20 COLCHÕES E DE 20 ADREDONS. SÓ UMA VERDADEIRA PRINCESA PODIA TER A PELE ASSIM TÃO SENSÍVEL. DE ANTES DISSO, O PRÍNCIPE SE CASOU COM ELA. POIS AGORA SABIA QUE TINHA UMA PRINCESA DE VERDADE.",
+  "postprocessed": true,
+  "gaps_fixed": 15
 }

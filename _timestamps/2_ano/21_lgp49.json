@@ -22,7 +22,7 @@
     {
       "word": "SOLIDÁRIO.",
       "start": 1.14,
-      "end": 1.78
+      "end": 2.1
     },
     {
       "word": "VOCÊ",
@@ -47,7 +47,7 @@
     {
       "word": "ESPECIAL.",
       "start": 3.24,
-      "end": 3.82
+      "end": 4.22
     },
     {
       "word": "A",
@@ -102,7 +102,7 @@
     {
       "word": "SOLIDÁRIO.",
       "start": 7.42,
-      "end": 8.06
+      "end": 8.36
     },
     {
       "word": "VENHA",
@@ -152,7 +152,7 @@
     {
       "word": "BRINQUEDOS,",
       "start": 11.74,
-      "end": 12.46
+      "end": 12.6
     },
     {
       "word": "ARTIGOS",
@@ -182,7 +182,7 @@
     {
       "word": "MAIS.",
       "start": 14.26,
-      "end": 14.64
+      "end": 15.08
     },
     {
       "word": "A",
@@ -247,7 +247,7 @@
     {
       "word": "FAMÍLIAS.",
       "start": 18.62,
-      "end": 19.24
+      "end": 19.52
     },
     {
       "word": "PARA",
@@ -262,7 +262,7 @@
     {
       "word": "INFORMAÇÕES,",
       "start": 19.92,
-      "end": 20.58
+      "end": 20.98
     },
     {
       "word": "ENTRE",
@@ -292,17 +292,17 @@
     {
       "word": "VOLUNTÁRIOS.",
       "start": 22.2,
-      "end": 22.98
+      "end": 23.34
     },
     {
       "word": "INFORMAÇÕES.",
       "start": 23.34,
-      "end": 24.2
+      "end": 24.62
     },
     {
       "word": "DATA.",
       "start": 24.62,
-      "end": 25.06
+      "end": 25.24
     },
     {
       "word": "9",
@@ -317,12 +317,12 @@
     {
       "word": "12.",
       "start": 25.74,
-      "end": 26.16
+      "end": 26.5
     },
     {
       "word": "HORÁRIO.",
       "start": 26.5,
-      "end": 27.0
+      "end": 27.14
     },
     {
       "word": "DAS",
@@ -352,12 +352,12 @@
     {
       "word": "HORAS.",
       "start": 28.54,
-      "end": 29.0
+      "end": 29.5
     },
     {
       "word": "LOCAL.",
       "start": 29.5,
-      "end": 29.84
+      "end": 30.14
     },
     {
       "word": "QUADRA",
@@ -390,5 +390,7 @@
       "end": 32.0
     }
   ],
-  "full_text": "CONVITE PARA BASAR SOLIDÁRIO. VOCÊ É NOSSO CONVIDADO ESPECIAL. A ASSOCIAÇÃO DE MORADORES VILA FELIZ CONVIDA PARA O BASAR SOLIDÁRIO. VENHA NOS AJUDAR E APROVEITE PARA ENCONTRAR ROUPAS ACESSÓRIOS BRINQUEDOS, ARTIGOS DE DECORAÇÃO E MUITO MAIS. A ARRECADAÇÃO SERÁ DESTINADA A COMPRA DE ALIMENTOS PARA O NATAL DAS FAMÍLIAS. PARA MAIS INFORMAÇÕES, ENTRE EM CONTATO COM NOSSOS VOLUNTÁRIOS. INFORMAÇÕES. DATA. 9 DO 12. HORÁRIO. DAS 10 HORAS ÀS 17 HORAS. LOCAL. QUADRA DA ESCOLA SÃO MEU PÔDO."
+  "full_text": "CONVITE PARA BASAR SOLIDÁRIO. VOCÊ É NOSSO CONVIDADO ESPECIAL. A ASSOCIAÇÃO DE MORADORES VILA FELIZ CONVIDA PARA O BASAR SOLIDÁRIO. VENHA NOS AJUDAR E APROVEITE PARA ENCONTRAR ROUPAS ACESSÓRIOS BRINQUEDOS, ARTIGOS DE DECORAÇÃO E MUITO MAIS. A ARRECADAÇÃO SERÁ DESTINADA A COMPRA DE ALIMENTOS PARA O NATAL DAS FAMÍLIAS. PARA MAIS INFORMAÇÕES, ENTRE EM CONTATO COM NOSSOS VOLUNTÁRIOS. INFORMAÇÕES. DATA. 9 DO 12. HORÁRIO. DAS 10 HORAS ÀS 17 HORAS. LOCAL. QUADRA DA ESCOLA SÃO MEU PÔDO.",
+  "postprocessed": true,
+  "gaps_fixed": 14
 }

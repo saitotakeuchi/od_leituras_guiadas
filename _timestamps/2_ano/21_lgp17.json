@@ -17,7 +17,7 @@
     {
       "word": "É?",
       "start": 0.4,
-      "end": 0.56
+      "end": 0.72
     },
     {
       "word": "O",
@@ -32,7 +32,7 @@
     {
       "word": "É?",
       "start": 0.92,
-      "end": 1.1
+      "end": 1.34
     },
     {
       "word": "VEM",
@@ -72,7 +72,7 @@
     {
       "word": "NATUREZA.",
       "start": 3.68,
-      "end": 4.32
+      "end": 4.62
     },
     {
       "word": "UM",
@@ -97,7 +97,7 @@
     {
       "word": "VOANDO,",
       "start": 5.62,
-      "end": 5.98
+      "end": 6.16
     },
     {
       "word": "MOSTRANDO",
@@ -115,5 +115,7 @@
       "end": 7.18
     }
   ],
-  "full_text": "O QUE É? O QUE É? VEM AO MUNDO RASTEJANDO TUDO OBRA DA NATUREZA. UM BELO DIA SAIU VOANDO, MOSTRANDO MINHA BELEZA."
+  "full_text": "O QUE É? O QUE É? VEM AO MUNDO RASTEJANDO TUDO OBRA DA NATUREZA. UM BELO DIA SAIU VOANDO, MOSTRANDO MINHA BELEZA.",
+  "postprocessed": true,
+  "gaps_fixed": 4
 }

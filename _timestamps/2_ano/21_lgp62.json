@@ -17,7 +17,7 @@
     {
       "word": "CHEIROS",
       "start": 0.96,
-      "end": 1.42
+      "end": 1.84
     },
     {
       "word": "COLECIONADOR",
@@ -37,7 +37,7 @@
     {
       "word": "TROCA",
       "start": 3.06,
-      "end": 3.58
+      "end": 3.88
     },
     {
       "word": "UM",
@@ -57,7 +57,7 @@
     {
       "word": "CIDADE",
       "start": 4.48,
-      "end": 4.92
+      "end": 5.36
     },
     {
       "word": "POR",
@@ -82,7 +82,7 @@
     {
       "word": "NEBLINA",
       "start": 6.12,
-      "end": 6.62
+      "end": 6.92
     },
     {
       "word": "UM",
@@ -102,7 +102,7 @@
     {
       "word": "GASOLINA",
       "start": 7.56,
-      "end": 8.1
+      "end": 8.46
     },
     {
       "word": "POR",
@@ -132,7 +132,7 @@
     {
       "word": "FINA",
       "start": 9.54,
-      "end": 9.98
+      "end": 10.22
     },
     {
       "word": "UM",
@@ -152,7 +152,7 @@
     {
       "word": "CIMENTO",
       "start": 10.86,
-      "end": 11.36
+      "end": 11.7
     },
     {
       "word": "POR",
@@ -185,5 +185,7 @@
       "end": 13.44
     }
   ],
-  "full_text": "COLECIONADOR DE CHEIROS COLECIONADOR DE CHEIROS TROCA UM CHEIRO DE CIDADE POR UM CHEIRO DE NEBLINA UM CHEIRO DE GASOLINA POR UM CHEIRO DE CHUVA FINA UM CHEIRO DE CIMENTO POR UM CHEIRO DE ORVALHO NOVENTO"
+  "full_text": "COLECIONADOR DE CHEIROS COLECIONADOR DE CHEIROS TROCA UM CHEIRO DE CIDADE POR UM CHEIRO DE NEBLINA UM CHEIRO DE GASOLINA POR UM CHEIRO DE CHUVA FINA UM CHEIRO DE CIMENTO POR UM CHEIRO DE ORVALHO NOVENTO",
+  "postprocessed": true,
+  "gaps_fixed": 7
 }

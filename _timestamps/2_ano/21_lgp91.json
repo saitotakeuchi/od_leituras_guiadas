@@ -12,7 +12,7 @@
     {
       "word": "1,",
       "start": 0.5,
-      "end": 0.72
+      "end": 0.98
     },
     {
       "word": "A",
@@ -37,7 +37,7 @@
     {
       "word": "IRVÍLIA,",
       "start": 1.92,
-      "end": 2.42
+      "end": 2.6
     },
     {
       "word": "ERA",
@@ -62,7 +62,7 @@
     {
       "word": "PRÍNCIPE.",
       "start": 3.42,
-      "end": 3.92
+      "end": 4.22
     },
     {
       "word": "ELE",
@@ -92,7 +92,7 @@
     {
       "word": "PRINCESA,",
       "start": 5.42,
-      "end": 6.1
+      "end": 6.22
     },
     {
       "word": "MAS",
@@ -127,7 +127,7 @@
     {
       "word": "VERDADE.",
       "start": 7.72,
-      "end": 8.18
+      "end": 8.6
     },
     {
       "word": "POR",
@@ -182,7 +182,7 @@
     {
       "word": "SIM,",
       "start": 11.12,
-      "end": 11.42
+      "end": 11.64
     },
     {
       "word": "MAS",
@@ -217,7 +217,7 @@
     {
       "word": "ERRADO.",
       "start": 13.28,
-      "end": 13.66
+      "end": 14.0
     },
     {
       "word": "UMA",
@@ -227,7 +227,7 @@
     {
       "word": "NOITE,",
       "start": 14.16,
-      "end": 14.58
+      "end": 14.82
     },
     {
       "word": "UMA",
@@ -262,12 +262,12 @@
     {
       "word": "REINO.",
       "start": 17.04,
-      "end": 17.34
+      "end": 17.64
     },
     {
       "word": "INESPERADAMENTE,",
       "start": 17.64,
-      "end": 18.48
+      "end": 18.8
     },
     {
       "word": "OUVIU-SE",
@@ -337,7 +337,7 @@
     {
       "word": "ABRILO.",
       "start": 22.1,
-      "end": 22.6
+      "end": 22.84
     },
     {
       "word": "HAVIA",
@@ -367,7 +367,7 @@
     {
       "word": "FORA,",
       "start": 24.4,
-      "end": 24.78
+      "end": 25.04
     },
     {
       "word": "MAS",
@@ -392,7 +392,7 @@
     {
       "word": "DEUS,",
       "start": 25.78,
-      "end": 26.06
+      "end": 26.54
     },
     {
       "word": "QUE",
@@ -447,7 +447,7 @@
     {
       "word": "DAQUELES.",
       "start": 29.34,
-      "end": 29.92
+      "end": 30.26
     },
     {
       "word": "A",
@@ -492,7 +492,7 @@
     {
       "word": "ROUPAS.",
       "start": 32.4,
-      "end": 32.94
+      "end": 33.24
     },
     {
       "word": "JORRAVA",
@@ -547,7 +547,7 @@
     {
       "word": "CALCANHARES.",
       "start": 36.36,
-      "end": 37.18
+      "end": 37.54
     },
     {
       "word": "E",
@@ -597,12 +597,12 @@
     {
       "word": "PRINCESA.",
       "start": 40.06,
-      "end": 40.72
+      "end": 41.08
     },
     {
       "word": "BEM,",
       "start": 41.08,
-      "end": 41.22
+      "end": 41.38
     },
     {
       "word": "ISSO",
@@ -632,7 +632,7 @@
     {
       "word": "VER,",
       "start": 42.06,
-      "end": 42.4
+      "end": 42.6
     },
     {
       "word": "DAQUI",
@@ -647,7 +647,7 @@
     {
       "word": "POUCO,",
       "start": 42.96,
-      "end": 43.3
+      "end": 43.54
     },
     {
       "word": "PENSOU",
@@ -662,7 +662,7 @@
     {
       "word": "RAINHA.",
       "start": 44.0,
-      "end": 44.36
+      "end": 44.68
     },
     {
       "word": "NÃO",
@@ -682,7 +682,7 @@
     {
       "word": "PALAVRA,",
       "start": 45.32,
-      "end": 45.8
+      "end": 46.0
     },
     {
       "word": "MAS",
@@ -707,7 +707,7 @@
     {
       "word": "QUARTO,",
       "start": 46.78,
-      "end": 47.22
+      "end": 47.44
     },
     {
       "word": "DESFESA",
@@ -762,7 +762,7 @@
     {
       "word": "ESTRADO.",
       "start": 49.98,
-      "end": 50.48
+      "end": 50.86
     },
     {
       "word": "SOBRE",
@@ -857,7 +857,7 @@
     {
       "word": "COLCHÕES.",
       "start": 56.58,
-      "end": 57.16
+      "end": 57.58
     },
     {
       "word": "FOI",
@@ -900,5 +900,7 @@
       "end": 59.7
     }
   ],
-  "full_text": "PARTI 1, A PRINCESA E A IRVÍLIA, ERA UMA VEZ UM PRÍNCIPE. ELE DESEJAVA TER A SUA PRINCESA, MAS UMA QUE FOSSE PRINCESA DE VERDADE. POR ISSO VIAJOU PELO MUNDO TODA A PROCURA DE UMA SIM, MAS SEMPRE HAVIA ALGUMA COISA DE ERRADO. UMA NOITE, UMA TEMPESTADE TERRÍVEL DESABOU SOBRE O REINO. INESPERADAMENTE, OUVIU-SE UMA BATIDA NO PORTÃO DA CIDADE E O REI EM PESSOA FOI ABRILO. HAVIA UMA PRINCESA PARADA LÁ FORA, MAS VALE A ME DEUS, QUE FIGURA ERA DE BAIXO DAQUELE AGUACERO SOB UM TEMPO DAQUELES. A ÁGUA ESCORRIA PELO SEU CABELO E SUAS ROUPAS. JORRAVA PELAS PONTAS DOS SAPATOS E ENTRAVA DE NOVO PELOS CALCANHARES. E MESMO ASSIM ELA INSISTIU QUE ERA UMA VERDADEIRA PRINCESA. BEM, ISSO É O QUE VAMOS VER, DAQUI A POUCO, PENSOU A RAINHA. NÃO DISSE UMA PALAVRA, MAS FOI DIRETO AO QUARTO, DESFESA A CAMA TODA E PÔS UMA IRVÍLIA SOBRE O ESTRADO. SOBRE A IRVÍLIA EMPILHOU 20 COLCHÕES E DEPOIS ESTENDEU MAIS 20 ADREDONS DOS MAIS FOFOS POR CIMA DOS COLCHÕES. FOI ALI QUE A PRINCESA DORMIU AQUELA NOITE."
+  "full_text": "PARTI 1, A PRINCESA E A IRVÍLIA, ERA UMA VEZ UM PRÍNCIPE. ELE DESEJAVA TER A SUA PRINCESA, MAS UMA QUE FOSSE PRINCESA DE VERDADE. POR ISSO VIAJOU PELO MUNDO TODA A PROCURA DE UMA SIM, MAS SEMPRE HAVIA ALGUMA COISA DE ERRADO. UMA NOITE, UMA TEMPESTADE TERRÍVEL DESABOU SOBRE O REINO. INESPERADAMENTE, OUVIU-SE UMA BATIDA NO PORTÃO DA CIDADE E O REI EM PESSOA FOI ABRILO. HAVIA UMA PRINCESA PARADA LÁ FORA, MAS VALE A ME DEUS, QUE FIGURA ERA DE BAIXO DAQUELE AGUACERO SOB UM TEMPO DAQUELES. A ÁGUA ESCORRIA PELO SEU CABELO E SUAS ROUPAS. JORRAVA PELAS PONTAS DOS SAPATOS E ENTRAVA DE NOVO PELOS CALCANHARES. E MESMO ASSIM ELA INSISTIU QUE ERA UMA VERDADEIRA PRINCESA. BEM, ISSO É O QUE VAMOS VER, DAQUI A POUCO, PENSOU A RAINHA. NÃO DISSE UMA PALAVRA, MAS FOI DIRETO AO QUARTO, DESFESA A CAMA TODA E PÔS UMA IRVÍLIA SOBRE O ESTRADO. SOBRE A IRVÍLIA EMPILHOU 20 COLCHÕES E DEPOIS ESTENDEU MAIS 20 ADREDONS DOS MAIS FOFOS POR CIMA DOS COLCHÕES. FOI ALI QUE A PRINCESA DORMIU AQUELA NOITE.",
+  "postprocessed": true,
+  "gaps_fixed": 25
 }

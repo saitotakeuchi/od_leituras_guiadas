@@ -7,7 +7,7 @@
     {
       "word": "RELÂMPAGO.",
       "start": 0.14,
-      "end": 0.78
+      "end": 0.96
     },
     {
       "word": "O",
@@ -27,7 +27,7 @@
     {
       "word": "RELÂMPAGO.",
       "start": 1.82,
-      "end": 2.52
+      "end": 2.72
     },
     {
       "word": "ACORDOU-SE",
@@ -47,7 +47,7 @@
     {
       "word": "SARAMPO.",
       "start": 3.74,
-      "end": 4.22
+      "end": 4.48
     },
     {
       "word": "VEIO",
@@ -67,7 +67,7 @@
     {
       "word": "MANUELA.",
       "start": 5.08,
-      "end": 5.66
+      "end": 5.98
     },
     {
       "word": "DEVE",
@@ -82,7 +82,7 @@
     {
       "word": "VARICELA.",
       "start": 6.48,
-      "end": 7.16
+      "end": 7.5
     },
     {
       "word": "VEIO",
@@ -102,7 +102,7 @@
     {
       "word": "ADORA.",
       "start": 8.1,
-      "end": 8.56
+      "end": 8.76
     },
     {
       "word": "DEVE",
@@ -117,7 +117,7 @@
     {
       "word": "CATAPORA.",
       "start": 9.26,
-      "end": 10.0
+      "end": 10.32
     },
     {
       "word": "E",
@@ -137,7 +137,7 @@
     {
       "word": "FABILA.",
       "start": 10.76,
-      "end": 11.34
+      "end": 11.58
     },
     {
       "word": "PARECE",
@@ -152,7 +152,7 @@
     {
       "word": "VARILA.",
       "start": 12.22,
-      "end": 12.74
+      "end": 13.06
     },
     {
       "word": "POR",
@@ -162,7 +162,7 @@
     {
       "word": "FIM,",
       "start": 13.22,
-      "end": 13.48
+      "end": 13.62
     },
     {
       "word": "A",
@@ -172,7 +172,7 @@
     {
       "word": "VETERINÁRIA.",
       "start": 13.68,
-      "end": 14.38
+      "end": 14.68
     },
     {
       "word": "ACHO",
@@ -192,7 +192,7 @@
     {
       "word": "DISPARATE.",
       "start": 15.38,
-      "end": 16.08
+      "end": 16.42
     },
     {
       "word": "POIS",
@@ -217,7 +217,7 @@
     {
       "word": "MANCHOU.",
       "start": 17.38,
-      "end": 17.86
+      "end": 18.2
     },
     {
       "word": "FOI",
@@ -250,5 +250,7 @@
       "end": 19.54
     }
   ],
-  "full_text": "RELÂMPAGO. O MEU CACHORRO RELÂMPAGO. ACORDOU-SE COM O SARAMPO. VEIO A DONA MANUELA. DEVE SER VARICELA. VEIO A DONA ADORA. DEVE SER CATAPORA. E A DONA FABILA. PARECE SER VARILA. POR FIM, A VETERINÁRIA. ACHO TUDO UM DISPARATE. POIS O CACHORRO SE MANCHOU. FOI COM O MOLHO DE TOMATE."
+  "full_text": "RELÂMPAGO. O MEU CACHORRO RELÂMPAGO. ACORDOU-SE COM O SARAMPO. VEIO A DONA MANUELA. DEVE SER VARICELA. VEIO A DONA ADORA. DEVE SER CATAPORA. E A DONA FABILA. PARECE SER VARILA. POR FIM, A VETERINÁRIA. ACHO TUDO UM DISPARATE. POIS O CACHORRO SE MANCHOU. FOI COM O MOLHO DE TOMATE.",
+  "postprocessed": true,
+  "gaps_fixed": 13
 }

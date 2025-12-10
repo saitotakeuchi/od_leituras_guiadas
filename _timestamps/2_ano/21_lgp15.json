@@ -17,7 +17,7 @@
     {
       "word": "BRIGADEIRO,",
       "start": 0.7,
-      "end": 1.34
+      "end": 1.58
     },
     {
       "word": "EM",
@@ -27,7 +27,7 @@
     {
       "word": "GRADIENTES,",
       "start": 1.76,
-      "end": 2.48
+      "end": 2.82
     },
     {
       "word": "DUAS",
@@ -52,7 +52,7 @@
     {
       "word": "CONDENSADO.",
       "start": 4.1,
-      "end": 4.86
+      "end": 5.18
     },
     {
       "word": "8",
@@ -62,7 +62,7 @@
     {
       "word": "COLHERES,",
       "start": 5.34,
-      "end": 5.9
+      "end": 6.2
     },
     {
       "word": "SOPA",
@@ -87,7 +87,7 @@
     {
       "word": "PÓ.",
       "start": 7.42,
-      "end": 7.64
+      "end": 7.94
     },
     {
       "word": "4",
@@ -112,7 +112,7 @@
     {
       "word": "MANTEIGA,",
       "start": 9.42,
-      "end": 9.96
+      "end": 10.24
     },
     {
       "word": "CHOCOLATE",
@@ -122,12 +122,12 @@
     {
       "word": "GRANULADO.",
       "start": 10.78,
-      "end": 11.62
+      "end": 11.92
     },
     {
       "word": "PREPARO.",
       "start": 11.92,
-      "end": 12.54
+      "end": 12.8
     },
     {
       "word": "COLOQUE",
@@ -147,7 +147,7 @@
     {
       "word": "CONDENSADO,",
       "start": 13.54,
-      "end": 14.26
+      "end": 14.36
     },
     {
       "word": "O",
@@ -197,7 +197,7 @@
     {
       "word": "PANELA.",
       "start": 16.32,
-      "end": 16.8
+      "end": 17.12
     },
     {
       "word": "LEVE",
@@ -267,7 +267,7 @@
     {
       "word": "DELA.",
       "start": 20.14,
-      "end": 20.56
+      "end": 20.86
     },
     {
       "word": "ESPERE",
@@ -302,7 +302,7 @@
     {
       "word": "UNTADAS,",
       "start": 22.44,
-      "end": 23.0
+      "end": 23.26
     },
     {
       "word": "FAÇA",
@@ -337,12 +337,12 @@
     {
       "word": "GRANULADO.",
       "start": 25.16,
-      "end": 26.0
+      "end": 26.26
     },
     {
       "word": "RENDIMENTO,",
       "start": 26.26,
-      "end": 26.94
+      "end": 27.18
     },
     {
       "word": "50",
@@ -355,5 +355,7 @@
       "end": 28.4
     }
   ],
-  "full_text": "RECEITA DE BRIGADEIRO, EM GRADIENTES, DUAS LATAS DE LEITE CONDENSADO. 8 COLHERES, SOPA DE CHOCOLATE EM PÓ. 4 COLHERES SOPA DE MANTEIGA, CHOCOLATE GRANULADO. PREPARO. COLOQUE O LEITE CONDENSADO, O CHOCOLATE EM PÓ E A MANTEIGA EM UMA PANELA. LEVE AO FOGO E MEXE ATÉ QUE A MISTURA SE DESPRENDA DO FUNDO DELA. ESPERE ESFRIAR E COM AS MÃOS UNTADAS, FAÇA BOLINHAS E PASSE-AS NO CHOCOLATE GRANULADO. RENDIMENTO, 50 BRIGADEIROS."
+  "full_text": "RECEITA DE BRIGADEIRO, EM GRADIENTES, DUAS LATAS DE LEITE CONDENSADO. 8 COLHERES, SOPA DE CHOCOLATE EM PÓ. 4 COLHERES SOPA DE MANTEIGA, CHOCOLATE GRANULADO. PREPARO. COLOQUE O LEITE CONDENSADO, O CHOCOLATE EM PÓ E A MANTEIGA EM UMA PANELA. LEVE AO FOGO E MEXE ATÉ QUE A MISTURA SE DESPRENDA DO FUNDO DELA. ESPERE ESFRIAR E COM AS MÃOS UNTADAS, FAÇA BOLINHAS E PASSE-AS NO CHOCOLATE GRANULADO. RENDIMENTO, 50 BRIGADEIROS.",
+  "postprocessed": true,
+  "gaps_fixed": 14
 }

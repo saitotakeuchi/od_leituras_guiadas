@@ -27,7 +27,7 @@
     {
       "word": "FEIRA.",
       "start": 0.96,
-      "end": 1.34
+      "end": 1.68
     },
     {
       "word": "NÃO",
@@ -52,7 +52,7 @@
     {
       "word": "COMPRAR.",
       "start": 2.42,
-      "end": 2.78
+      "end": 3.18
     },
     {
       "word": "COMPROU",
@@ -67,7 +67,7 @@
     {
       "word": "CADEIRA.",
       "start": 3.66,
-      "end": 4.16
+      "end": 4.5
     },
     {
       "word": "PARA",
@@ -92,7 +92,7 @@
     {
       "word": "SENTAR.",
       "start": 5.36,
-      "end": 5.9
+      "end": 6.1
     },
     {
       "word": "A",
@@ -112,7 +112,7 @@
     {
       "word": "SENTOU.",
       "start": 6.88,
-      "end": 7.38
+      "end": 7.66
     },
     {
       "word": "A",
@@ -127,7 +127,7 @@
     {
       "word": "ESBORRAXOU.",
       "start": 8.24,
-      "end": 8.96
+      "end": 9.22
     },
     {
       "word": "COITADA",
@@ -142,7 +142,7 @@
     {
       "word": "COMADRE.",
       "start": 9.88,
-      "end": 10.48
+      "end": 10.76
     },
     {
       "word": "FOI",
@@ -165,5 +165,7 @@
       "end": 11.96
     }
   ],
-  "full_text": "O MACACO FOI A FEIRA. NÃO SABIA O QUE COMPRAR. COMPROU UMA CADEIRA. PARA A COMADRE SE SENTAR. A COMADRE SE SENTOU. A CADEIRA ESBORRAXOU. COITADA DA COMADRE. FOI PARAR NO CORREDOR."
+  "full_text": "O MACACO FOI A FEIRA. NÃO SABIA O QUE COMPRAR. COMPROU UMA CADEIRA. PARA A COMADRE SE SENTAR. A COMADRE SE SENTOU. A CADEIRA ESBORRAXOU. COITADA DA COMADRE. FOI PARAR NO CORREDOR.",
+  "postprocessed": true,
+  "gaps_fixed": 7
 }
