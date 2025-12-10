@@ -39,6 +39,11 @@
 
     // Audio Events
     function setupAudioEvents() {
+        // Set progress bar max immediately if metadata is already loaded
+        if (audio.duration) {
+            progressBar.max = audio.duration;
+        }
+
         audio.addEventListener('loadedmetadata', function() {
             progressBar.max = audio.duration;
         });
