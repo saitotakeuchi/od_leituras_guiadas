@@ -127,6 +127,7 @@ body {
 .title span.active {
     background-color: var(--color-purple);
     padding: 0.1em 0.2em;
+    margin: 0 -0.2em;  /* Negative margin compensates for padding */
     border-radius: 3px;
 }
 
@@ -157,8 +158,9 @@ body {
 .text-content span.active {
     background-color: var(--color-purple);
     color: var(--color-white);
-    padding: 0.1em 0.2em;
     border-radius: 3px;
+    padding: 0.1em 0.2em;
+    margin: 0 -0.2em;  /* Negative margin compensates for padding */
 }
 
 .text-content span.past {
