@@ -167,6 +167,11 @@ body {
     opacity: 0.7;
 }
 
+/* Text utilities */
+.nowrap {
+    white-space: nowrap;
+}
+
 /* Audio Controls */
 .audio-controls {
     position: fixed;

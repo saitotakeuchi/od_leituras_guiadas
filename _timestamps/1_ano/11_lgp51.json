@@ -27,12 +27,12 @@
     {
       "word": "PAPEL?",
       "start": 0.94,
-      "end": 1.74
+      "end": 1.24
     },
     {
       "word": "SIM,",
       "start": 1.74,
-      "end": 2.08
+      "end": 1.92
     },
     {
       "word": "FOI",
@@ -67,7 +67,7 @@
     {
       "word": "PAPEL.",
       "start": 3.3,
-      "end": 4.0
+      "end": 3.66
     },
     {
       "word": "É",
@@ -127,7 +127,7 @@
     {
       "word": "CAILU,",
       "start": 7.02,
-      "end": 7.86
+      "end": 7.64
     },
     {
       "word": "QUE",
@@ -195,7 +195,5 @@
       "end": 12.96
     }
   ],
-  "full_text": "DE ONDE VEIO O PAPEL? SIM, FOI NA CHINA QUE SURGIU O PAPEL. É QUASE CERTO QUE SEU INVENTOR TENHA SIDO UM CHINEI CHAMADO CAILU, QUE FOI ENCARREGADO PELO IMPERADOR DE DESENVOLVER E TESTAR VÁRIAS TECNOLOGIAS E EQUIPAMENTOS.",
-  "postprocessed": true,
-  "gaps_fixed": 4
+  "full_text": "DE ONDE VEIO O PAPEL? SIM, FOI NA CHINA QUE SURGIU O PAPEL. É QUASE CERTO QUE SEU INVENTOR TENHA SIDO UM CHINEI CHAMADO CAILU, QUE FOI ENCARREGADO PELO IMPERADOR DE DESENVOLVER E TESTAR VÁRIAS TECNOLOGIAS E EQUIPAMENTOS."
 }
