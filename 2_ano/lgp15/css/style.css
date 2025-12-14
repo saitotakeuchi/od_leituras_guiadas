@@ -1,14 +1,14 @@
 /* Fonts */
 @font-face {
-    font-family: 'Inter';
-    src: url('../assets/fonts/Inter_18pt-SemiBold.ttf') format('truetype');
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter_18pt-SemiBold.ttf") format("truetype");
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Inter';
-    src: url('../assets/fonts/Inter_18pt-Black.ttf') format('truetype');
+    font-family: "Inter";
+    src: url("../assets/fonts/Inter_18pt-Black.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
 }
@@ -35,7 +35,7 @@ html {
 }
 
 body {
-    font-family: 'Inter', "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     height: 100vh;
     overflow: hidden;
     display: flex;
@@ -68,7 +68,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     padding: 2rem;
-    padding-bottom: 200px;
+    padding-bottom: 320px;
     max-width: 900px;
     margin: 0 auto;
     width: 100%;
@@ -127,7 +127,7 @@ body {
 .title span.active {
     background-color: var(--color-purple);
     padding: 0.1em 0.2em;
-    margin: 0 -0.2em;  /* Negative margin compensates for padding */
+    margin: 0 -0.2em; /* Negative margin compensates for padding */
     border-radius: 3px;
 }
 
@@ -159,12 +159,17 @@ body {
     background-color: var(--color-purple);
     color: var(--color-white);
     padding: 0.1em 0.2em;
-    margin: 0 -0.2em;  /* Negative margin compensates for padding */
+    margin: 0 -0.2em; /* Negative margin compensates for padding */
     border-radius: 3px;
 }
 
 .text-content span.past {
     opacity: 0.7;
+}
+
+/* Text utilities */
+.subtitle {
+    margin-left: 2rem;
 }
 
 /* Audio Controls */
@@ -540,7 +545,7 @@ body {
 @media (max-width: 768px) {
     .container {
         padding: 1rem;
-        padding-bottom: 200px;
+        padding-bottom: 320px;
     }
 
     .reading-content {
@@ -579,7 +584,7 @@ body {
 
 @media (max-width: 480px) {
     .container {
-        padding-bottom: 200px; /* More space for wrapped controls */
+        padding-bottom: 320px; /* More space for wrapped controls */
     }
 
     .title {

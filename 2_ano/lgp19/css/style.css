@@ -68,7 +68,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     padding: 2rem;
-    padding-bottom: 200px;
+    padding-bottom: 320px;
     max-width: 900px;
     margin: 0 auto;
     width: 100%;
@@ -541,7 +541,7 @@ body {
 @media (max-width: 768px) {
     .container {
         padding: 1rem;
-        padding-bottom: 200px;
+        padding-bottom: 320px;
     }
 
     .reading-content {
@@ -580,7 +580,7 @@ body {
 
 @media (max-width: 480px) {
     .container {
-        padding-bottom: 200px; /* More space for wrapped controls */
+        padding-bottom: 320px; /* More space for wrapped controls */
     }
 
     .title {
